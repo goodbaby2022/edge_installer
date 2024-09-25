@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-09-24 18:06:59 (UTC-5)
+2024-09-24 19:36:00 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1fc1f77f-c8c6-4530-9294-7f4ca058ef4b?P1=1727824018&P2=404&P3=2&P4=WY2RJa%2fBrzARIJH0xy647FnI%2fgHI8javdHPFuZbhbK2BMxvRJZqGUNw9rgnxYMewk93L47lw601OAP7U6aIZig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1fc1f77f-c8c6-4530-9294-7f4ca058ef4b?P1=1727824018&P2=404&P3=2&P4=WY2RJa%2fBrzARIJH0xy647FnI%2fgHI8javdHPFuZbhbK2BMxvRJZqGUNw9rgnxYMewk93L47lw601OAP7U6aIZig%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2855.0  
-**文件大小**：166.92 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2855.0.exe  
-**校验值（Sha256）**：84f577b9914e016c2b7e68a36197cc7e893a3b78a160c578fc76e49c0432c5db  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a3f40e2d-064f-44b5-8200-f1329c1b755a?P1=1727788612&P2=404&P3=2&P4=jUa9slrXbilFx7AmMD%2fo%2fPfMQEj57Fvo8by6F8pgKPNVV6ONHKiDWNc%2fMFsc1akxxAg9DoOBA4MOBQCywVVpfw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a3f40e2d-064f-44b5-8200-f1329c1b755a?P1=1727788612&P2=404&P3=2&P4=jUa9slrXbilFx7AmMD%2fo%2fPfMQEj57Fvo8by6F8pgKPNVV6ONHKiDWNc%2fMFsc1akxxAg9DoOBA4MOBQCywVVpfw%3d%3d)  
+**最新版本**：131.0.2856.0  
+**文件大小**：166.87 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2856.0.exe  
+**校验值（Sha256）**：07bff8bf46ab048474ba941bb3e6935beb44e0b30cbc5703f14252ce7423163d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2cba59d7-8024-4e53-a68f-e4463948fd81?P1=1727829361&P2=404&P3=2&P4=WNUsHOtWMpxlcl%2bzLogO43L4CComecbmbQ70daj1MoWr9BJx6D8XQRFZcjKal%2b8aC65HrnYb9skpuSuZnHfxLQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2cba59d7-8024-4e53-a68f-e4463948fd81?P1=1727829361&P2=404&P3=2&P4=WNUsHOtWMpxlcl%2bzLogO43L4CComecbmbQ70daj1MoWr9BJx6D8XQRFZcjKal%2b8aC65HrnYb9skpuSuZnHfxLQ%3d%3d)  
 
