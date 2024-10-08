@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-08 08:15:55 (UTC-5)
+2024-10-08 09:07:50 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/61ce4fd9-d316-46ff-b990-701ffd179df8?P1=1728952543&P2=404&P3=2&P4=eD6Rg%2bM7tIH%2fXwg%2ft%2bkPI8bKxJkzD%2biAy%2fWVfX%2f3%2f1GiGDh6FTLXy%2b%2fu91cVX1K9mQOF3g2Phxezky4eGPcmKg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/61ce4fd9-d316-46ff-b990-701ffd179df8?P1=1728952543&P2=404&P3=2&P4=eD6Rg%2bM7tIH%2fXwg%2ft%2bkPI8bKxJkzD%2biAy%2fWVfX%2f3%2f1GiGDh6FTLXy%2b%2fu91cVX1K9mQOF3g2Phxezky4eGPcmKg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2882.0  
-**文件大小**：167.56 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2882.0.exe  
-**校验值（Sha256）**：1a626e7a455c43c8e57df091dd150bbcafab8d9c28aa427f3fd7996b7aec8e13  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35070935-409e-43ee-a797-093c404ca9b4?P1=1728952544&P2=404&P3=2&P4=LmYoF%2f2AD%2bF4qGebPL17u7v4jPCglgfEjdSZ92wh%2bPMQYitdlJ1uES46PbUUDDVfOMhyyoWgP5nhLYdRlrPTyA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/35070935-409e-43ee-a797-093c404ca9b4?P1=1728952544&P2=404&P3=2&P4=LmYoF%2f2AD%2bF4qGebPL17u7v4jPCglgfEjdSZ92wh%2bPMQYitdlJ1uES46PbUUDDVfOMhyyoWgP5nhLYdRlrPTyA%3d%3d)  
+**最新版本**：131.0.2883.0  
+**文件大小**：167.67 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2883.0.exe  
+**校验值（Sha256）**：65f7446f676040f69ee171a44cb6a0a44fd9bbd790351c65e6f3888d92aa4594  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d6bb7341-894b-4f4b-8e05-6f25203f3691?P1=1729001270&P2=404&P3=2&P4=PKsHUwOmKVDpmit1oW6WxN1ol%2bMaZclO3WjvtbZlJQ687d6kvD4YntJu%2b9RUu4l%2fVwwSdXQKmJbToyOh1BdQBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d6bb7341-894b-4f4b-8e05-6f25203f3691?P1=1729001270&P2=404&P3=2&P4=PKsHUwOmKVDpmit1oW6WxN1ol%2bMaZclO3WjvtbZlJQ687d6kvD4YntJu%2b9RUu4l%2fVwwSdXQKmJbToyOh1BdQBQ%3d%3d)  
 
