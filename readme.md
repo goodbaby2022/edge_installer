@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-14 10:07:56 (UTC-5)
+2024-10-14 11:08:01 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d17bda-35f9-4e35-94b8-457ea7202a05?P1=1729519660&P2=404&P3=2&P4=dRZKfuO8zIqzbEQf%2foLi6vDd4rqO1Jth6iQ3MPBeS75Az%2bWXxwp5Mo6rPjA%2f7sQeBhIN%2fsAWrxtvuTGmqVwH0A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d17bda-35f9-4e35-94b8-457ea7202a05?P1=1729519660&P2=404&P3=2&P4=dRZKfuO8zIqzbEQf%2foLi6vDd4rqO1Jth6iQ3MPBeS75Az%2bWXxwp5Mo6rPjA%2f7sQeBhIN%2fsAWrxtvuTGmqVwH0A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2891.0  
-**文件大小**：168.28 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2891.0.exe  
-**校验值（Sha256）**：949c9d114d16bbf473d21e4e1cac5347e521c97701199f29e2e1fcbe05391fa8  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e46f8fd-ea14-4388-9196-6995e152d8b1?P1=1729357333&P2=404&P3=2&P4=Zf8mPJu9upEZH7ixBWZyv4M9rH9453x5YeS6dBU6oNz2dZHoE%2bCcxFB45inYzxX%2fV8h1MAyK15zCNnamCFfBRA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e46f8fd-ea14-4388-9196-6995e152d8b1?P1=1729357333&P2=404&P3=2&P4=Zf8mPJu9upEZH7ixBWZyv4M9rH9453x5YeS6dBU6oNz2dZHoE%2bCcxFB45inYzxX%2fV8h1MAyK15zCNnamCFfBRA%3d%3d)  
+**最新版本**：131.0.2895.0  
+**文件大小**：168.35 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2895.0.exe  
+**校验值（Sha256）**：50385c4b7e68f3808b73f7065f80e9dbd79b6761cc99eca77728b8087e4ecc14  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c6b19f1-b634-4de2-aa11-340ce433dd5a?P1=1729526881&P2=404&P3=2&P4=Xy9sUF%2b0dL%2blcUbWwyVhStgUb6KrKjVnwO%2fuj8o56t6GqeW8NKQIzB47hWmo8%2br4DGvWAkhnh3%2bPsueWYooteQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c6b19f1-b634-4de2-aa11-340ce433dd5a?P1=1729526881&P2=404&P3=2&P4=Xy9sUF%2b0dL%2blcUbWwyVhStgUb6KrKjVnwO%2fuj8o56t6GqeW8NKQIzB47hWmo8%2br4DGvWAkhnh3%2bPsueWYooteQ%3d%3d)  
 
