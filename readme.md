@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-14 17:08:05 (UTC-5)
+2024-10-14 18:07:05 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d17bda-35f9-4e35-94b8-457ea7202a05?P1=1729519660&P2=404&P3=2&P4=dRZKfuO8zIqzbEQf%2foLi6vDd4rqO1Jth6iQ3MPBeS75Az%2bWXxwp5Mo6rPjA%2f7sQeBhIN%2fsAWrxtvuTGmqVwH0A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7d17bda-35f9-4e35-94b8-457ea7202a05?P1=1729519660&P2=404&P3=2&P4=dRZKfuO8zIqzbEQf%2foLi6vDd4rqO1Jth6iQ3MPBeS75Az%2bWXxwp5Mo6rPjA%2f7sQeBhIN%2fsAWrxtvuTGmqVwH0A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2895.0  
-**文件大小**：168.35 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2895.0.exe  
-**校验值（Sha256）**：50385c4b7e68f3808b73f7065f80e9dbd79b6761cc99eca77728b8087e4ecc14  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c6b19f1-b634-4de2-aa11-340ce433dd5a?P1=1729526881&P2=404&P3=2&P4=Xy9sUF%2b0dL%2blcUbWwyVhStgUb6KrKjVnwO%2fuj8o56t6GqeW8NKQIzB47hWmo8%2br4DGvWAkhnh3%2bPsueWYooteQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c6b19f1-b634-4de2-aa11-340ce433dd5a?P1=1729526881&P2=404&P3=2&P4=Xy9sUF%2b0dL%2blcUbWwyVhStgUb6KrKjVnwO%2fuj8o56t6GqeW8NKQIzB47hWmo8%2br4DGvWAkhnh3%2bPsueWYooteQ%3d%3d)  
+**最新版本**：131.0.2896.0  
+**文件大小**：168.49 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2896.0.exe  
+**校验值（Sha256）**：6623a1957c270ee0bf87a1a4ea9b5161bf5a4cdf59b9dfa7391804b9dfc90aa8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af11ceeb-b1f7-4824-b5b1-a7e268089417?P1=1729552025&P2=404&P3=2&P4=ELEAl7nggZVxUPfo8iBvV%2fSzR8JHi9zXkzHHpOvZXRTDXSY0sXBVTy70ESVf65rv7F0%2bHyITEiNKXye8ywVzRQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af11ceeb-b1f7-4824-b5b1-a7e268089417?P1=1729552025&P2=404&P3=2&P4=ELEAl7nggZVxUPfo8iBvV%2fSzR8JHi9zXkzHHpOvZXRTDXSY0sXBVTy70ESVf65rv7F0%2bHyITEiNKXye8ywVzRQ%3d%3d)  
 
