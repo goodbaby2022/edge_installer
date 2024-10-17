@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-16 18:07:14 (UTC-5)
+2024-10-16 19:35:59 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa482337-d7df-4999-b706-181d2d0be01c?P1=1729724834&P2=404&P3=2&P4=JU8XwrFe3B8A8zaE8UIdCfcWnDwISMopq4u9ccnMXxzfe8UcBqLCO5kbT0I4X8x%2fjGXHOGEd4nYA%2bDWFl1517g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa482337-d7df-4999-b706-181d2d0be01c?P1=1729724834&P2=404&P3=2&P4=JU8XwrFe3B8A8zaE8UIdCfcWnDwISMopq4u9ccnMXxzfe8UcBqLCO5kbT0I4X8x%2fjGXHOGEd4nYA%2bDWFl1517g%3d%3d)  
 
 ## canary ARM64
-**最新版本**：131.0.2898.0  
-**文件大小**：168.37 MB  
-**文件名**：MicrosoftEdge_ARM64_131.0.2898.0.exe  
-**校验值（Sha256）**：90c8967120f2e96a3e5a7ea127bf6547ab2f7df4e2905a21b2c9c3772f6715ef  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26789c74-6be3-4694-b778-a2445aa4cb5a?P1=1729643762&P2=404&P3=2&P4=MO5nmPRR4jRD6WanREQT6Fn4ftBiPct%2b%2bL4QzkbZbj7b%2bIge5h34pMHJR29rBDJKnoC2QMxKngQnC7lMWPTLrw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26789c74-6be3-4694-b778-a2445aa4cb5a?P1=1729643762&P2=404&P3=2&P4=MO5nmPRR4jRD6WanREQT6Fn4ftBiPct%2b%2bL4QzkbZbj7b%2bIge5h34pMHJR29rBDJKnoC2QMxKngQnC7lMWPTLrw%3d%3d)  
+**最新版本**：131.0.2900.0  
+**文件大小**：168.33 MB  
+**文件名**：MicrosoftEdge_ARM64_131.0.2900.0.exe  
+**校验值（Sha256）**：d4e5f1c5728e14f2ebbd56c47c7141a4aedac000a0e9cfe960d6a7bbf00b2f8b  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eabe94bd-1621-42ab-8850-e47b61f84020?P1=1729730160&P2=404&P3=2&P4=fw7aFXDHrQ51F2CosGyqI5EfxNHGwXbn0C1hV2t0vmuubZ8lEiKNft0Stk1g3rthc5qBD5iSMxAAsdupDg8Qfg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eabe94bd-1621-42ab-8850-e47b61f84020?P1=1729730160&P2=404&P3=2&P4=fw7aFXDHrQ51F2CosGyqI5EfxNHGwXbn0C1hV2t0vmuubZ8lEiKNft0Stk1g3rthc5qBD5iSMxAAsdupDg8Qfg%3d%3d)  
 
