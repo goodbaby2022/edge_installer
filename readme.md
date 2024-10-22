@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-22 08:17:21 (UTC-5)
+2024-10-22 09:07:26 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b37d0c75-078b-4052-b8e0-396fe5e9bd59?P1=1730207841&P2=404&P3=2&P4=k1rNjFbWheKZS00v20ntlu5k63ALqv7t1ZyGEIC%2f9V%2bCsiCdaI0xY7YOT5edTiGyWqN64SFA6buPY2CH%2fLZHbA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b37d0c75-078b-4052-b8e0-396fe5e9bd59?P1=1730207841&P2=404&P3=2&P4=k1rNjFbWheKZS00v20ntlu5k63ALqv7t1ZyGEIC%2f9V%2bCsiCdaI0xY7YOT5edTiGyWqN64SFA6buPY2CH%2fLZHbA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2909.0  
-**文件大小**：167.76 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2909.0.exe  
-**校验值（Sha256）**：18fbeb7a1b54018f6062f25ed227f5668bdd9e32bed6e3091f22f4da39616aee  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e85dd389-6c77-4d0e-a3ff-9393d0af620e?P1=1730124437&P2=404&P3=2&P4=OxN5xvrLp6lInYu8fU97HocIveobGIKe09wA44R9qt2w77ZrK99Jh4%2fD%2b066txF60Itz49eNRjjUM6KLd4vJbA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e85dd389-6c77-4d0e-a3ff-9393d0af620e?P1=1730124437&P2=404&P3=2&P4=OxN5xvrLp6lInYu8fU97HocIveobGIKe09wA44R9qt2w77ZrK99Jh4%2fD%2b066txF60Itz49eNRjjUM6KLd4vJbA%3d%3d)  
+**最新版本**：132.0.2911.0  
+**文件大小**：167.86 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2911.0.exe  
+**校验值（Sha256）**：f82ae6ecfe8a41cf0005e32b746b825c92c2c7a0616a4d4ff1f86007fce95683  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aadf01e5-c1c9-407a-aa33-bd2f5ba3046e?P1=1730210846&P2=404&P3=2&P4=k%2fvOMefzIPy4TAj%2bgbxYPC3qetvWpQPb7EeoXspKabU4oHxpLPPDEX0TNEf1mxVNtGOhhmPG3KyORAlbUJki7Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aadf01e5-c1c9-407a-aa33-bd2f5ba3046e?P1=1730210846&P2=404&P3=2&P4=k%2fvOMefzIPy4TAj%2bgbxYPC3qetvWpQPb7EeoXspKabU4oHxpLPPDEX0TNEf1mxVNtGOhhmPG3KyORAlbUJki7Q%3d%3d)  
 
