@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-23 08:16:34 (UTC-5)
+2024-10-23 09:07:23 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c5fccb5-f2b5-495e-b8b7-ecf43b2a711d?P1=1730294194&P2=404&P3=2&P4=bMoZm%2b4MH6nR4hjhrP4BLQXFi9RHel42vu2KeQqaGxNupwRtREJvUmfF%2f6bttZ2VK0%2bgpZQIoHFHQ%2fWNd2ab8Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c5fccb5-f2b5-495e-b8b7-ecf43b2a711d?P1=1730294194&P2=404&P3=2&P4=bMoZm%2b4MH6nR4hjhrP4BLQXFi9RHel42vu2KeQqaGxNupwRtREJvUmfF%2f6bttZ2VK0%2bgpZQIoHFHQ%2fWNd2ab8Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2912.0  
-**文件大小**：167.82 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2912.0.exe  
-**校验值（Sha256）**：02ea909eeb379afefcd0c8a8fa40dae2039cf41edcc7a272e63effb5fe88fd00  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/863a8f27-1ee5-4c26-8281-4177d58aea1c?P1=1730243307&P2=404&P3=2&P4=NH8hvQaHWug2zxwTcX%2fNp8Hda4Vw3RBBIou45%2fjAC%2fValgmkIzcZfXVc6kmUbIqJXvQIVTKtgJ%2b%2bSOCFq%2fpWSQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/863a8f27-1ee5-4c26-8281-4177d58aea1c?P1=1730243307&P2=404&P3=2&P4=NH8hvQaHWug2zxwTcX%2fNp8Hda4Vw3RBBIou45%2fjAC%2fValgmkIzcZfXVc6kmUbIqJXvQIVTKtgJ%2b%2bSOCFq%2fpWSQ%3d%3d)  
+**最新版本**：132.0.2913.0  
+**文件大小**：167.69 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2913.0.exe  
+**校验值（Sha256）**：c4dc216b4f5a7154320057a63fe2f76b7e49031196574677141dfdfdfbae0a23  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/81bc404b-90e0-4759-b2aa-62ae477f38fd?P1=1730297244&P2=404&P3=2&P4=RXCbq5AMDDNLtT7zcwbefabZeRm4r05g%2bnEWnGn6z0K27GrLRDBc2zkLUyafDoN3MB49%2fqaH5QpmZaAziD3eAA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/81bc404b-90e0-4759-b2aa-62ae477f38fd?P1=1730297244&P2=404&P3=2&P4=RXCbq5AMDDNLtT7zcwbefabZeRm4r05g%2bnEWnGn6z0K27GrLRDBc2zkLUyafDoN3MB49%2fqaH5QpmZaAziD3eAA%3d%3d)  
 
