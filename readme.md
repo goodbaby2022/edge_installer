@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-10-31 08:16:32 (UTC-5)
+2024-10-31 09:07:26 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3514f4e8-0ebb-4c54-ae62-d1e290c6d815?P1=1730902056&P2=404&P3=2&P4=TxZRFPcJeiGjqk9gh00pEq1grMN8BIiwxmoRArEdZ6RBUDz0K2%2fo450%2bGdMZy5Vh05TXCID5gDC8p5%2bc4kZlxw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3514f4e8-0ebb-4c54-ae62-d1e290c6d815?P1=1730902056&P2=404&P3=2&P4=TxZRFPcJeiGjqk9gh00pEq1grMN8BIiwxmoRArEdZ6RBUDz0K2%2fo450%2bGdMZy5Vh05TXCID5gDC8p5%2bc4kZlxw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2928.0  
-**文件大小**：167.59 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2928.0.exe  
-**校验值（Sha256）**：56156a31f58a837be6a9e9568a3ad067915136caa6fc5d1e33c58325ab528497  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/63db792e-dc77-4f66-8383-fa58b21b9b8b?P1=1730939804&P2=404&P3=2&P4=DOKKlhbUfmdvhMlG6WDq8HooOoWcZq%2fGrt3jMDsxIMCLL%2b0nVisJTZ%2fEXVOSPhj4mGBuF3HZAq3g%2f%2bSsGWoZ0g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/63db792e-dc77-4f66-8383-fa58b21b9b8b?P1=1730939804&P2=404&P3=2&P4=DOKKlhbUfmdvhMlG6WDq8HooOoWcZq%2fGrt3jMDsxIMCLL%2b0nVisJTZ%2fEXVOSPhj4mGBuF3HZAq3g%2f%2bSsGWoZ0g%3d%3d)  
+**最新版本**：132.0.2929.0  
+**文件大小**：167.74 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2929.0.exe  
+**校验值（Sha256）**：a647db5285a1539ae468ee3684e155f93631ec31c575665485e61c094097ac12  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b442f2f-afde-496c-93bd-4b4c56a89beb?P1=1730988446&P2=404&P3=2&P4=C7i7yQcGRcfn2FUO1yOAopvkVR0P7K%2fzGB%2bKGbQIQvOdeyWmZoF45tVLo1voApteCrYgOu3zc17QD5xxchAlGw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b442f2f-afde-496c-93bd-4b4c56a89beb?P1=1730988446&P2=404&P3=2&P4=C7i7yQcGRcfn2FUO1yOAopvkVR0P7K%2fzGB%2bKGbQIQvOdeyWmZoF45tVLo1voApteCrYgOu3zc17QD5xxchAlGw%3d%3d)  
 
