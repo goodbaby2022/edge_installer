@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-06 14:02:28 (UTC-5)
+2024-11-06 15:08:34 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -89,11 +89,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7218da55-c606-4676-8692-2268bacb1692?P1=1731366442&P2=404&P3=2&P4=PbsCakIskvzLz4k1vE2Y1S5QmFQHj19sWAT0wlB7Ez942GCvtSBKZRYWisX6EGbU1D8PgUkxYiied7jQnLzWAQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7218da55-c606-4676-8692-2268bacb1692?P1=1731366442&P2=404&P3=2&P4=PbsCakIskvzLz4k1vE2Y1S5QmFQHj19sWAT0wlB7Ez942GCvtSBKZRYWisX6EGbU1D8PgUkxYiied7jQnLzWAQ%3d%3d)  
 
 ## dev x86
-**最新版本**：132.0.2917.0  
-**文件大小**：149.92 MB  
-**文件名**：MicrosoftEdge_X86_132.0.2917.0.exe  
-**校验值（Sha256）**：826e885c5685c5e24a38f2468008a63315135766d24742a1cb966137c1dcae6e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed18c349-10e7-49fe-8242-395bdd3c61f0?P1=1731193740&P2=404&P3=2&P4=ih1tAREyZvHqvoyYHz3DtpF341bFmZMOBuXbMwfh8%2frgFdcF%2bPIN64l349pv0R7rxA%2bfGnpbCGBiHNuKdEcxZw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed18c349-10e7-49fe-8242-395bdd3c61f0?P1=1731193740&P2=404&P3=2&P4=ih1tAREyZvHqvoyYHz3DtpF341bFmZMOBuXbMwfh8%2frgFdcF%2bPIN64l349pv0R7rxA%2bfGnpbCGBiHNuKdEcxZw%3d%3d)  
+**最新版本**：132.0.2931.1  
+**文件大小**：149.88 MB  
+**文件名**：MicrosoftEdge_X86_132.0.2931.1.exe  
+**校验值（Sha256）**：601f0c2d1f62fc5f4180887e0b140d1ce2c372de9e5af40ea0bd9d63dca3d7e7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c8355c4a-77f8-45eb-99c8-1e5575f02b28?P1=1731528511&P2=404&P3=2&P4=imOgaWx6rtQTUQAj6UWWveDMYaQdNJ3lzVwucsKmmT9c51%2fA2Xa2KhdLTIN%2bcU%2f%2bKw5osUFCwGJKzPNBKEDp5g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c8355c4a-77f8-45eb-99c8-1e5575f02b28?P1=1731528511&P2=404&P3=2&P4=imOgaWx6rtQTUQAj6UWWveDMYaQdNJ3lzVwucsKmmT9c51%2fA2Xa2KhdLTIN%2bcU%2f%2bKw5osUFCwGJKzPNBKEDp5g%3d%3d)  
 
 ## dev x64
 **最新版本**：132.0.2931.1  
