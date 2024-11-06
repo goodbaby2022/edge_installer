@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-06 17:06:51 (UTC-5)
+2024-11-06 18:07:19 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f556e47-4ab7-4418-b69c-ff1bfe207651?P1=1731535611&P2=404&P3=2&P4=J3xBZ6wtutSC6H5lHbemmZ1NvShOhBlEye98Cz%2fEDR4TOXDHRd%2fligeSWoJWXh1QvnNqu07X9WKrTPuNRb5WVQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f556e47-4ab7-4418-b69c-ff1bfe207651?P1=1731535611&P2=404&P3=2&P4=J3xBZ6wtutSC6H5lHbemmZ1NvShOhBlEye98Cz%2fEDR4TOXDHRd%2fligeSWoJWXh1QvnNqu07X9WKrTPuNRb5WVQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2941.0  
-**文件大小**：168.14 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2941.0.exe  
-**校验值（Sha256）**：488a3ac18b7837ff11c3044ccb50eed93de71f6c1f74a9171bf7879ab396befd  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c6eca76-8f63-447b-b112-5bca35edb0dd?P1=1731506829&P2=404&P3=2&P4=FvAuTxH9Pk%2b5q31uoHPdEWAZncQDAQybg6Mh9HrlykZz4g9Tmy1oLscXUEicFarpU0o81FEB8XcWefhPh1Ogvw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4c6eca76-8f63-447b-b112-5bca35edb0dd?P1=1731506829&P2=404&P3=2&P4=FvAuTxH9Pk%2b5q31uoHPdEWAZncQDAQybg6Mh9HrlykZz4g9Tmy1oLscXUEicFarpU0o81FEB8XcWefhPh1Ogvw%3d%3d)  
+**最新版本**：132.0.2942.0  
+**文件大小**：167.98 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2942.0.exe  
+**校验值（Sha256）**：aa19a856db256657f685e25d248466b47c9bd5e8f57efddef2d7c27129bede93  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fe764d10-e54d-4f5f-8e3c-df29912cdd7b?P1=1731539240&P2=404&P3=2&P4=WrxMciVxa6rgHjKmDkXtsiAKOlw6iA7NiK2u7kxd4tiZpzi2zYu%2f0ltSj%2by4kXy4Yswlb7WUn7LNvSsUZjdMfA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fe764d10-e54d-4f5f-8e3c-df29912cdd7b?P1=1731539240&P2=404&P3=2&P4=WrxMciVxa6rgHjKmDkXtsiAKOlw6iA7NiK2u7kxd4tiZpzi2zYu%2f0ltSj%2by4kXy4Yswlb7WUn7LNvSsUZjdMfA%3d%3d)  
 
