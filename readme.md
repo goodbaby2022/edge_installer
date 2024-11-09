@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-08 18:07:51 (UTC-5)
+2024-11-08 19:34:40 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/58cfcbb8-6d6b-4189-87eb-19b1145731c3?P1=1731712071&P2=404&P3=2&P4=IWX7tyHwzSHHkfAF1OK6BtZlX0V6Btu8LgdaAIj43aWkCDJsVGeUzFThf8XA48BWuxaazz0Npxvh9KZ6v8hFlQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/58cfcbb8-6d6b-4189-87eb-19b1145731c3?P1=1731712071&P2=404&P3=2&P4=IWX7tyHwzSHHkfAF1OK6BtZlX0V6Btu8LgdaAIj43aWkCDJsVGeUzFThf8XA48BWuxaazz0Npxvh9KZ6v8hFlQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：132.0.2945.0  
-**文件大小**：168.14 MB  
-**文件名**：MicrosoftEdge_ARM64_132.0.2945.0.exe  
-**校验值（Sha256）**：db6653030105130e19b849e15823d16bf9870e3a83a98e2fa989d41239f9bfa3  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/15d3faed-8c51-4081-a5d2-81907e55a99b?P1=1731683233&P2=404&P3=2&P4=A8MCNVzFiwZWA9C0MnyZHDsDANHLSRFgGz5GWSarh2PY26BUMva%2f75uCvYfRbH30i3b84XpY9D6TA0pkgszM2w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/15d3faed-8c51-4081-a5d2-81907e55a99b?P1=1731683233&P2=404&P3=2&P4=A8MCNVzFiwZWA9C0MnyZHDsDANHLSRFgGz5GWSarh2PY26BUMva%2f75uCvYfRbH30i3b84XpY9D6TA0pkgszM2w%3d%3d)  
+**最新版本**：132.0.2946.0  
+**文件大小**：168.16 MB  
+**文件名**：MicrosoftEdge_ARM64_132.0.2946.0.exe  
+**校验值（Sha256）**：caaf1c4ad76ddd38f424f6e280ce38f65d9f2959db3eb88e876c16a8749bb5a0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/402a3514-a015-4850-a644-c481018c50b3?P1=1731717281&P2=404&P3=2&P4=AkW3kZkV5hpn0dX0VrltYrM4yUeCrIsb1TkI4V8dTDUds5QlQEYfLkHWyWvNZ%2bYz%2fdlL72%2boADmcAjkHS3JHBw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/402a3514-a015-4850-a644-c481018c50b3?P1=1731717281&P2=404&P3=2&P4=AkW3kZkV5hpn0dX0VrltYrM4yUeCrIsb1TkI4V8dTDUds5QlQEYfLkHWyWvNZ%2bYz%2fdlL72%2boADmcAjkHS3JHBw%3d%3d)  
 
