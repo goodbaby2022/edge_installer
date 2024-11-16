@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-15 18:07:19 (UTC-5)
+2024-11-15 19:37:55 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/616023e3-c06d-4b22-99a7-6700aeb16ec2?P1=1732022165&P2=404&P3=2&P4=iNuFGM64PzhCUilBhU%2f7JuZMAGxHZ0PryMGzKbR7GwdtKmbVe9CfZTEU%2fGCeQUx8QfrA8vPm3xFEopqPEsWiQA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/616023e3-c06d-4b22-99a7-6700aeb16ec2?P1=1732022165&P2=404&P3=2&P4=iNuFGM64PzhCUilBhU%2f7JuZMAGxHZ0PryMGzKbR7GwdtKmbVe9CfZTEU%2fGCeQUx8QfrA8vPm3xFEopqPEsWiQA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.2959.0  
-**文件大小**：168.6 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.2959.0.exe  
-**校验值（Sha256）**：6269fc8ba8ff7abda87ec0cf2c45399747425d36e184ede5b734ddbf8e1a5183  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eba4598d-e646-44f6-84d8-96671ec07bd9?P1=1732309623&P2=404&P3=2&P4=mTK8E8Jt5rD5kzaY7NhSjr%2bg9xoM3WFldyZGxgdPiF%2boTjfoF7HbPIJR7eAjwUI1Bshn%2f1TeGFls2W3z%2bYy0xA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eba4598d-e646-44f6-84d8-96671ec07bd9?P1=1732309623&P2=404&P3=2&P4=mTK8E8Jt5rD5kzaY7NhSjr%2bg9xoM3WFldyZGxgdPiF%2boTjfoF7HbPIJR7eAjwUI1Bshn%2f1TeGFls2W3z%2bYy0xA%3d%3d)  
+**最新版本**：133.0.2960.0  
+**文件大小**：168.59 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.2960.0.exe  
+**校验值（Sha256）**：7d74cce5ca45e7c912e906e0c0f7ed4ada6aa24e46eeee0f90dd5c6eef624581  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03ccb836-3fd3-48c2-8eee-b55006795c4f?P1=1732322275&P2=404&P3=2&P4=ANRr7ZdVPE0nsX6Iy%2fYsaQU%2fDOmsp9JQtAOlbXGTnwKOD8v3gBbMZaMWWQWG%2b5pM3Q4PSkQ54%2fxCx3Mtv%2bMyfw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03ccb836-3fd3-48c2-8eee-b55006795c4f?P1=1732322275&P2=404&P3=2&P4=ANRr7ZdVPE0nsX6Iy%2fYsaQU%2fDOmsp9JQtAOlbXGTnwKOD8v3gBbMZaMWWQWG%2b5pM3Q4PSkQ54%2fxCx3Mtv%2bMyfw%3d%3d)  
 
