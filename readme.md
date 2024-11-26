@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-11-26 09:07:58 (UTC-5)
+2024-11-26 10:08:20 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ceb91b0-10e9-4037-9803-b6e38f8ea714?P1=1733234877&P2=404&P3=2&P4=WrMSdXKAEMv%2bP8nRiKFhDmGcxgUBLk%2f9JmHFsxf8ndsIAmK9Jd7o3O0E2WdpIJV%2bXRV84WOy3zLmULO8TuaFMw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ceb91b0-10e9-4037-9803-b6e38f8ea714?P1=1733234877&P2=404&P3=2&P4=WrMSdXKAEMv%2bP8nRiKFhDmGcxgUBLk%2f9JmHFsxf8ndsIAmK9Jd7o3O0E2WdpIJV%2bXRV84WOy3zLmULO8TuaFMw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.2979.0  
-**文件大小**：169.17 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.2979.0.exe  
-**校验值（Sha256）**：28c9fce877277cc55d4f4b4313a475d6540d8cba2de6c336248cc77c336b8eb9  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/603e060a-f72b-4516-ad8c-2434a4b09c26?P1=1733186302&P2=404&P3=2&P4=MHmR8zz54tkwsMD9%2b7CiRpzEYOB8UyUb%2fefydwu4VQO%2bjHmUl5UifBCgObKwj4P2jrN96N%2bHrsXyjjYZLGsM8A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/603e060a-f72b-4516-ad8c-2434a4b09c26?P1=1733186302&P2=404&P3=2&P4=MHmR8zz54tkwsMD9%2b7CiRpzEYOB8UyUb%2fefydwu4VQO%2bjHmUl5UifBCgObKwj4P2jrN96N%2bHrsXyjjYZLGsM8A%3d%3d)  
+**最新版本**：133.0.2980.0  
+**文件大小**：169.21 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.2980.0.exe  
+**校验值（Sha256）**：0a2d429c664c16ee6162b0b5a497cbeafb24b8b5e778644437905ea5a9650e89  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/645eed2e-8d66-44fd-8085-784c090ecb82?P1=1733238500&P2=404&P3=2&P4=R8bB7BivaENUkHsI2ZLnKubCdAhyvIP9vc2K9zJ5haz3W6Xyi0OIaNmArpRjAPd7G7JQ0Fnyr8UqFuspa5zUtw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/645eed2e-8d66-44fd-8085-784c090ecb82?P1=1733238500&P2=404&P3=2&P4=R8bB7BivaENUkHsI2ZLnKubCdAhyvIP9vc2K9zJ5haz3W6Xyi0OIaNmArpRjAPd7G7JQ0Fnyr8UqFuspa5zUtw%3d%3d)  
 
