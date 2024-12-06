@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-06 09:07:28 (UTC-5)
+2024-12-06 10:08:10 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cc2cefe3-560d-4bb1-8bd3-7871ca7cafb1?P1=1734098848&P2=404&P3=2&P4=EnrHaJ6d0eBIEPZ0apG6HKcTQIckMzZZXSGsvHHGbOAyKMWkcS18YT7QT3V%2b80ZYBnoVWC7pKo01nhhlpOiIWg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cc2cefe3-560d-4bb1-8bd3-7871ca7cafb1?P1=1734098848&P2=404&P3=2&P4=EnrHaJ6d0eBIEPZ0apG6HKcTQIckMzZZXSGsvHHGbOAyKMWkcS18YT7QT3V%2b80ZYBnoVWC7pKo01nhhlpOiIWg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.2999.0  
-**文件大小**：169.59 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.2999.0.exe  
-**校验值（Sha256）**：f4638e3e641c232755cda6e4b03fc6bb36e75624912895645c2145a3bcb2a84a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97084083-aafe-49a7-b09b-d577756534f8?P1=1734056411&P2=404&P3=2&P4=UhizhomZVoQPe1J9iqXIW1uuFCE%2fpyOM6kz74GxWXzsn8%2fs1m2kd0jZuzh%2fP%2brQB0qeNFDV5pE3hS2%2fv6Dicyw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/97084083-aafe-49a7-b09b-d577756534f8?P1=1734056411&P2=404&P3=2&P4=UhizhomZVoQPe1J9iqXIW1uuFCE%2fpyOM6kz74GxWXzsn8%2fs1m2kd0jZuzh%2fP%2brQB0qeNFDV5pE3hS2%2fv6Dicyw%3d%3d)  
+**最新版本**：133.0.3000.0  
+**文件大小**：169.76 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3000.0.exe  
+**校验值（Sha256）**：a1b9de8f9de31c856673f42ae46ed2bf32431cc9812fd9a9b70dce1e907a25f0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03acab7d-2797-432b-ad0a-b11306b8d4d6?P1=1734102491&P2=404&P3=2&P4=NIhfQapMDL0cgaQMVa7i1yavgfm8rCKzRTZaGDswiEAZ%2fyCTNWV80vCPkSdOsQqpEz4dU5%2fEoNa3A%2fS82zPU9w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03acab7d-2797-432b-ad0a-b11306b8d4d6?P1=1734102491&P2=404&P3=2&P4=NIhfQapMDL0cgaQMVa7i1yavgfm8rCKzRTZaGDswiEAZ%2fyCTNWV80vCPkSdOsQqpEz4dU5%2fEoNa3A%2fS82zPU9w%3d%3d)  
 
