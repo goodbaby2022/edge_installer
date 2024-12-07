@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-07 11:08:03 (UTC-5)
+2024-12-07 12:02:19 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/54f0adc6-5f23-4a6c-84bb-7828ac2b54f0?P1=1734192483&P2=404&P3=2&P4=HRpTW5clzd2WytuhSNEvjg8xonbfJYuMzGJT6r3uxmINqaq2M%2fcbvarqwK7QF5hMxc7%2b6iLHv1Mq9vCv6mFmHA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/54f0adc6-5f23-4a6c-84bb-7828ac2b54f0?P1=1734192483&P2=404&P3=2&P4=HRpTW5clzd2WytuhSNEvjg8xonbfJYuMzGJT6r3uxmINqaq2M%2fcbvarqwK7QF5hMxc7%2b6iLHv1Mq9vCv6mFmHA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3001.0  
-**文件大小**：170.34 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3001.0.exe  
-**校验值（Sha256）**：14e4beb45b6ca66880cc8cafd07be3051bd600d8aff95c1bc8de3459cb0ee5da  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aae2d558-9d16-4ec6-a275-eb7c93904575?P1=1734131311&P2=404&P3=2&P4=YqclbD0AVqeEzl97eB8bLWao%2fsbDXVhMQ3d7HN4Y%2bbWqow7S3wcn6c9NykRydeFbAaBAPr1wNdI%2f%2fTX%2fFu%2fEZw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aae2d558-9d16-4ec6-a275-eb7c93904575?P1=1734131311&P2=404&P3=2&P4=YqclbD0AVqeEzl97eB8bLWao%2fsbDXVhMQ3d7HN4Y%2bbWqow7S3wcn6c9NykRydeFbAaBAPr1wNdI%2f%2fTX%2fFu%2fEZw%3d%3d)  
+**最新版本**：133.0.3002.0  
+**文件大小**：170.43 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3002.0.exe  
+**校验值（Sha256）**：de0b59bb9854f6956c2337d61bc340f176c12d14e16a947267d31adf6078cb4c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c32bbf9-d4ba-45cb-a3bc-e38caaec721b?P1=1734195739&P2=404&P3=2&P4=k8YYMNeZYVs%2bAfZrUEJtOLTUbGl4whmKnbPBXAWdcpfoRX1GYa3sUZJGVK6Z%2bOi290huczPog2AmzG1hiXaV0w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c32bbf9-d4ba-45cb-a3bc-e38caaec721b?P1=1734195739&P2=404&P3=2&P4=k8YYMNeZYVs%2bAfZrUEJtOLTUbGl4whmKnbPBXAWdcpfoRX1GYa3sUZJGVK6Z%2bOi290huczPog2AmzG1hiXaV0w%3d%3d)  
 
