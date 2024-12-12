@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-12 09:07:38 (UTC-5)
+2024-12-12 10:08:22 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/768e918d-e00f-47f2-9192-5f4bf35c6536?P1=1734617258&P2=404&P3=2&P4=Tn1a2PPO2bO7sqQqEFXPh7Asvts6hYrnKoVLf50vV3p3auYum7JVxPk21O69knArsZK92Y9b4qMee4b8bxeFEg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/768e918d-e00f-47f2-9192-5f4bf35c6536?P1=1734617258&P2=404&P3=2&P4=Tn1a2PPO2bO7sqQqEFXPh7Asvts6hYrnKoVLf50vV3p3auYum7JVxPk21O69knArsZK92Y9b4qMee4b8bxeFEg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3011.0  
-**文件大小**：169.87 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3011.0.exe  
-**校验值（Sha256）**：b614b1d71c1d6e91c0a3532bb67717cea717d7d34fa7d448219cb3bce9c89be0  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b44133cd-eea2-4a64-abbf-d4499f1b93d4?P1=1734568771&P2=404&P3=2&P4=Q7xb%2flgoBlf5As7FzbGylA4Do1m%2f5i2f8RG5Bk3KRU5nTmAtD%2bakYNDpCSDnsuUxZAcMNorCSp5q858kRRJiWw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b44133cd-eea2-4a64-abbf-d4499f1b93d4?P1=1734568771&P2=404&P3=2&P4=Q7xb%2flgoBlf5As7FzbGylA4Do1m%2f5i2f8RG5Bk3KRU5nTmAtD%2bakYNDpCSDnsuUxZAcMNorCSp5q858kRRJiWw%3d%3d)  
+**最新版本**：133.0.3012.0  
+**文件大小**：169.96 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3012.0.exe  
+**校验值（Sha256）**：e76d1bf982115426d53c443fa743cb9e3a65ec7e2337f83d9a01f71272125c39  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29281891-77b3-4a40-9e22-2fc6fd82bede?P1=1734620902&P2=404&P3=2&P4=fxM1ClD4WVqlHCOHdIjhJMkw39uzBzuXxdbqBROy2%2bjMainqMKbiG1rv10RHsQwwzV0z6XsTMgE%2b7UdygkrlLg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29281891-77b3-4a40-9e22-2fc6fd82bede?P1=1734620902&P2=404&P3=2&P4=fxM1ClD4WVqlHCOHdIjhJMkw39uzBzuXxdbqBROy2%2bjMainqMKbiG1rv10RHsQwwzV0z6XsTMgE%2b7UdygkrlLg%3d%3d)  
 
