@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-13 08:19:16 (UTC-5)
+2024-12-13 09:07:57 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/768e918d-e00f-47f2-9192-5f4bf35c6536?P1=1734617258&P2=404&P3=2&P4=Tn1a2PPO2bO7sqQqEFXPh7Asvts6hYrnKoVLf50vV3p3auYum7JVxPk21O69knArsZK92Y9b4qMee4b8bxeFEg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/768e918d-e00f-47f2-9192-5f4bf35c6536?P1=1734617258&P2=404&P3=2&P4=Tn1a2PPO2bO7sqQqEFXPh7Asvts6hYrnKoVLf50vV3p3auYum7JVxPk21O69knArsZK92Y9b4qMee4b8bxeFEg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3012.0  
-**文件大小**：169.96 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3012.0.exe  
-**校验值（Sha256）**：e76d1bf982115426d53c443fa743cb9e3a65ec7e2337f83d9a01f71272125c39  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29281891-77b3-4a40-9e22-2fc6fd82bede?P1=1734620902&P2=404&P3=2&P4=fxM1ClD4WVqlHCOHdIjhJMkw39uzBzuXxdbqBROy2%2bjMainqMKbiG1rv10RHsQwwzV0z6XsTMgE%2b7UdygkrlLg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/29281891-77b3-4a40-9e22-2fc6fd82bede?P1=1734620902&P2=404&P3=2&P4=fxM1ClD4WVqlHCOHdIjhJMkw39uzBzuXxdbqBROy2%2bjMainqMKbiG1rv10RHsQwwzV0z6XsTMgE%2b7UdygkrlLg%3d%3d)  
+**最新版本**：133.0.3014.0  
+**文件大小**：170.19 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3014.0.exe  
+**校验值（Sha256）**：51b1d1ef7e3b70c2d636045af824723170f9ff9dc128d61805a5f70ab7299f91  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5d6dfdb-d7b8-4271-be8f-9c8df2dd8b38?P1=1734703678&P2=404&P3=2&P4=jOWWDWbvE5UTqLtZsGV4IRElCkx0e6K7nAUnrw5%2boUe6FNm%2fYzqCKC9F5v6hmfHE3yivStNK0J6zDnxcWIIsnQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5d6dfdb-d7b8-4271-be8f-9c8df2dd8b38?P1=1734703678&P2=404&P3=2&P4=jOWWDWbvE5UTqLtZsGV4IRElCkx0e6K7nAUnrw5%2boUe6FNm%2fYzqCKC9F5v6hmfHE3yivStNK0J6zDnxcWIIsnQ%3d%3d)  
 
