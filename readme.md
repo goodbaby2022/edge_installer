@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-21 09:02:21 (UTC-5)
+2024-12-21 10:04:06 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4746b7bd-2d59-428d-a152-344579ab0ade?P1=1735346155&P2=404&P3=2&P4=GSAvP4BzdmC3q%2fG22EAsCGG2tRhhLer9P0ZYcHaTxxb2XJDJXxXdVHgs7RDxS6%2f7aTsnga6DR5TzSRkOeV4J6w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4746b7bd-2d59-428d-a152-344579ab0ade?P1=1735346155&P2=404&P3=2&P4=GSAvP4BzdmC3q%2fG22EAsCGG2tRhhLer9P0ZYcHaTxxb2XJDJXxXdVHgs7RDxS6%2f7aTsnga6DR5TzSRkOeV4J6w%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3029.0  
-**文件大小**：170.49 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3029.0.exe  
-**校验值（Sha256）**：677e939766f379753c1a41ae83703022cbdbc98f6cdd391a1857dabf70287a81  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4aa0d41-343a-47bd-920b-5230e28f3c80?P1=1735346157&P2=404&P3=2&P4=YXP0O%2f27VZ3JqANbjfkF01j%2b4WXA4n4hZP8HXtIdwocaw6ltAo4C19ZzrHHWsAakn5RHY2adclM2Iv%2fcu9oCDQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4aa0d41-343a-47bd-920b-5230e28f3c80?P1=1735346157&P2=404&P3=2&P4=YXP0O%2f27VZ3JqANbjfkF01j%2b4WXA4n4hZP8HXtIdwocaw6ltAo4C19ZzrHHWsAakn5RHY2adclM2Iv%2fcu9oCDQ%3d%3d)  
+**最新版本**：133.0.3030.0  
+**文件大小**：170.48 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3030.0.exe  
+**校验值（Sha256）**：fd910c0907bff95be97590baeb9d07b9166ca708a8dd20c4c2de0aabe8f80288  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4701ed2-cc00-4344-8ce0-d9b424de3394?P1=1735398246&P2=404&P3=2&P4=YhCbmBc4a7Q9UwyMG5TlIsiSRDQgqfC6o4oPO9WCFypza%2bDm228E74i6Ks5RJlcuP0YKk0kyAfZMoaRnbD8h2Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4701ed2-cc00-4344-8ce0-d9b424de3394?P1=1735398246&P2=404&P3=2&P4=YhCbmBc4a7Q9UwyMG5TlIsiSRDQgqfC6o4oPO9WCFypza%2bDm228E74i6Ks5RJlcuP0YKk0kyAfZMoaRnbD8h2Q%3d%3d)  
 
