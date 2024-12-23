@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-12-23 08:15:17 (UTC-5)
+2024-12-23 09:07:11 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9023c217-cdd9-4bdb-b0f6-876c93151162?P1=1735564517&P2=404&P3=2&P4=nnugcxXgVnIqzX6iSyl1jvByqWK%2bGkN1060ZcAa5RTgBkNjbwq4T38H8w9NOzQ2i%2fRKRmVPziUSLEpJJ9%2bqspw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9023c217-cdd9-4bdb-b0f6-876c93151162?P1=1735564517&P2=404&P3=2&P4=nnugcxXgVnIqzX6iSyl1jvByqWK%2bGkN1060ZcAa5RTgBkNjbwq4T38H8w9NOzQ2i%2fRKRmVPziUSLEpJJ9%2bqspw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3030.0  
-**文件大小**：170.48 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3030.0.exe  
-**校验值（Sha256）**：fd910c0907bff95be97590baeb9d07b9166ca708a8dd20c4c2de0aabe8f80288  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4701ed2-cc00-4344-8ce0-d9b424de3394?P1=1735398246&P2=404&P3=2&P4=YhCbmBc4a7Q9UwyMG5TlIsiSRDQgqfC6o4oPO9WCFypza%2bDm228E74i6Ks5RJlcuP0YKk0kyAfZMoaRnbD8h2Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4701ed2-cc00-4344-8ce0-d9b424de3394?P1=1735398246&P2=404&P3=2&P4=YhCbmBc4a7Q9UwyMG5TlIsiSRDQgqfC6o4oPO9WCFypza%2bDm228E74i6Ks5RJlcuP0YKk0kyAfZMoaRnbD8h2Q%3d%3d)  
+**最新版本**：133.0.3033.0  
+**文件大小**：170.51 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3033.0.exe  
+**校验值（Sha256）**：87cafce8243d307f97f4c913d252f83b7e10efaf84c0f2ac4372aad8d3820bd2  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/075fd58c-57ea-45cd-936d-00a13961815e?P1=1735567632&P2=404&P3=2&P4=hXwhNcvM8jOnOarUCKV0ZxVfXBr23F4eLM9v9Bf3z78UwGtPCLMpfmKhbv3x1x8YDN6T5uXDA160vpQbZc72bg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/075fd58c-57ea-45cd-936d-00a13961815e?P1=1735567632&P2=404&P3=2&P4=hXwhNcvM8jOnOarUCKV0ZxVfXBr23F4eLM9v9Bf3z78UwGtPCLMpfmKhbv3x1x8YDN6T5uXDA160vpQbZc72bg%3d%3d)  
 
