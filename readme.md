@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-03 22:11:07 (UTC-5)
+2025-01-03 23:08:48 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/abf7cfd1-7fe2-450c-b455-65de5fd77847?P1=1736565067&P2=404&P3=2&P4=K5GQJw2dP1rLYx7BQzVWkbbE30FkfbvTkPio9Y4p9bVdbpa800PD00AMsbioaqxeO3vQ14PtlhF%2f81dHuwJD7w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/abf7cfd1-7fe2-450c-b455-65de5fd77847?P1=1736565067&P2=404&P3=2&P4=K5GQJw2dP1rLYx7BQzVWkbbE30FkfbvTkPio9Y4p9bVdbpa800PD00AMsbioaqxeO3vQ14PtlhF%2f81dHuwJD7w%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3054.0  
-**文件大小**：170.48 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3054.0.exe  
-**校验值（Sha256）**：82d40659e3ca0f377b165c90870cc2c02af396a702f86f3b07075fba5b7ca11f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dedb385c-a182-4a1f-8320-d638422f6dfa?P1=1736518025&P2=404&P3=2&P4=HVbg75Xzg9s3Y8F23NlEZl2lSCZXNDrrbXngaTZOcfShZWops7LviNfGSCIyv%2bgVDjAIw82KNM9sOUg7euZWeA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dedb385c-a182-4a1f-8320-d638422f6dfa?P1=1736518025&P2=404&P3=2&P4=HVbg75Xzg9s3Y8F23NlEZl2lSCZXNDrrbXngaTZOcfShZWops7LviNfGSCIyv%2bgVDjAIw82KNM9sOUg7euZWeA%3d%3d)  
+**最新版本**：133.0.3055.0  
+**文件大小**：170.45 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3055.0.exe  
+**校验值（Sha256）**：f94eaac52a3c55b79fad80ed678b9d8fb61bb66cae01b187e61d2aaad2d4c83f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4e4b6042-33a5-4cf0-980f-9b6feb621627?P1=1736568529&P2=404&P3=2&P4=ewwLXUHssOi0lhgV1gjZ25ALQTkEcB1%2f5iZnxEIbafWb92OzbytU%2foSqSC8aZMo4MA9KNVWNveMjvmRWT5oRxg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4e4b6042-33a5-4cf0-980f-9b6feb621627?P1=1736568529&P2=404&P3=2&P4=ewwLXUHssOi0lhgV1gjZ25ALQTkEcB1%2f5iZnxEIbafWb92OzbytU%2foSqSC8aZMo4MA9KNVWNveMjvmRWT5oRxg%3d%3d)  
 
