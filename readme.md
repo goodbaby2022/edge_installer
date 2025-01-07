@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-06 18:07:28 (UTC-5)
+2025-01-06 19:37:07 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0cd36a5f-f4a7-47e6-b907-05e35f68cd5d?P1=1736809648&P2=404&P3=2&P4=XGrafMLetR%2bF2PcmPklyim5HoHpmCgKMjsnCGwsSv29zNAFhFOd6tmAEBQ%2bdhpCdMOJBDbyvTx4OziC8xKOLCQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0cd36a5f-f4a7-47e6-b907-05e35f68cd5d?P1=1736809648&P2=404&P3=2&P4=XGrafMLetR%2bF2PcmPklyim5HoHpmCgKMjsnCGwsSv29zNAFhFOd6tmAEBQ%2bdhpCdMOJBDbyvTx4OziC8xKOLCQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：133.0.3060.0  
-**文件大小**：170.42 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3060.0.exe  
-**校验值（Sha256）**：8c4e564f47f9eae99b07a3746b0124a430197fb80e38cb83b909c53e3149940e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93a66707-985e-42f5-acae-b52d44df25f2?P1=1736777239&P2=404&P3=2&P4=MrWKgqOsZeO8Gzua6cGbUa3PEf6qQG5cZo55po1QEuWWQp0crIqezk%2bvlTVx4b%2b9PEC%2bYh8onKw%2bEGSkpA0rCA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93a66707-985e-42f5-acae-b52d44df25f2?P1=1736777239&P2=404&P3=2&P4=MrWKgqOsZeO8Gzua6cGbUa3PEf6qQG5cZo55po1QEuWWQp0crIqezk%2bvlTVx4b%2b9PEC%2bYh8onKw%2bEGSkpA0rCA%3d%3d)  
+**最新版本**：133.0.3061.0  
+**文件大小**：170.43 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3061.0.exe  
+**校验值（Sha256）**：971e4e9f8be25eb4be3b734b17b1fd4238bb4364982f5db6c1dce3436b109fe6  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f5104a65-b673-4727-8e29-20764acade0e?P1=1736815027&P2=404&P3=2&P4=iN3%2fhgsYw6JVj99CLwcbtKzJe0dHcrRdU62N556sUHB%2fZ%2fSUsjAJxTQThvmSLAbXP%2bpeZxyiFP9kksp%2fzH5H4A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f5104a65-b673-4727-8e29-20764acade0e?P1=1736815027&P2=404&P3=2&P4=iN3%2fhgsYw6JVj99CLwcbtKzJe0dHcrRdU62N556sUHB%2fZ%2fSUsjAJxTQThvmSLAbXP%2bpeZxyiFP9kksp%2fzH5H4A%3d%3d)  
 
