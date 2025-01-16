@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-16 09:06:53 (UTC-5)
+2025-01-16 10:07:19 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a59ad2b-0e57-4a62-9542-a54d787dba8c?P1=1737641213&P2=404&P3=2&P4=mryqMzKQrRtQPdxYNZzVhZW71IW2chGx1EWF4VG1Z2iduX0G6vO03CtuZ7KKSly%2biNJEwgf6kk0%2fVAFlk8vRBg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a59ad2b-0e57-4a62-9542-a54d787dba8c?P1=1737641213&P2=404&P3=2&P4=mryqMzKQrRtQPdxYNZzVhZW71IW2chGx1EWF4VG1Z2iduX0G6vO03CtuZ7KKSly%2biNJEwgf6kk0%2fVAFlk8vRBg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3078.0  
-**文件大小**：170.32 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3078.0.exe  
-**校验值（Sha256）**：be0e497f2e2c474be7468a332c3c5c9bc76a2ae2fd96c13864739d1c44f48b7a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c246ce3-22e2-41c9-ae15-f9a18fd8baeb?P1=1737587250&P2=404&P3=2&P4=TH0pKNjf9XnTX0GMg%2f1hGa8%2bzzfzvsMlSTsnaW%2f3oS%2fc4sOfzgXByc7ycVo6QnZObBs8lt3SBM2VS0UQBEvOXw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6c246ce3-22e2-41c9-ae15-f9a18fd8baeb?P1=1737587250&P2=404&P3=2&P4=TH0pKNjf9XnTX0GMg%2f1hGa8%2bzzfzvsMlSTsnaW%2f3oS%2fc4sOfzgXByc7ycVo6QnZObBs8lt3SBM2VS0UQBEvOXw%3d%3d)  
+**最新版本**：134.0.3079.0  
+**文件大小**：170.35 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3079.0.exe  
+**校验值（Sha256）**：d2a8c127034a8635338e3a1613e15b6228ad5a6cbed525db123d685bffa7ff7b  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a9a24c9-5a90-4859-aa8b-84e1dba51a9d?P1=1737644840&P2=404&P3=2&P4=hNsgkQBY3napQONhey2ywM1SzZOngX%2fCldGSuWTeUF2G0J2uv77i63u9tYcUlGwy%2bDzQ0KFvJVST8TUnV5Fk6Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a9a24c9-5a90-4859-aa8b-84e1dba51a9d?P1=1737644840&P2=404&P3=2&P4=hNsgkQBY3napQONhey2ywM1SzZOngX%2fCldGSuWTeUF2G0J2uv77i63u9tYcUlGwy%2bDzQ0KFvJVST8TUnV5Fk6Q%3d%3d)  
 
