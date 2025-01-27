@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-01-27 07:14:04 (UTC-5)
+2025-01-27 08:14:44 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f68c584-d716-4b43-afac-977e1ae2a9fb?P1=1738426016&P2=404&P3=2&P4=M5iXe456aUj1nlvLOA1Wc2Lv9Amgm1moTjI5qBa0ewMOpbBoi7fckPKcSp%2fMupGpwKalBOh1l9FIptv3UHREjA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f68c584-d716-4b43-afac-977e1ae2a9fb?P1=1738426016&P2=404&P3=2&P4=M5iXe456aUj1nlvLOA1Wc2Lv9Amgm1moTjI5qBa0ewMOpbBoi7fckPKcSp%2fMupGpwKalBOh1l9FIptv3UHREjA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3097.0  
-**文件大小**：170.51 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3097.0.exe  
-**校验值（Sha256）**：18831ff9501b919fba929d3ff69c7bd7b96cefa44d7a4dd984dc17723d26aa6c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71b24989-b72e-44d7-bc71-912a332b3287?P1=1738426017&P2=404&P3=2&P4=Zbjtge0OmLJR%2bxNtmAoZqzn%2f3sB1Up%2fRghZGFNahXxxKje%2fughmcq9s1YvdCM80JJuiUsJ379UYNpVAixVOYUw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71b24989-b72e-44d7-bc71-912a332b3287?P1=1738426017&P2=404&P3=2&P4=Zbjtge0OmLJR%2bxNtmAoZqzn%2f3sB1Up%2fRghZGFNahXxxKje%2fughmcq9s1YvdCM80JJuiUsJ379UYNpVAixVOYUw%3d%3d)  
+**最新版本**：134.0.3101.0  
+**文件大小**：170.71 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3101.0.exe  
+**校验值（Sha256）**：286e4470e51b6b08fdb5609de57f4dcf29cfd38a4bac8f72345b543b3e7f28bd  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c96dc706-45ea-4d54-96f4-b500243908e2?P1=1738588485&P2=404&P3=2&P4=Tfe59AZnOTslgot2ohYVyt6YiKIqGnhMFZfP%2bY%2ftNNsjYFjJ9gGcuzB%2fipEz%2fg754TOy%2fiKr3Qyhx7fDtJBShA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c96dc706-45ea-4d54-96f4-b500243908e2?P1=1738588485&P2=404&P3=2&P4=Tfe59AZnOTslgot2ohYVyt6YiKIqGnhMFZfP%2bY%2ftNNsjYFjJ9gGcuzB%2fipEz%2fg754TOy%2fiKr3Qyhx7fDtJBShA%3d%3d)  
 
