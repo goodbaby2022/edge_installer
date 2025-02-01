@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-02-01 11:07:16 (UTC-5)
+2025-02-01 12:02:16 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bcbff555-85cb-43b6-87c3-7eaf26d990b4?P1=1739030835&P2=404&P3=2&P4=IKqneulf3g%2fAIPYqDTCGaRzlZ47cXJ%2bCtLmIW859Ad8%2bTodGpGRUesYJa755XzaGbEirQQtMj2KTneJ81lObjQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bcbff555-85cb-43b6-87c3-7eaf26d990b4?P1=1739030835&P2=404&P3=2&P4=IKqneulf3g%2fAIPYqDTCGaRzlZ47cXJ%2bCtLmIW859Ad8%2bTodGpGRUesYJa755XzaGbEirQQtMj2KTneJ81lObjQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3109.0  
-**文件大小**：170.96 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3109.0.exe  
-**校验值（Sha256）**：cde4b9dab567ce5341317aeef02fbbe2e3781f507c30d5443f30d653902831f6  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bd703019-7830-4eb7-a7ec-6662da1054ad?P1=1738937220&P2=404&P3=2&P4=eMtxVuyI9%2bEPUX4YhmXiwaIJE7KKiiixUviGtM2%2bxn1MzdfiPzim0fXtRxpfSLMid37AOlu0ovm3r9qm7nIeyQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bd703019-7830-4eb7-a7ec-6662da1054ad?P1=1738937220&P2=404&P3=2&P4=eMtxVuyI9%2bEPUX4YhmXiwaIJE7KKiiixUviGtM2%2bxn1MzdfiPzim0fXtRxpfSLMid37AOlu0ovm3r9qm7nIeyQ%3d%3d)  
+**最新版本**：134.0.3111.0  
+**文件大小**：171.02 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3111.0.exe  
+**校验值（Sha256）**：b75e10104b272a78d0aac2cf72e3d0e1126da2cf68f2e89548ee407d89c6a4d4  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b55ed86-30d8-4ebe-98e9-dbcfbeb99e96?P1=1739034137&P2=404&P3=2&P4=FwgDtmGaZ2sSPvXebywAi5MwFn7D%2f1yOEhej9kP3%2ftLPMuuqoM8zD4BvuyJxc3cGuATMm45B2IG2SIQX3wQWmA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b55ed86-30d8-4ebe-98e9-dbcfbeb99e96?P1=1739034137&P2=404&P3=2&P4=FwgDtmGaZ2sSPvXebywAi5MwFn7D%2f1yOEhej9kP3%2ftLPMuuqoM8zD4BvuyJxc3cGuATMm45B2IG2SIQX3wQWmA%3d%3d)  
 
