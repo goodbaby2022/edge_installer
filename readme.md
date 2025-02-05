@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-02-04 18:07:01 (UTC-5)
+2025-02-04 19:36:04 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d84356d-5a88-49f8-b6a3-44e6a6cafe56?P1=1739228822&P2=404&P3=2&P4=mJg0XhmMKIOWmiQdJ5Qv5nUoXA9V0FAZSaripwN7OEBCCZjZFQWKL2zua7iPOnRaDXXFLNyB5rTHeOgS3lejsg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d84356d-5a88-49f8-b6a3-44e6a6cafe56?P1=1739228822&P2=404&P3=2&P4=mJg0XhmMKIOWmiQdJ5Qv5nUoXA9V0FAZSaripwN7OEBCCZjZFQWKL2zua7iPOnRaDXXFLNyB5rTHeOgS3lejsg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：134.0.3116.0  
-**文件大小**：171.11 MB  
-**文件名**：MicrosoftEdge_ARM64_134.0.3116.0.exe  
-**校验值（Sha256）**：a84ca60bb19ea091be291af81165403d6c91111cecc6aa817f46b63a98e612ab  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/45186a89-f96d-42a2-840a-81900c3f1c83?P1=1739228822&P2=404&P3=2&P4=OgbRyOXew%2b1ILr5%2b71BG59EUiHU9tpOCc3Syo74liLhXiq1rQPI%2b9w8F7cSAQb8RmtcwuCuzNul9GVhE6REMuw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/45186a89-f96d-42a2-840a-81900c3f1c83?P1=1739228822&P2=404&P3=2&P4=OgbRyOXew%2b1ILr5%2b71BG59EUiHU9tpOCc3Syo74liLhXiq1rQPI%2b9w8F7cSAQb8RmtcwuCuzNul9GVhE6REMuw%3d%3d)  
+**最新版本**：134.0.3118.0  
+**文件大小**：171.12 MB  
+**文件名**：MicrosoftEdge_ARM64_134.0.3118.0.exe  
+**校验值（Sha256）**：43710d6b90a0b5f4c1706783b497f9443542baa17b187a47482a03479d2067c1  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8f59b9e3-cf2e-4427-9654-d79ec42c0206?P1=1739320565&P2=404&P3=2&P4=mQR05r1kLDgRUGxjoE0Zpn7V3zY0AsYheejR2j5v8%2fLm18mOIZ5UW9wsa3%2b2EeyiWF%2fm1GnUBYcjQq72tBs9rQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8f59b9e3-cf2e-4427-9654-d79ec42c0206?P1=1739320565&P2=404&P3=2&P4=mQR05r1kLDgRUGxjoE0Zpn7V3zY0AsYheejR2j5v8%2fLm18mOIZ5UW9wsa3%2b2EeyiWF%2fm1GnUBYcjQq72tBs9rQ%3d%3d)  
 
