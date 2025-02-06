@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-02-06 15:08:07 (UTC-5)
+2025-02-06 16:07:12 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a00b0c89-cc12-4bba-a71f-a2a36f565535?P1=1739398031&P2=404&P3=2&P4=lok08eWZdnK0oQWONzcgv0Rx2%2fTvxwse2tx%2bkPraFi650PgpguO2HoaokvgA45K1JdfyFmS2DGRFr5%2fQyzS3%2bQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a00b0c89-cc12-4bba-a71f-a2a36f565535?P1=1739398031&P2=404&P3=2&P4=lok08eWZdnK0oQWONzcgv0Rx2%2fTvxwse2tx%2bkPraFi650PgpguO2HoaokvgA45K1JdfyFmS2DGRFr5%2fQyzS3%2bQ%3d%3d)  
 
 ## beta ARM64
-**最新版本**：133.0.3065.49  
-**文件大小**：170.15 MB  
-**文件名**：MicrosoftEdge_ARM64_133.0.3065.49.exe  
-**校验值（Sha256）**：94ccdc1611e4840234e34f2aad57fae9d8fb67ab6371b9ce7c88d88b480d4801  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2d4e9b0f-a36d-4989-830c-fd02ff189ef9?P1=1739398032&P2=404&P3=2&P4=ej6Y0GW1uFm%2fWZMohJaWgeGNbfj39iZ4zOxd2231P5kJ5hRMRz1xFWUCIQH1fB%2bByO893LXT4Aof6wJi3GtQ%2fg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2d4e9b0f-a36d-4989-830c-fd02ff189ef9?P1=1739398032&P2=404&P3=2&P4=ej6Y0GW1uFm%2fWZMohJaWgeGNbfj39iZ4zOxd2231P5kJ5hRMRz1xFWUCIQH1fB%2bByO893LXT4Aof6wJi3GtQ%2fg%3d%3d)  
+**最新版本**：133.0.3065.51  
+**文件大小**：170.13 MB  
+**文件名**：MicrosoftEdge_ARM64_133.0.3065.51.exe  
+**校验值（Sha256）**：9f9c727cd1206c856175ac9d04eec4a3755d5cd9e35a9984483ccfc5351469ac  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5db1a003-d545-4896-898f-fd9e383baae0?P1=1739480825&P2=404&P3=2&P4=DGITBOIAQ%2f0Srvwv4nkMZBoH5JXW3t5%2fjFCA2XyXzK0igQ%2bbM37ND7Tvx4TSBETb6Yf%2fNukw2vKvrlurT4NGvQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5db1a003-d545-4896-898f-fd9e383baae0?P1=1739480825&P2=404&P3=2&P4=DGITBOIAQ%2f0Srvwv4nkMZBoH5JXW3t5%2fjFCA2XyXzK0igQ%2bbM37ND7Tvx4TSBETb6Yf%2fNukw2vKvrlurT4NGvQ%3d%3d)  
 
 ## dev x86
 **最新版本**：134.0.3109.0  
