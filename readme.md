@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-03-05 10:08:55 (UTC-5)
+2025-03-05 11:12:58 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ce1cfec-558e-4e25-995b-c900858ab278?P1=1741788456&P2=404&P3=2&P4=hLdALiIIs%2fbHOCwEqOUZ0K2wfNyVzxWKR8nvUCtQreD7s1DKtD5KG%2bFFEn0XSCI%2f4JdWMBoZcjY9zxCNFnmFCw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ce1cfec-558e-4e25-995b-c900858ab278?P1=1741788456&P2=404&P3=2&P4=hLdALiIIs%2fbHOCwEqOUZ0K2wfNyVzxWKR8nvUCtQreD7s1DKtD5KG%2bFFEn0XSCI%2f4JdWMBoZcjY9zxCNFnmFCw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：135.0.3175.0  
-**文件大小**：170.97 MB  
-**文件名**：MicrosoftEdge_ARM64_135.0.3175.0.exe  
-**校验值（Sha256）**：1dc9d8898d4591750652fb58861e5cd84eed12254c4eba94fcd9e667cff9cbf9  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f662187c-3329-4457-bd27-4f8bdfe7d2b5?P1=1741739899&P2=404&P3=2&P4=N7pdHWVl6%2beDwIlU%2blmVQc2LXjpPtKTGFnBr%2bzRQitxVnWmkkM6FFf7VbULx760e0HIFsy%2bA7IZmM23rAPd%2bYg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f662187c-3329-4457-bd27-4f8bdfe7d2b5?P1=1741739899&P2=404&P3=2&P4=N7pdHWVl6%2beDwIlU%2blmVQc2LXjpPtKTGFnBr%2bzRQitxVnWmkkM6FFf7VbULx760e0HIFsy%2bA7IZmM23rAPd%2bYg%3d%3d)  
+**最新版本**：135.0.3176.0  
+**文件大小**：170.91 MB  
+**文件名**：MicrosoftEdge_ARM64_135.0.3176.0.exe  
+**校验值（Sha256）**：f04ac0faeec0cb4d64abd7399c5afbbdccda6c356c582146811839219533ad2d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e4ebc06-4cd7-4106-89d4-fead8ed5e754?P1=1741795978&P2=404&P3=2&P4=FMH9Jxltks7zCRgauO0hUHW33OTNvXrUWZG2pn3zMPd7ZsHZvLZ0PZp2wnezGBWnPV1o8KBjaAIhsXTIB21%2fxQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e4ebc06-4cd7-4106-89d4-fead8ed5e754?P1=1741795978&P2=404&P3=2&P4=FMH9Jxltks7zCRgauO0hUHW33OTNvXrUWZG2pn3zMPd7ZsHZvLZ0PZp2wnezGBWnPV1o8KBjaAIhsXTIB21%2fxQ%3d%3d)  
 
