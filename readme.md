@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-03-15 11:07:47 (UTC-5)
+2025-03-15 12:02:17 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26e66b57-b926-4e88-99bd-1e274c322920?P1=1742659667&P2=404&P3=2&P4=gchYLFEV7J1a0PuVG3RogaaWsTICHUoQLeGDzwjJOyilH0Dtyvl0ki4tvVmDh8t9%2fUX03kNMFoYOkoBd8fCK%2bw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26e66b57-b926-4e88-99bd-1e274c322920?P1=1742659667&P2=404&P3=2&P4=gchYLFEV7J1a0PuVG3RogaaWsTICHUoQLeGDzwjJOyilH0Dtyvl0ki4tvVmDh8t9%2fUX03kNMFoYOkoBd8fCK%2bw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：136.0.3196.0  
-**文件大小**：171.14 MB  
-**文件名**：MicrosoftEdge_ARM64_136.0.3196.0.exe  
-**校验值（Sha256）**：ff26d18a1e4abc35bced8c24ea0076a6ddd07e8181bed3f53a574b0f1232a2ec  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a03d15f-61a8-4921-a859-6613ca0e2c88?P1=1742603855&P2=404&P3=2&P4=J15i1dCr3mQUMl2rTwa4tPlvUO7QNyRexdVOKMplFTW0JfzAn6e4bpIwAw1%2bQmee2y7SCN43UxcIhk%2bw%2f%2fT96w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a03d15f-61a8-4921-a859-6613ca0e2c88?P1=1742603855&P2=404&P3=2&P4=J15i1dCr3mQUMl2rTwa4tPlvUO7QNyRexdVOKMplFTW0JfzAn6e4bpIwAw1%2bQmee2y7SCN43UxcIhk%2bw%2f%2fT96w%3d%3d)  
+**最新版本**：136.0.3197.0  
+**文件大小**：171.12 MB  
+**文件名**：MicrosoftEdge_ARM64_136.0.3197.0.exe  
+**校验值（Sha256）**：dfe330a5a0f795015ba6b574f4a9571e57294057fdd29d4b618cb98938786a61  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/255302e9-6cf9-48ea-a11d-6d46f0bbff8c?P1=1742662938&P2=404&P3=2&P4=cK3YojWkIUgmIjI9xVwofSuP7vvv3RzyNQ9SjuenHF7AF6z6EJ6bKGzedaBRZUNvs%2fswgxHDNiRv2h%2fiMBdSlg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/255302e9-6cf9-48ea-a11d-6d46f0bbff8c?P1=1742662938&P2=404&P3=2&P4=cK3YojWkIUgmIjI9xVwofSuP7vvv3RzyNQ9SjuenHF7AF6z6EJ6bKGzedaBRZUNvs%2fswgxHDNiRv2h%2fiMBdSlg%3d%3d)  
 
