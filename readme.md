@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-03-17 09:08:23 (UTC-5)
+2025-03-17 10:07:53 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/20e5d034-c91d-4de9-8642-22b48d8ae3a7?P1=1742825303&P2=404&P3=2&P4=Z0TNr3hz7kp%2fZNH%2fqRuhzEH9It48i0tUDKnOR1yGo8bUEgWPomTLRVDmjBK1OVbyMoVl6XCUAwwuoPwjL0Eumg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/20e5d034-c91d-4de9-8642-22b48d8ae3a7?P1=1742825303&P2=404&P3=2&P4=Z0TNr3hz7kp%2fZNH%2fqRuhzEH9It48i0tUDKnOR1yGo8bUEgWPomTLRVDmjBK1OVbyMoVl6XCUAwwuoPwjL0Eumg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：136.0.3197.0  
-**文件大小**：171.12 MB  
-**文件名**：MicrosoftEdge_ARM64_136.0.3197.0.exe  
-**校验值（Sha256）**：dfe330a5a0f795015ba6b574f4a9571e57294057fdd29d4b618cb98938786a61  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/255302e9-6cf9-48ea-a11d-6d46f0bbff8c?P1=1742662938&P2=404&P3=2&P4=cK3YojWkIUgmIjI9xVwofSuP7vvv3RzyNQ9SjuenHF7AF6z6EJ6bKGzedaBRZUNvs%2fswgxHDNiRv2h%2fiMBdSlg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/255302e9-6cf9-48ea-a11d-6d46f0bbff8c?P1=1742662938&P2=404&P3=2&P4=cK3YojWkIUgmIjI9xVwofSuP7vvv3RzyNQ9SjuenHF7AF6z6EJ6bKGzedaBRZUNvs%2fswgxHDNiRv2h%2fiMBdSlg%3d%3d)  
+**最新版本**：136.0.3201.0  
+**文件大小**：171.08 MB  
+**文件名**：MicrosoftEdge_ARM64_136.0.3201.0.exe  
+**校验值（Sha256）**：e75284428fc7da9b12918f334959eedb44b5b365727e8dbcb95d4702faa1fa75  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cc6dbf70-79d5-45f6-b9c9-5bc638f0806f?P1=1742828874&P2=404&P3=2&P4=J4zqvkA5vEO8m1JmvzaP9myOpR8J%2biMRk6E3%2boBRfFvUStsIC9X8g8EGcThMOMNbxEFLdajaWHWw1hePAKXBWA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cc6dbf70-79d5-45f6-b9c9-5bc638f0806f?P1=1742828874&P2=404&P3=2&P4=J4zqvkA5vEO8m1JmvzaP9myOpR8J%2biMRk6E3%2boBRfFvUStsIC9X8g8EGcThMOMNbxEFLdajaWHWw1hePAKXBWA%3d%3d)  
 
