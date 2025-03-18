@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-03-18 07:14:35 (UTC-5)
+2025-03-18 08:18:44 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/07d15f74-53c3-448a-bbbc-84754f490f5c?P1=1742863105&P2=404&P3=2&P4=HJI18yvdfS3HSHqnHA9LotMnCMkv8G2TsMn%2fKyycigvoZga35G2hX4YWL003QK5HusaUZeBpdTyd0nsjeXga6w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/07d15f74-53c3-448a-bbbc-84754f490f5c?P1=1742863105&P2=404&P3=2&P4=HJI18yvdfS3HSHqnHA9LotMnCMkv8G2TsMn%2fKyycigvoZga35G2hX4YWL003QK5HusaUZeBpdTyd0nsjeXga6w%3d%3d)  
 
 ## canary ARM64
-**最新版本**：136.0.3202.0  
-**文件大小**：171.23 MB  
-**文件名**：MicrosoftEdge_ARM64_136.0.3202.0.exe  
-**校验值（Sha256）**：bcf6a03b4f182d828e619f2f7346670420ca99df655830217c11ffadb8f25ee7  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c4c4677a-ed9f-4de8-9f4a-ed8cb77f1061?P1=1742863106&P2=404&P3=2&P4=SPP%2bxbFLBGnVziFVbQD4bdbsGjxyGhrGwhFB1Ja80yK6DcqVyaKMJ2hfqBBqvAGhPE0OQkq8NM2hcHS02XQsGg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c4c4677a-ed9f-4de8-9f4a-ed8cb77f1061?P1=1742863106&P2=404&P3=2&P4=SPP%2bxbFLBGnVziFVbQD4bdbsGjxyGhrGwhFB1Ja80yK6DcqVyaKMJ2hfqBBqvAGhPE0OQkq8NM2hcHS02XQsGg%3d%3d)  
+**最新版本**：136.0.3203.0  
+**文件大小**：171.48 MB  
+**文件名**：MicrosoftEdge_ARM64_136.0.3203.0.exe  
+**校验值（Sha256）**：6e2203cbec3e9523bba00373a634a8a6c0e60e520903c695e2e8bb7a1dca4949  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3957315e-534c-4831-9f65-cf8334ca1f15?P1=1742908724&P2=404&P3=2&P4=bBDpalw%2feRu5Eqvp3tq43rF%2fswZWEszft1mr8rChgW0DiXrfxqG6Au2eDw1GwFbthbPSZdEOUqvy8pxiq%2fdJwQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3957315e-534c-4831-9f65-cf8334ca1f15?P1=1742908724&P2=404&P3=2&P4=bBDpalw%2feRu5Eqvp3tq43rF%2fswZWEszft1mr8rChgW0DiXrfxqG6Au2eDw1GwFbthbPSZdEOUqvy8pxiq%2fdJwQ%3d%3d)  
 
