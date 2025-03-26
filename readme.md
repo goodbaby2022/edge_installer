@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-03-25 19:39:00 (UTC-5)
+2025-03-25 21:17:25 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbe2518-e9e3-4194-9e16-2e9016aca1fa?P1=1743554339&P2=404&P3=2&P4=jQ%2fvSNbESFGDl7FGIJMtSZ02jjPsJynnCXtbepFblRVK%2fWCCkw8yofBHedENFO%2bobVIzk3SsUifLNoLkUx235A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbe2518-e9e3-4194-9e16-2e9016aca1fa?P1=1743554339&P2=404&P3=2&P4=jQ%2fvSNbESFGDl7FGIJMtSZ02jjPsJynnCXtbepFblRVK%2fWCCkw8yofBHedENFO%2bobVIzk3SsUifLNoLkUx235A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：136.0.3217.0  
-**文件大小**：173.62 MB  
-**文件名**：MicrosoftEdge_ARM64_136.0.3217.0.exe  
-**校验值（Sha256）**：ce230ca7f84836c98333ffaae7bb25c37a2526066c20a695da55a0938ad6857a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03f51d45-d9fe-4372-8c90-0eb4e92a8635?P1=1743516511&P2=404&P3=2&P4=KxCJH4srnXQuh5xlbGfpBdrcuFzLc0LXQ3I4TKcUpfdECtpY5slv0jfO4lUZ8tAK3oeaLIBDdGZqKf8rKXnnIQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03f51d45-d9fe-4372-8c90-0eb4e92a8635?P1=1743516511&P2=404&P3=2&P4=KxCJH4srnXQuh5xlbGfpBdrcuFzLc0LXQ3I4TKcUpfdECtpY5slv0jfO4lUZ8tAK3oeaLIBDdGZqKf8rKXnnIQ%3d%3d)  
+**最新版本**：136.0.3218.0  
+**文件大小**：173.72 MB  
+**文件名**：MicrosoftEdge_ARM64_136.0.3218.0.exe  
+**校验值（Sha256）**：44d4b33b7f4f7d6a6bda71804ddba45d915800aeec93b015f44dc7fd4626c2ec  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/483c21fc-03c1-45cf-b476-a502e359067c?P1=1743560245&P2=404&P3=2&P4=d%2b4wan%2ffHwm6sOhrwUfLnZqrJUMYREe7rA1udt7S%2fOyuSTHpobLYj5AB8qs7ORk%2fJ1qExGnpBEgyCyZb2nAqYQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/483c21fc-03c1-45cf-b476-a502e359067c?P1=1743560245&P2=404&P3=2&P4=d%2b4wan%2ffHwm6sOhrwUfLnZqrJUMYREe7rA1udt7S%2fOyuSTHpobLYj5AB8qs7ORk%2fJ1qExGnpBEgyCyZb2nAqYQ%3d%3d)  
 
