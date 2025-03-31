@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-03-31 16:07:23 (UTC-5)
+2025-03-31 17:08:07 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -117,11 +117,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e52aca4a-1dd2-4307-9371-a6ae65ff684f?P1=1743865710&P2=404&P3=2&P4=esIMeqqAx1ZWKuQuto4z4xtM78dw3RGnTFn0vBeWV%2foj6NfIp6qgqZEwZqr5cKHG44qusm53YixXNDoJ6wEP%2bA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e52aca4a-1dd2-4307-9371-a6ae65ff684f?P1=1743865710&P2=404&P3=2&P4=esIMeqqAx1ZWKuQuto4z4xtM78dw3RGnTFn0vBeWV%2foj6NfIp6qgqZEwZqr5cKHG44qusm53YixXNDoJ6wEP%2bA%3d%3d)  
 
 ## canary x64
-**最新版本**：136.0.3227.0  
-**文件大小**：166.87 MB  
-**文件名**：MicrosoftEdge_X64_136.0.3227.0.exe  
-**校验值（Sha256）**：f7f4ee03d35bd7251d19d4bfe64467355fe042f3772f120d7cd92a3605ca04e8  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4efd99c1-f065-483d-8090-4991448343ca?P1=1743865711&P2=404&P3=2&P4=RfYfqtlSMRJ%2b7OJOnVEC%2f4di%2f7GTa2wUaUnZSsj%2fwAlzgmsKnxNIrVnuXaBH%2fMfKm6265SvPLnpKnGkAeeqXZg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4efd99c1-f065-483d-8090-4991448343ca?P1=1743865711&P2=404&P3=2&P4=RfYfqtlSMRJ%2b7OJOnVEC%2f4di%2f7GTa2wUaUnZSsj%2fwAlzgmsKnxNIrVnuXaBH%2fMfKm6265SvPLnpKnGkAeeqXZg%3d%3d)  
+**最新版本**：136.0.3231.0  
+**文件大小**：166.82 MB  
+**文件名**：MicrosoftEdge_X64_136.0.3231.0.exe  
+**校验值（Sha256）**：38f4bc28a17b9bd3e6b392a400dbe2945dc7e98f37bc7f314454c022210f66e8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7ff9a17f-357c-46f8-aee2-80c91eb3903a?P1=1744063687&P2=404&P3=2&P4=c6WkyS2KcA9DlFbXKqAEq%2bwQPbLWEO0487SFiJyt6LgwF0MHAcj2Y3qkzFqA7H3qs2a7C8JjkFMxZSlJgSqxFQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7ff9a17f-357c-46f8-aee2-80c91eb3903a?P1=1744063687&P2=404&P3=2&P4=c6WkyS2KcA9DlFbXKqAEq%2bwQPbLWEO0487SFiJyt6LgwF0MHAcj2Y3qkzFqA7H3qs2a7C8JjkFMxZSlJgSqxFQ%3d%3d)  
 
 ## canary ARM64
 **最新版本**：136.0.3227.0  
