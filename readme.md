@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-04-01 17:07:53 (UTC-5)
+2025-04-01 18:07:44 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5b3f80c-68ec-4e89-9577-73e041f07c3d?P1=1744121294&P2=404&P3=2&P4=eV2PeVxBGFV15Gmkb7P3K8E7YZ%2bfgG20VBwsxqc4qxsyKQ192ZvB5T1Tdqw4eiASPW8tTfESUH6wLX9c50KF2Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5b3f80c-68ec-4e89-9577-73e041f07c3d?P1=1744121294&P2=404&P3=2&P4=eV2PeVxBGFV15Gmkb7P3K8E7YZ%2bfgG20VBwsxqc4qxsyKQ192ZvB5T1Tdqw4eiASPW8tTfESUH6wLX9c50KF2Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：136.0.3233.0  
-**文件大小**：171.31 MB  
-**文件名**：MicrosoftEdge_ARM64_136.0.3233.0.exe  
-**校验值（Sha256）**：861b2492d512b9c43759cce954a1d37403e8b25587da1aee766afb91a1b18be9  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e6dc280-d29b-4911-931a-95307463ad0f?P1=1744121294&P2=404&P3=2&P4=bUSjV4lDbHTlfJYFmnqcKneDH295aUV4mDRWIv9bSbfBUIbRJRgeIA%2bMqw93hOYFmLblqFlgltEyDNF6x6vnxA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7e6dc280-d29b-4911-931a-95307463ad0f?P1=1744121294&P2=404&P3=2&P4=bUSjV4lDbHTlfJYFmnqcKneDH295aUV4mDRWIv9bSbfBUIbRJRgeIA%2bMqw93hOYFmLblqFlgltEyDNF6x6vnxA%3d%3d)  
+**最新版本**：136.0.3234.0  
+**文件大小**：171.42 MB  
+**文件名**：MicrosoftEdge_ARM64_136.0.3234.0.exe  
+**校验值（Sha256）**：04e584c20bedaa787f6dfba12622dd4f7dc4b6870377c25b9dedc1ff0d628179  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b05835c-fabb-495f-8993-be1f86809b2f?P1=1744153664&P2=404&P3=2&P4=ealhLt%2flH4SHK6Jt2Zkr5uOdHjiVtF35zR2cdFuvb7Vg0RsYcaiMsNuGkCGXdPVLcDU%2bRlAonTdLRrGopA%2bphw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7b05835c-fabb-495f-8993-be1f86809b2f?P1=1744153664&P2=404&P3=2&P4=ealhLt%2flH4SHK6Jt2Zkr5uOdHjiVtF35zR2cdFuvb7Vg0RsYcaiMsNuGkCGXdPVLcDU%2bRlAonTdLRrGopA%2bphw%3d%3d)  
 
