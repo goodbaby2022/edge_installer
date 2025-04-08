@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-04-08 12:07:27 (UTC-5)
+2025-04-08 13:10:09 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e8cb3bb-ac3d-4844-b7d3-d0d71bed7ec6?P1=1744736847&P2=404&P3=2&P4=ILWdiEV4Zw4%2fOLj6u4nETVJ1jEAXM1PTVKeJrDyqcoI1tBBxe9DhaZWSxLDPVYut2PIgQDJAMz6LxAT1NkP0tg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5e8cb3bb-ac3d-4844-b7d3-d0d71bed7ec6?P1=1744736847&P2=404&P3=2&P4=ILWdiEV4Zw4%2fOLj6u4nETVJ1jEAXM1PTVKeJrDyqcoI1tBBxe9DhaZWSxLDPVYut2PIgQDJAMz6LxAT1NkP0tg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：136.0.3239.0  
-**文件大小**：172.8 MB  
-**文件名**：MicrosoftEdge_ARM64_136.0.3239.0.exe  
-**校验值（Sha256）**：4fb50f241021613d31997dc5e40fec92c42664319281d57cff708be43d6a51d7  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d954c8d5-8852-4826-a92a-91c42f2516cc?P1=1744380474&P2=404&P3=2&P4=J8VqxKA1ze3qyq3SrEQkfqdUXMmYKmxGa89b4VbRbgLHUX5k6JJzr31a4cE4OVwhJH50vXWvtPE4ylClM3LE9Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d954c8d5-8852-4826-a92a-91c42f2516cc?P1=1744380474&P2=404&P3=2&P4=J8VqxKA1ze3qyq3SrEQkfqdUXMmYKmxGa89b4VbRbgLHUX5k6JJzr31a4cE4OVwhJH50vXWvtPE4ylClM3LE9Q%3d%3d)  
+**最新版本**：137.0.3247.0  
+**文件大小**：171.35 MB  
+**文件名**：MicrosoftEdge_ARM64_137.0.3247.0.exe  
+**校验值（Sha256）**：651c8efc675ab55ff993d45b4e71292f1f7281a0affa9535f61a56340d2d2686  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c3c84d8-092f-472e-948d-b08ca51da2a9?P1=1744740610&P2=404&P3=2&P4=IugvlGbiU2tFdJ%2fdbXa7Eo8WBP0j4y1ZdVrQazmscKz8FEULkJDqhJjKKlKvRunxydGGyKpClBWYnZT5HWznmw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c3c84d8-092f-472e-948d-b08ca51da2a9?P1=1744740610&P2=404&P3=2&P4=IugvlGbiU2tFdJ%2fdbXa7Eo8WBP0j4y1ZdVrQazmscKz8FEULkJDqhJjKKlKvRunxydGGyKpClBWYnZT5HWznmw%3d%3d)  
 
