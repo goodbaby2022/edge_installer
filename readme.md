@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-04-12 11:08:36 (UTC-5)
+2025-04-12 12:03:58 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aee52e-fb41-4d63-9dc6-3812d04ce5b1?P1=1745078916&P2=404&P3=2&P4=BnhF58%2biGu47rnYJELf8m41R%2f1miC7vnag1NdzcMvv1vw%2bWAtesrS5Q5CI3GEyUqHGZuBjdoY2dRyqLJzSpRbA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aee52e-fb41-4d63-9dc6-3812d04ce5b1?P1=1745078916&P2=404&P3=2&P4=BnhF58%2biGu47rnYJELf8m41R%2f1miC7vnag1NdzcMvv1vw%2bWAtesrS5Q5CI3GEyUqHGZuBjdoY2dRyqLJzSpRbA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：137.0.3255.0  
-**文件大小**：173.09 MB  
-**文件名**：MicrosoftEdge_ARM64_137.0.3255.0.exe  
-**校验值（Sha256）**：e46b3ace8e1695ba94f9c021a7537246ddf3dccb015f90368a22396984adbdad  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/16113c27-fb6c-4ecb-a86e-4c3c1d6089eb?P1=1745017661&P2=404&P3=2&P4=SbD%2fIdxk%2f07Q0atHys1VYgjUhMsmLdB3vX8ta0IqYCC8tgzIn1ddA99TrrKNIAZ2z7okfXwyesToRXh4%2bcKNjw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/16113c27-fb6c-4ecb-a86e-4c3c1d6089eb?P1=1745017661&P2=404&P3=2&P4=SbD%2fIdxk%2f07Q0atHys1VYgjUhMsmLdB3vX8ta0IqYCC8tgzIn1ddA99TrrKNIAZ2z7okfXwyesToRXh4%2bcKNjw%3d%3d)  
+**最新版本**：137.0.3256.0  
+**文件大小**：173.61 MB  
+**文件名**：MicrosoftEdge_ARM64_137.0.3256.0.exe  
+**校验值（Sha256）**：1a7b2872347521704df1883dfe22c4fadf05e186383dc98dc583d620134ce3cc  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6f7650f-6d7a-44e9-8ada-aaf79179cda4?P1=1745082239&P2=404&P3=2&P4=bUJixOSbO2uWLvILFT1fF5rH3EJailqkH0BfrRLIcxWotZIWNJmJW62g15%2f6p91aLNGqrmCidaEQTyMYxCb2aQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6f7650f-6d7a-44e9-8ada-aaf79179cda4?P1=1745082239&P2=404&P3=2&P4=bUJixOSbO2uWLvILFT1fF5rH3EJailqkH0BfrRLIcxWotZIWNJmJW62g15%2f6p91aLNGqrmCidaEQTyMYxCb2aQ%3d%3d)  
 
