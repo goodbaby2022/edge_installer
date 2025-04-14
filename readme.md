@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-04-14 17:07:39 (UTC-5)
+2025-04-14 18:07:52 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f97360d-b2af-4585-ba83-3e9b78ceeb1c?P1=1745255243&P2=404&P3=2&P4=PcJdnWfoIqHf8%2fGhKKY0xDkoGjO%2fDpW2g0wyYpTcBd7uNlA8nsnV1LGzY7ucZcK8z6dGHE1GA5nK1kca3W2HsA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f97360d-b2af-4585-ba83-3e9b78ceeb1c?P1=1745255243&P2=404&P3=2&P4=PcJdnWfoIqHf8%2fGhKKY0xDkoGjO%2fDpW2g0wyYpTcBd7uNlA8nsnV1LGzY7ucZcK8z6dGHE1GA5nK1kca3W2HsA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：137.0.3260.0  
-**文件大小**：173.62 MB  
-**文件名**：MicrosoftEdge_ARM64_137.0.3260.0.exe  
-**校验值（Sha256）**：74f501f1ba0943a8330ab36f3b671669d5db65172cae42e6cce6f6cb7953e46d  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f0eabf1-86c5-460f-a496-70fd242cd7b6?P1=1745248134&P2=404&P3=2&P4=MpgNfWn6%2fR6gxzk596LPLC2hwMEBMFYbfCwOd12uslLLwNmxSUvlqDkmkl11lWh3qPQxjXlQLHd8e861TuulSw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f0eabf1-86c5-460f-a496-70fd242cd7b6?P1=1745248134&P2=404&P3=2&P4=MpgNfWn6%2fR6gxzk596LPLC2hwMEBMFYbfCwOd12uslLLwNmxSUvlqDkmkl11lWh3qPQxjXlQLHd8e861TuulSw%3d%3d)  
+**最新版本**：137.0.3261.0  
+**文件大小**：173.64 MB  
+**文件名**：MicrosoftEdge_ARM64_137.0.3261.0.exe  
+**校验值（Sha256）**：ba711e9a04cd5d1a94702cbb16e3d753c2b4da721b8591fcbee0d0679571dfc5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/23eeabb8-c7f1-4b0d-b2cb-4c5c8eb4e7e2?P1=1745276873&P2=404&P3=2&P4=PzQqRAsot1F%2fQ9IA6CDF%2fFZ6wgjxACg8KsdhCR%2bsa5GvM8NRgMfrjtuW6BfZOYfbM1r%2fsAaVQr2BP5%2bVb%2bWC1Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/23eeabb8-c7f1-4b0d-b2cb-4c5c8eb4e7e2?P1=1745276873&P2=404&P3=2&P4=PzQqRAsot1F%2fQ9IA6CDF%2fFZ6wgjxACg8KsdhCR%2bsa5GvM8NRgMfrjtuW6BfZOYfbM1r%2fsAaVQr2BP5%2bVb%2bWC1Q%3d%3d)  
 
