@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-04-14 09:08:27 (UTC-5)
+2025-04-14 10:08:53 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aee52e-fb41-4d63-9dc6-3812d04ce5b1?P1=1745078916&P2=404&P3=2&P4=BnhF58%2biGu47rnYJELf8m41R%2f1miC7vnag1NdzcMvv1vw%2bWAtesrS5Q5CI3GEyUqHGZuBjdoY2dRyqLJzSpRbA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11aee52e-fb41-4d63-9dc6-3812d04ce5b1?P1=1745078916&P2=404&P3=2&P4=BnhF58%2biGu47rnYJELf8m41R%2f1miC7vnag1NdzcMvv1vw%2bWAtesrS5Q5CI3GEyUqHGZuBjdoY2dRyqLJzSpRbA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：137.0.3256.0  
-**文件大小**：173.61 MB  
-**文件名**：MicrosoftEdge_ARM64_137.0.3256.0.exe  
-**校验值（Sha256）**：1a7b2872347521704df1883dfe22c4fadf05e186383dc98dc583d620134ce3cc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6f7650f-6d7a-44e9-8ada-aaf79179cda4?P1=1745082239&P2=404&P3=2&P4=bUJixOSbO2uWLvILFT1fF5rH3EJailqkH0BfrRLIcxWotZIWNJmJW62g15%2f6p91aLNGqrmCidaEQTyMYxCb2aQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c6f7650f-6d7a-44e9-8ada-aaf79179cda4?P1=1745082239&P2=404&P3=2&P4=bUJixOSbO2uWLvILFT1fF5rH3EJailqkH0BfrRLIcxWotZIWNJmJW62g15%2f6p91aLNGqrmCidaEQTyMYxCb2aQ%3d%3d)  
+**最新版本**：137.0.3260.0  
+**文件大小**：173.62 MB  
+**文件名**：MicrosoftEdge_ARM64_137.0.3260.0.exe  
+**校验值（Sha256）**：74f501f1ba0943a8330ab36f3b671669d5db65172cae42e6cce6f6cb7953e46d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f0eabf1-86c5-460f-a496-70fd242cd7b6?P1=1745248134&P2=404&P3=2&P4=MpgNfWn6%2fR6gxzk596LPLC2hwMEBMFYbfCwOd12uslLLwNmxSUvlqDkmkl11lWh3qPQxjXlQLHd8e861TuulSw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5f0eabf1-86c5-460f-a496-70fd242cd7b6?P1=1745248134&P2=404&P3=2&P4=MpgNfWn6%2fR6gxzk596LPLC2hwMEBMFYbfCwOd12uslLLwNmxSUvlqDkmkl11lWh3qPQxjXlQLHd8e861TuulSw%3d%3d)  
 
