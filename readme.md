@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-05-06 08:23:30 (UTC-5)
+2025-05-06 09:08:34 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9578b97-575b-4611-aa48-b6664f508f20?P1=1747142610&P2=404&P3=2&P4=GlQyRpnD%2fHx%2f%2bu6IJQrZUnEC53Ye5GIZhGBY4qMytKkjKgQ1SFjInyTpAj2RY4xGZBkbs3imlQw0Dj4eWKnSBg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b9578b97-575b-4611-aa48-b6664f508f20?P1=1747142610&P2=404&P3=2&P4=GlQyRpnD%2fHx%2f%2bu6IJQrZUnEC53Ye5GIZhGBY4qMytKkjKgQ1SFjInyTpAj2RY4xGZBkbs3imlQw0Dj4eWKnSBg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：138.0.3302.0  
-**文件大小**：176.78 MB  
-**文件名**：MicrosoftEdge_ARM64_138.0.3302.0.exe  
-**校验值（Sha256）**：1a8f965e59ab958b9dae658a70b03c5e6a649de564e549b9ad21fdd23c8e115c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb880d35-cb57-4606-a773-1a62b62cb92f?P1=1747091272&P2=404&P3=2&P4=DnxflCyzHxa8JL%2b2CZfUfeP%2f0EbJGSzsFlD%2fQisCtjRoe3AUX6WI%2bqG3Mlzb3Gxv7yJLXLZwPKKrIlDzFRhgpQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb880d35-cb57-4606-a773-1a62b62cb92f?P1=1747091272&P2=404&P3=2&P4=DnxflCyzHxa8JL%2b2CZfUfeP%2f0EbJGSzsFlD%2fQisCtjRoe3AUX6WI%2bqG3Mlzb3Gxv7yJLXLZwPKKrIlDzFRhgpQ%3d%3d)  
+**最新版本**：138.0.3303.0  
+**文件大小**：176.7 MB  
+**文件名**：MicrosoftEdge_ARM64_138.0.3303.0.exe  
+**校验值（Sha256）**：3238277229d1ac55b6ad638356efb5adb8eb2b2274d2a2de5e47e665f36b6092  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/babe6d17-1a64-4865-b55a-9f5c180a9a8f?P1=1747145315&P2=404&P3=2&P4=QXSg6dkhCAKDE56pzK2PNjGR2X95BLyeJIEmEEDHiP%2fiD5XBugObN4FATRMge1%2baph3mOE2nIoYpWL5ixN2ObA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/babe6d17-1a64-4865-b55a-9f5c180a9a8f?P1=1747145315&P2=404&P3=2&P4=QXSg6dkhCAKDE56pzK2PNjGR2X95BLyeJIEmEEDHiP%2fiD5XBugObN4FATRMge1%2baph3mOE2nIoYpWL5ixN2ObA%3d%3d)  
 
