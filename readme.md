@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-05-12 16:07:45 (UTC-5)
+2025-05-12 17:07:55 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/baba9794-65e3-4713-9112-9389a77bd4c2?P1=1747661044&P2=404&P3=2&P4=BFCCeNngvu%2bSpia05dk1VldK%2fGaaHwvF5ObGQpPISbavYWJFNgO1cmKS6wevu3Pb3SOEy%2fCYmRc9B36pMkUsIw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/baba9794-65e3-4713-9112-9389a77bd4c2?P1=1747661044&P2=404&P3=2&P4=BFCCeNngvu%2bSpia05dk1VldK%2fGaaHwvF5ObGQpPISbavYWJFNgO1cmKS6wevu3Pb3SOEy%2fCYmRc9B36pMkUsIw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：138.0.3315.0  
+**最新版本**：138.0.3316.0  
 **文件大小**：176.97 MB  
-**文件名**：MicrosoftEdge_ARM64_138.0.3315.0.exe  
-**校验值（Sha256）**：53d0059ae5d09f692ea90a40209ea8ad08ce5eee2b81038c22f9597e87412742  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af13eaae-755f-490b-ab88-1a8b53c68570?P1=1747663768&P2=404&P3=2&P4=jznVj2%2fJq5INnXgd8bGGgdQypc%2bCrw4x5rWjtmAOwaoZUgPDpiyeZHpBQeP0rzbcDFaepVqWXJ%2fLaKtN%2b3Hcog%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/af13eaae-755f-490b-ab88-1a8b53c68570?P1=1747663768&P2=404&P3=2&P4=jznVj2%2fJq5INnXgd8bGGgdQypc%2bCrw4x5rWjtmAOwaoZUgPDpiyeZHpBQeP0rzbcDFaepVqWXJ%2fLaKtN%2b3Hcog%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_138.0.3316.0.exe  
+**校验值（Sha256）**：d35e048481241833c4a662323a1aef331f681cbd492a63b1432020c13d2fbfcb  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/122313b4-0c71-4f45-85f0-c64bc20c7758?P1=1747692476&P2=404&P3=2&P4=kQ9MPlDmpYU7utoepDyicoZvAcXSmQLt1sbk8qEAep6hPjYnhqmGaEe5XESyp6lnwcadmVvpnov4q0RJh46tcQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/122313b4-0c71-4f45-85f0-c64bc20c7758?P1=1747692476&P2=404&P3=2&P4=kQ9MPlDmpYU7utoepDyicoZvAcXSmQLt1sbk8qEAep6hPjYnhqmGaEe5XESyp6lnwcadmVvpnov4q0RJh46tcQ%3d%3d)  
 
