@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-05-19 13:12:17 (UTC-5)
+2025-05-19 14:07:04 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/24abfe35-bcdb-4d31-85d5-2bd3b613e81e?P1=1747678312&P2=404&P3=2&P4=mpaH%2b1FZCAr0QSUzHsgBsw8wKpFpiU%2fuNstSLYPL3Dd4jbp8qNRfWk%2b3Itk%2fEM8%2f%2fLZH%2b%2fb3iEv1%2bA9AB%2bPI%2fQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/24abfe35-bcdb-4d31-85d5-2bd3b613e81e?P1=1747678312&P2=404&P3=2&P4=mpaH%2b1FZCAr0QSUzHsgBsw8wKpFpiU%2fuNstSLYPL3Dd4jbp8qNRfWk%2b3Itk%2fEM8%2f%2fLZH%2b%2fb3iEv1%2bA9AB%2bPI%2fQ%3d%3d)  
 
 ## beta ARM64
-**最新版本**：137.0.3296.16  
-**文件大小**：176.49 MB  
-**文件名**：MicrosoftEdge_ARM64_137.0.3296.16.exe  
-**校验值（Sha256）**：be6a25aa330dc3048f222c4a8b5f7eede541107bb55af294541f60870e957a6e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/13c0c843-c64a-4d2e-9ba2-20da5fb3af90?P1=1747678312&P2=404&P3=2&P4=cGfANC9w2K3XtlD%2briLGQsBPU4XYn3K4zYYnD6137VfbuhTwEVMU6kHeq3c%2fknBXXCJqmSzxyrWGXmgwNfB2dQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/13c0c843-c64a-4d2e-9ba2-20da5fb3af90?P1=1747678312&P2=404&P3=2&P4=cGfANC9w2K3XtlD%2briLGQsBPU4XYn3K4zYYnD6137VfbuhTwEVMU6kHeq3c%2fknBXXCJqmSzxyrWGXmgwNfB2dQ%3d%3d)  
+**最新版本**：137.0.3296.30  
+**文件大小**：176.64 MB  
+**文件名**：MicrosoftEdge_ARM64_137.0.3296.30.exe  
+**校验值（Sha256）**：3d9d80b08c2633f8f24bd2763243bfe708a7d6ab3ddabd38d73004f5c16d94fe  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/87a752b8-ef36-439d-a75c-954dd9f48fc8?P1=1748286423&P2=404&P3=2&P4=Qg2C0e0lt9mdx1TH1kw5yFFfdE3VskEh8yB7UHRd1asswW2Q2w4wJPA1mfIbwFF1RSB027KRbytE3Wnu0oCykw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/87a752b8-ef36-439d-a75c-954dd9f48fc8?P1=1748286423&P2=404&P3=2&P4=Qg2C0e0lt9mdx1TH1kw5yFFfdE3VskEh8yB7UHRd1asswW2Q2w4wJPA1mfIbwFF1RSB027KRbytE3Wnu0oCykw%3d%3d)  
 
 ## dev x86
 **最新版本**：138.0.3309.2  
