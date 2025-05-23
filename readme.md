@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-05-23 14:06:41 (UTC-5)
+2025-05-23 15:09:47 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -75,11 +75,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/54c83d80-cbb1-4278-a231-b87653752c1c?P1=1748387268&P2=404&P3=2&P4=ay2pYsVp8GlXQJO9%2bashXicz1pFSInZ5yFX%2fbI3NsO3mTrDWi63yGXQipz5tyenGbaDpnVMOuXKn99ncdBdGcw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/54c83d80-cbb1-4278-a231-b87653752c1c?P1=1748387268&P2=404&P3=2&P4=ay2pYsVp8GlXQJO9%2bashXicz1pFSInZ5yFX%2fbI3NsO3mTrDWi63yGXQipz5tyenGbaDpnVMOuXKn99ncdBdGcw%3d%3d)  
 
 ## beta x64
-**最新版本**：137.0.3296.30  
-**文件大小**：170.66 MB  
-**文件名**：MicrosoftEdge_X64_137.0.3296.30.exe  
-**校验值（Sha256）**：7b587d885ac9a21a5d5ddf171547632e4f96d2d7f4c43bed2a69e0301126af81  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37e239aa-3667-4509-a8f3-9d921732f5fd?P1=1748387268&P2=404&P3=2&P4=CMEHR5kAKsdrSBmtfpq2xNEFgYK6oFzYUC4wnZnKjY2d%2f1mWcvpVP7dicO%2fHVC6fhaAMulawsVNuSPGO9ch27g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/37e239aa-3667-4509-a8f3-9d921732f5fd?P1=1748387268&P2=404&P3=2&P4=CMEHR5kAKsdrSBmtfpq2xNEFgYK6oFzYUC4wnZnKjY2d%2f1mWcvpVP7dicO%2fHVC6fhaAMulawsVNuSPGO9ch27g%3d%3d)  
+**最新版本**：137.0.3296.39  
+**文件大小**：170.75 MB  
+**文件名**：MicrosoftEdge_X64_137.0.3296.39.exe  
+**校验值（Sha256）**：21002afff2f781ab5dfe1b6578d98e47a3655d42efdaae5777294e27209d3570  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c0692b8-1331-4d9b-a53e-d8738cfba00c?P1=1748635782&P2=404&P3=2&P4=NhqaCSA3Cum3qr9%2bmFW8vB3yeGX0xMTo9iFgs9lbkPnPks8V5d1PCqgLF1Kpx8loda4ExSsxeyCZf74SmgFK5Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8c0692b8-1331-4d9b-a53e-d8738cfba00c?P1=1748635782&P2=404&P3=2&P4=NhqaCSA3Cum3qr9%2bmFW8vB3yeGX0xMTo9iFgs9lbkPnPks8V5d1PCqgLF1Kpx8loda4ExSsxeyCZf74SmgFK5Q%3d%3d)  
 
 ## beta ARM64
 **最新版本**：137.0.3296.30  
