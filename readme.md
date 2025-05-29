@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-05-29 07:15:45 (UTC-5)
+2025-05-29 08:22:52 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f3bf44b-05fc-4490-9d67-62b12f3e4f54?P1=1749078513&P2=404&P3=2&P4=bNAFKqRjW5ix%2brSxx2kXz30s47NweNgqC%2foWVQqtvbdRH2bonfDo3UoS3V91RWc5Y9VeGX8ZG7CD01CKBQUsSQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2f3bf44b-05fc-4490-9d67-62b12f3e4f54?P1=1749078513&P2=404&P3=2&P4=bNAFKqRjW5ix%2brSxx2kXz30s47NweNgqC%2foWVQqtvbdRH2bonfDo3UoS3V91RWc5Y9VeGX8ZG7CD01CKBQUsSQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：138.0.3348.0  
-**文件大小**：177.59 MB  
-**文件名**：MicrosoftEdge_ARM64_138.0.3348.0.exe  
-**校验值（Sha256）**：50d40e0ff20e6f71b5a5ded48b3f867e480400cdb53ba97af24972a2201a1162  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ced4b4c-958f-4cb0-87bd-14da2b2d4322?P1=1749078514&P2=404&P3=2&P4=kHk91C4r8SnD19hhdy%2bnKo42lZe2nVRtrsofaAvEqd1ZyTIYENRmJqpTQpKsuuyVOHUewxvtt5pD%2b3gk9DtJ%2fQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ced4b4c-958f-4cb0-87bd-14da2b2d4322?P1=1749078514&P2=404&P3=2&P4=kHk91C4r8SnD19hhdy%2bnKo42lZe2nVRtrsofaAvEqd1ZyTIYENRmJqpTQpKsuuyVOHUewxvtt5pD%2b3gk9DtJ%2fQ%3d%3d)  
+**最新版本**：138.0.3349.0  
+**文件大小**：177.63 MB  
+**文件名**：MicrosoftEdge_ARM64_138.0.3349.0.exe  
+**校验值（Sha256）**：8793b3555336a25d68b7757c135c0370062cfe7426b29639a174bdf2f42134bd  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ebd0aee-932c-45a9-ba54-be406c02a04e?P1=1749129773&P2=404&P3=2&P4=afjRkwHZRpelUEYM2L7XPKxuKYqncJVAow4oAcwwP9hkW33PfKNodRvpmFTAV3kF8gtMWqezGRhNGakPw949Dw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ebd0aee-932c-45a9-ba54-be406c02a04e?P1=1749129773&P2=404&P3=2&P4=afjRkwHZRpelUEYM2L7XPKxuKYqncJVAow4oAcwwP9hkW33PfKNodRvpmFTAV3kF8gtMWqezGRhNGakPw949Dw%3d%3d)  
 
