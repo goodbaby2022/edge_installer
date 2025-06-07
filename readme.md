@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-06-06 19:42:30 (UTC-5)
+2025-06-06 21:27:46 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee68104f-d289-406e-aabc-7ac515fd1d5e?P1=1749861750&P2=404&P3=2&P4=js6Ep%2bsuOIdCW2XjUL3c%2fEZa9Sr3xdCgfOLJ%2fLlyHOJZh1RyYf%2bue2l8yo4r9eSv4d0FQPScKsKQqeoPY8nq%2fg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ee68104f-d289-406e-aabc-7ac515fd1d5e?P1=1749861750&P2=404&P3=2&P4=js6Ep%2bsuOIdCW2XjUL3c%2fEZa9Sr3xdCgfOLJ%2fLlyHOJZh1RyYf%2bue2l8yo4r9eSv4d0FQPScKsKQqeoPY8nq%2fg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3365.0  
-**文件大小**：177.16 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3365.0.exe  
-**校验值（Sha256）**：8b08c4274695897ab025531d3c528ea5cb9cf4613ebb02ff9c021062919e20cb  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/55e1c620-e02e-4a9e-bdd3-e001bf4f951c?P1=1749820945&P2=404&P3=2&P4=U4q73tf9cuGbiQx91oghHShhcu1AmZ7VdovKHYkRN08GwfIjrm0LampA1mpu1Uw0sXl7Yqz1gCwlpWtpoHRZXA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/55e1c620-e02e-4a9e-bdd3-e001bf4f951c?P1=1749820945&P2=404&P3=2&P4=U4q73tf9cuGbiQx91oghHShhcu1AmZ7VdovKHYkRN08GwfIjrm0LampA1mpu1Uw0sXl7Yqz1gCwlpWtpoHRZXA%3d%3d)  
+**最新版本**：139.0.3366.0  
+**文件大小**：177.15 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3366.0.exe  
+**校验值（Sha256）**：821eaa62f205444f2a25d63ca7c665d422e04e1f74e91e0d5dc48cabe85ea2b7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7df59ab-c31e-405c-8d68-47b4b9e05875?P1=1749868067&P2=404&P3=2&P4=IA0V7MkOVaRGHKx2%2babMowlgSeOe5EFpBDgWrQ6Nie5OhU43Ne1cqMizOpERqO%2bDCDeiIdmG6J%2b79VG6TSoTGw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f7df59ab-c31e-405c-8d68-47b4b9e05875?P1=1749868067&P2=404&P3=2&P4=IA0V7MkOVaRGHKx2%2babMowlgSeOe5EFpBDgWrQ6Nie5OhU43Ne1cqMizOpERqO%2bDCDeiIdmG6J%2b79VG6TSoTGw%3d%3d)  
 
