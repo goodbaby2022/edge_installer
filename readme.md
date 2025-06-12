@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-06-11 18:08:34 (UTC-5)
+2025-06-11 19:42:43 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6fa24e11-598c-4110-8b00-97e255e6eeb7?P1=1750288114&P2=404&P3=2&P4=ZwVoIXPmOPiTt46DOlxraMKU94CuBYPgwh75thL9xd7vcPtfqGKEpO8OnaVSXvo%2fXCHLBxSsXLE7hWFUninvWA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6fa24e11-598c-4110-8b00-97e255e6eeb7?P1=1750288114&P2=404&P3=2&P4=ZwVoIXPmOPiTt46DOlxraMKU94CuBYPgwh75thL9xd7vcPtfqGKEpO8OnaVSXvo%2fXCHLBxSsXLE7hWFUninvWA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3375.0  
-**文件大小**：177.25 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3375.0.exe  
-**校验值（Sha256）**：8d3afd005d8f3c2e32b84d5613a5c764353793ee0b8399bca692aaf6846c7881  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9d3b195a-1a1b-437e-b42a-fcefe4f4bdff?P1=1750288114&P2=404&P3=2&P4=hlyrz6rP2rpHYps6MulIM%2f0oDEt3vvBVHPHvOm1dhBJKHr%2frTtUGPWnBssmEt%2bYkca1qOnaY6MybBu50nToB9g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9d3b195a-1a1b-437e-b42a-fcefe4f4bdff?P1=1750288114&P2=404&P3=2&P4=hlyrz6rP2rpHYps6MulIM%2f0oDEt3vvBVHPHvOm1dhBJKHr%2frTtUGPWnBssmEt%2bYkca1qOnaY6MybBu50nToB9g%3d%3d)  
+**最新版本**：139.0.3376.0  
+**文件大小**：177.29 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3376.0.exe  
+**校验值（Sha256）**：4d3b2e16de875cfc7843d63f4a60681790e14e0e5cb67603be0de674cf69e511  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa96058d-0f3a-4dcc-b015-0a69513a42a7?P1=1750293763&P2=404&P3=2&P4=aFokdeITfqw1mHJQ7PjrP9sgrxl0XtSq7ZIqJUh3dnuYgvGmsdKbhVeX2ZhbvghQSpT1OZCw9GRz8X1aAeQlmw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa96058d-0f3a-4dcc-b015-0a69513a42a7?P1=1750293763&P2=404&P3=2&P4=aFokdeITfqw1mHJQ7PjrP9sgrxl0XtSq7ZIqJUh3dnuYgvGmsdKbhVeX2ZhbvghQSpT1OZCw9GRz8X1aAeQlmw%3d%3d)  
 
