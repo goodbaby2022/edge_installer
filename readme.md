@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-06-13 18:08:41 (UTC-5)
+2025-06-13 19:41:38 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1965d071-9990-4abe-8955-af9883ca6b9a?P1=1750460920&P2=404&P3=2&P4=IXkGbbHKMWkRh3%2bxBUADnjr9lRqttJqc9mr5Q%2bcifHcjcfHYodDwLr4w%2bYdk1HvDhBGZHkc7Y2xa5IHmWXhMXw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1965d071-9990-4abe-8955-af9883ca6b9a?P1=1750460920&P2=404&P3=2&P4=IXkGbbHKMWkRh3%2bxBUADnjr9lRqttJqc9mr5Q%2bcifHcjcfHYodDwLr4w%2bYdk1HvDhBGZHkc7Y2xa5IHmWXhMXw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3378.0  
-**文件大小**：177.5 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3378.0.exe  
-**校验值（Sha256）**：9a6907841d5e877faa308069b22bad8da0cada1e02e861d91929f9ff7139a3c0  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c259847-fed6-48ce-9f2e-268cdbbdb24e?P1=1750374536&P2=404&P3=2&P4=DlKujkX2k%2fXbKLKlM94rQsvSgh6Oq4WRff6qtK5EkmDEiS183yXVkjQRUhOkEmgsWOl4qLxjqI3y%2f5vLulO70g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7c259847-fed6-48ce-9f2e-268cdbbdb24e?P1=1750374536&P2=404&P3=2&P4=DlKujkX2k%2fXbKLKlM94rQsvSgh6Oq4WRff6qtK5EkmDEiS183yXVkjQRUhOkEmgsWOl4qLxjqI3y%2f5vLulO70g%3d%3d)  
+**最新版本**：139.0.3380.0  
+**文件大小**：171.06 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3380.0.exe  
+**校验值（Sha256）**：58f541eaaacd221a1ed295f2706b1eca6e599be8fdedc1bfd5b64ae7a3f94b37  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6d9f02e-14a6-4159-b994-c8334df28c1c?P1=1750466499&P2=404&P3=2&P4=X%2bQ0i97VAKxlwvjC3q0ePbLCo9UGWKO0aePzTqFsyCvd0gQLkqrKAOoR5XWnJDlFdRRWC4ZhsNArLejSGYBzag%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6d9f02e-14a6-4159-b994-c8334df28c1c?P1=1750466499&P2=404&P3=2&P4=X%2bQ0i97VAKxlwvjC3q0ePbLCo9UGWKO0aePzTqFsyCvd0gQLkqrKAOoR5XWnJDlFdRRWC4ZhsNArLejSGYBzag%3d%3d)  
 
