@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-06-16 08:26:17 (UTC-5)
+2025-06-16 09:09:18 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/36a53ed5-58e9-41e7-bc7d-e65bef85aee0?P1=1750685175&P2=404&P3=2&P4=Cdy9l9W9ALQv2LehH%2b4rYQ07%2fgRZkGfryIZGAyikSy4d4NdwYtbQFi76rRyv5lDXHQBh3Zx%2bsGQ8wd2IUEPxMQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/36a53ed5-58e9-41e7-bc7d-e65bef85aee0?P1=1750685175&P2=404&P3=2&P4=Cdy9l9W9ALQv2LehH%2b4rYQ07%2fgRZkGfryIZGAyikSy4d4NdwYtbQFi76rRyv5lDXHQBh3Zx%2bsGQ8wd2IUEPxMQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3380.0  
-**文件大小**：171.06 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3380.0.exe  
-**校验值（Sha256）**：58f541eaaacd221a1ed295f2706b1eca6e599be8fdedc1bfd5b64ae7a3f94b37  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6d9f02e-14a6-4159-b994-c8334df28c1c?P1=1750466499&P2=404&P3=2&P4=X%2bQ0i97VAKxlwvjC3q0ePbLCo9UGWKO0aePzTqFsyCvd0gQLkqrKAOoR5XWnJDlFdRRWC4ZhsNArLejSGYBzag%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6d9f02e-14a6-4159-b994-c8334df28c1c?P1=1750466499&P2=404&P3=2&P4=X%2bQ0i97VAKxlwvjC3q0ePbLCo9UGWKO0aePzTqFsyCvd0gQLkqrKAOoR5XWnJDlFdRRWC4ZhsNArLejSGYBzag%3d%3d)  
+**最新版本**：139.0.3385.0  
+**文件大小**：179.45 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3385.0.exe  
+**校验值（Sha256）**：3c844020b790941b20e44d93d82ef7a4f277be99813a6a14faca99efada7b4b5  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c034681-d436-4c26-b02a-f6b722355223?P1=1750687758&P2=404&P3=2&P4=DMt1YpKqDuTE3ERBu8yW7saUbisx3iZljlJqY%2bJ2hFzelsSC6oue%2f%2fvPF48KcKLuVFbSnddmkyK1B4n7yQLXxw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c034681-d436-4c26-b02a-f6b722355223?P1=1750687758&P2=404&P3=2&P4=DMt1YpKqDuTE3ERBu8yW7saUbisx3iZljlJqY%2bJ2hFzelsSC6oue%2f%2fvPF48KcKLuVFbSnddmkyK1B4n7yQLXxw%3d%3d)  
 
