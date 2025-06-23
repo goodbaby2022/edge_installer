@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-06-23 08:26:42 (UTC-5)
+2025-06-23 09:09:34 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f43dd8b5-fe9c-495c-b649-da02ee3a2d26?P1=1751290002&P2=404&P3=2&P4=F8rcXiMcXZfzxj2QpCQRvFgXQ5JBOjgtfw1zBarHlyTl60uqR9gsFX1s0afuJgSs4bg1NAOzYeYV1Bh0ijocFA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f43dd8b5-fe9c-495c-b649-da02ee3a2d26?P1=1751290002&P2=404&P3=2&P4=F8rcXiMcXZfzxj2QpCQRvFgXQ5JBOjgtfw1zBarHlyTl60uqR9gsFX1s0afuJgSs4bg1NAOzYeYV1Bh0ijocFA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3394.0  
-**文件大小**：179.45 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3394.0.exe  
-**校验值（Sha256）**：9ba9f9377c382e457cf6eb2976db7c8f6659fa09ef321aac540c65de2dcc9a5c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1823e36c-e7a0-407a-9b05-8b67cb59ea57?P1=1751071350&P2=404&P3=2&P4=XLYsg3VsQztUJdI%2f8aTiea1zGLIqPzrrsbjnbH%2fr3tgb075VhpmXekTVWv88VVqInI74SCIKb5E3JMfP3LkB1w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1823e36c-e7a0-407a-9b05-8b67cb59ea57?P1=1751071350&P2=404&P3=2&P4=XLYsg3VsQztUJdI%2f8aTiea1zGLIqPzrrsbjnbH%2fr3tgb075VhpmXekTVWv88VVqInI74SCIKb5E3JMfP3LkB1w%3d%3d)  
+**最新版本**：139.0.3399.0  
+**文件大小**：179.48 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3399.0.exe  
+**校验值（Sha256）**：93a5a07ebd7e7b5ae96592194634ca5a71ea0fbf5cb76b4376c40c1a715c21aa  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3cc196d5-0f04-4865-b4fb-fe29ba0dc09e?P1=1751292575&P2=404&P3=2&P4=a1n2aQwXjQaGxzKomLNlhRShzu0a7k1coPHUw0ZN2RCHHrlQJ%2b22jFV8P0CTm%2bSXMdrT04lLUbajsReCTC%2flGA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3cc196d5-0f04-4865-b4fb-fe29ba0dc09e?P1=1751292575&P2=404&P3=2&P4=a1n2aQwXjQaGxzKomLNlhRShzu0a7k1coPHUw0ZN2RCHHrlQJ%2b22jFV8P0CTm%2bSXMdrT04lLUbajsReCTC%2flGA%3d%3d)  
 
