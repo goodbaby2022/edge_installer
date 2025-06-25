@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-06-25 09:09:25 (UTC-5)
+2025-06-25 10:09:31 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/068580c1-fb9d-4289-bc8f-2732e886ecf2?P1=1751462802&P2=404&P3=2&P4=Z7p8hr%2bPd9lKqfBH35eN4JzoCOi%2f%2frxY99u3ZvF8ee9kk6PhdSxrWHdEqRupKBk7PfV%2fxdV5XmqaC45xBfuu%2fg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/068580c1-fb9d-4289-bc8f-2732e886ecf2?P1=1751462802&P2=404&P3=2&P4=Z7p8hr%2bPd9lKqfBH35eN4JzoCOi%2f%2frxY99u3ZvF8ee9kk6PhdSxrWHdEqRupKBk7PfV%2fxdV5XmqaC45xBfuu%2fg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：139.0.3402.0  
+**最新版本**：139.0.3403.0  
 **文件大小**：181.02 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3402.0.exe  
-**校验值（Sha256）**：755a10b00d343d326b62222b61a5fcb98677dd6212531622ff250e792b19f2ae  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a4ccd64f-abad-4e88-9f8e-96b8539b291a?P1=1751417041&P2=404&P3=2&P4=dNTK4ZDaXNQNYchdKSc88r6CAQlDwihFsucPNWJ6OTcs1auY4zZ%2bdsR8%2fk36izrEKE2zrWfj8d9pFCqmkOi2QA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a4ccd64f-abad-4e88-9f8e-96b8539b291a?P1=1751417041&P2=404&P3=2&P4=dNTK4ZDaXNQNYchdKSc88r6CAQlDwihFsucPNWJ6OTcs1auY4zZ%2bdsR8%2fk36izrEKE2zrWfj8d9pFCqmkOi2QA%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_139.0.3403.0.exe  
+**校验值（Sha256）**：ce5b3ca1c0fe5b16e38f4340490d2e9b6a8a6a3a51d552acd1949d80289167f2  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a3d6359-bea7-4333-a65f-b5c9561a147d?P1=1751468971&P2=404&P3=2&P4=M3jsWes2Uf57HuGozHculJcX%2btuPL7F9bsYlZvCag2ABd%2fB5shgL2W07psyUD778xR9KNMVYnpGBNhzgq%2fiBGg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4a3d6359-bea7-4333-a65f-b5c9561a147d?P1=1751468971&P2=404&P3=2&P4=M3jsWes2Uf57HuGozHculJcX%2btuPL7F9bsYlZvCag2ABd%2fB5shgL2W07psyUD778xR9KNMVYnpGBNhzgq%2fiBGg%3d%3d)  
 
