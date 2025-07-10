@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-07-10 14:07:12 (UTC-5)
+2025-07-10 15:09:33 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -47,11 +47,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1752102506&P2=404&P3=2&P4=cFJa%2fPEjy6ucBHpFmBbX8qU3ZQcM1JEZyJRKw5nQB4Cp%2fjs3of2A657Y18aK0rJychNrLK0dvfODMGWKMItAIQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1752102506&P2=404&P3=2&P4=cFJa%2fPEjy6ucBHpFmBbX8qU3ZQcM1JEZyJRKw5nQB4Cp%2fjs3of2A657Y18aK0rJychNrLK0dvfODMGWKMItAIQ%3d%3d)  
 
 ## stable x86
-**最新版本**：138.0.3351.77  
-**文件大小**：155.1 MB  
-**文件名**：MicrosoftEdge_X86_138.0.3351.77.exe  
-**校验值（Sha256）**：bcb10b18899c731e9375339e9694d5ec4f53ddf4a58abee3c86af3c6ef37a950  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/89c61b1c-8f06-49c9-993f-f137a70cec7b?P1=1752523784&P2=404&P3=2&P4=EvTfOjCqWh1vNXyGoOT0IZFTvdL4pkEt5Er2NL7BN17jtEppq5C19T0nhf%2fQmMyNTW4zZmwkuRMmZfEtGucCGg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/89c61b1c-8f06-49c9-993f-f137a70cec7b?P1=1752523784&P2=404&P3=2&P4=EvTfOjCqWh1vNXyGoOT0IZFTvdL4pkEt5Er2NL7BN17jtEppq5C19T0nhf%2fQmMyNTW4zZmwkuRMmZfEtGucCGg%3d%3d)  
+**最新版本**：138.0.3351.83  
+**文件大小**：154.67 MB  
+**文件名**：MicrosoftEdge_X86_138.0.3351.83.exe  
+**校验值（Sha256）**：24a9f32bd4d3d041d2f988fb2c62119331a2d231bbe52f61a440eb155cab58c8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8543513b-3813-4602-a110-8a74663f2ef8?P1=1752782970&P2=404&P3=2&P4=JJhGwE0k8m9%2bIFhzxaNQRh5IzE27SnqFwfZWOywGC%2fKd4gevFvsuw3cZWeaMOvQH93Ez%2fF8gPUksSHBnXaEvIg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8543513b-3813-4602-a110-8a74663f2ef8?P1=1752782970&P2=404&P3=2&P4=JJhGwE0k8m9%2bIFhzxaNQRh5IzE27SnqFwfZWOywGC%2fKd4gevFvsuw3cZWeaMOvQH93Ez%2fF8gPUksSHBnXaEvIg%3d%3d)  
 
 ## stable x64
 **最新版本**：138.0.3351.83  
