@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-07-15 08:29:03 (UTC-5)
+2025-07-15 09:10:58 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d2efa26-3ddd-4e95-853d-65fcfde6464a?P1=1753190942&P2=404&P3=2&P4=BZNe4htcNDqOXw3sffzAtmcHK82HQ7SZJeWKOO4I%2bOMlBdySbopvX5D4uXqHDEmBUaZmdVmxyXruHlI2%2f4UI2Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d2efa26-3ddd-4e95-853d-65fcfde6464a?P1=1753190942&P2=404&P3=2&P4=BZNe4htcNDqOXw3sffzAtmcHK82HQ7SZJeWKOO4I%2bOMlBdySbopvX5D4uXqHDEmBUaZmdVmxyXruHlI2%2f4UI2Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：140.0.3436.0  
-**文件大小**：180.79 MB  
-**文件名**：MicrosoftEdge_ARM64_140.0.3436.0.exe  
-**校验值（Sha256）**：3e1367f6769c3ec8d3af6c91d68297d6b648b3548fe2aea5dbdfbeba87e910ca  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/23d92f2e-7c74-4d2e-8c29-667a872294fe?P1=1753145209&P2=404&P3=2&P4=N6bdfBWUjgJcajPh79VDuhPMkBYAqr9ZetIOPrmHA7ZQQjr2jcX8ljhag1Mkmt4YlxRI9hdV2bwK4Hgfx0QFBQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/23d92f2e-7c74-4d2e-8c29-667a872294fe?P1=1753145209&P2=404&P3=2&P4=N6bdfBWUjgJcajPh79VDuhPMkBYAqr9ZetIOPrmHA7ZQQjr2jcX8ljhag1Mkmt4YlxRI9hdV2bwK4Hgfx0QFBQ%3d%3d)  
+**最新版本**：140.0.3437.0  
+**文件大小**：180.8 MB  
+**文件名**：MicrosoftEdge_ARM64_140.0.3437.0.exe  
+**校验值（Sha256）**：7e4430d888f4872a2d64bd67df9ea3755f1a761782bb1bfd16a27819b06e4115  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/316ed5d1-52a3-45aa-9d36-c98657414aca?P1=1753193459&P2=404&P3=2&P4=OzYqRubPyudgaa2Tbb3oXaRRE39dq2HcM61zlF9etDMCaAyRIeBrOjmK2B3pPq1QPkzBCMcL5PtB%2b%2bUhAIpUYQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/316ed5d1-52a3-45aa-9d36-c98657414aca?P1=1753193459&P2=404&P3=2&P4=OzYqRubPyudgaa2Tbb3oXaRRE39dq2HcM61zlF9etDMCaAyRIeBrOjmK2B3pPq1QPkzBCMcL5PtB%2b%2bUhAIpUYQ%3d%3d)  
 
