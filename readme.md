@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-07-22 08:30:17 (UTC-5)
+2025-07-22 09:12:04 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9896ba1e-4bd2-4a67-94c1-4e34addfbc6b?P1=1753795817&P2=404&P3=2&P4=Y8%2fLT3VzCZ3RisKhdL3xwYYZuwbQD8lLQGqcNxltlMu391q6OvyBbC%2fDkA4Uoi7kYut05eoR8zgMOoPQn%2fxOTw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9896ba1e-4bd2-4a67-94c1-4e34addfbc6b?P1=1753795817&P2=404&P3=2&P4=Y8%2fLT3VzCZ3RisKhdL3xwYYZuwbQD8lLQGqcNxltlMu391q6OvyBbC%2fDkA4Uoi7kYut05eoR8zgMOoPQn%2fxOTw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：140.0.3450.0  
-**文件大小**：181.19 MB  
-**文件名**：MicrosoftEdge_ARM64_140.0.3450.0.exe  
-**校验值（Sha256）**：7b15679967b6f53a30ec9049be7c6b213f21911a6b174ca9308a937ca6aa4dae  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5717c08-94a7-4a34-9bc0-d9be1aac3ac0?P1=1753749973&P2=404&P3=2&P4=LG81upm5NtBgwTPehUGMddlrMlYaLv0KvPyAWRusmlPHiyptu8IvQk1c1PCKOiZ8ZRpKwmxT9HvlTX5d72o%2b0A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5717c08-94a7-4a34-9bc0-d9be1aac3ac0?P1=1753749973&P2=404&P3=2&P4=LG81upm5NtBgwTPehUGMddlrMlYaLv0KvPyAWRusmlPHiyptu8IvQk1c1PCKOiZ8ZRpKwmxT9HvlTX5d72o%2b0A%3d%3d)  
+**最新版本**：140.0.3451.0  
+**文件大小**：181.31 MB  
+**文件名**：MicrosoftEdge_ARM64_140.0.3451.0.exe  
+**校验值（Sha256）**：6fc74200ec5219b933f26e5e15f3555c36cce53bf807732549595cd52dcdab2f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5db4e391-22aa-4b00-9e33-9cebf49cc9e1?P1=1753798324&P2=404&P3=2&P4=Ac68mgAeEWn51xb4VPd0OxHmMk9DrRSZDyxn25q8RezyfvbidwRD4aaqxwX4KsZqaIVZAp1bF7fsN%2baqe9tHKQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5db4e391-22aa-4b00-9e33-9cebf49cc9e1?P1=1753798324&P2=404&P3=2&P4=Ac68mgAeEWn51xb4VPd0OxHmMk9DrRSZDyxn25q8RezyfvbidwRD4aaqxwX4KsZqaIVZAp1bF7fsN%2baqe9tHKQ%3d%3d)  
 
