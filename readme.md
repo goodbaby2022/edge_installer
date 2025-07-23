@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-07-23 11:12:06 (UTC-5)
+2025-07-23 12:12:25 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb1d01e8-8fef-433b-a041-5566754d3cbd?P1=1753830527&P2=404&P3=2&P4=WkDYSWdddc04RaMt%2fQjoquUM6hAzDaK5eFHok3CwQVqQP815dvu%2fKaDYAyDya57CkCWzjrR7oHtELUT%2bxQbAoQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb1d01e8-8fef-433b-a041-5566754d3cbd?P1=1753830527&P2=404&P3=2&P4=WkDYSWdddc04RaMt%2fQjoquUM6hAzDaK5eFHok3CwQVqQP815dvu%2fKaDYAyDya57CkCWzjrR7oHtELUT%2bxQbAoQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：140.0.3452.0  
+**最新版本**：140.0.3453.0  
 **文件大小**：181.27 MB  
-**文件名**：MicrosoftEdge_ARM64_140.0.3452.0.exe  
-**校验值（Sha256）**：5abd84e3bfe4958dc834dc17804b9d1be36ac6e138ed339934cb47db28145174  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2fb64b1e-4935-4a98-b129-f9f8a3d255b1?P1=1753830528&P2=404&P3=2&P4=JuyaI5MpT8WfkW8AiSv7X57auIndk1EV4nLonUUP8%2fMaSs4hWhSsatQulAA6A9KRBZut27VJgWu%2fWMkIZ1WUqw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2fb64b1e-4935-4a98-b129-f9f8a3d255b1?P1=1753830528&P2=404&P3=2&P4=JuyaI5MpT8WfkW8AiSv7X57auIndk1EV4nLonUUP8%2fMaSs4hWhSsatQulAA6A9KRBZut27VJgWu%2fWMkIZ1WUqw%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_140.0.3453.0.exe  
+**校验值（Sha256）**：c2053b3afa092fb33b4a16eef8bd9a6757b08d649dca507ec38b4e314d0017ed  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b7716d2f-b1fb-4a42-9caa-04930de65460?P1=1753895546&P2=404&P3=2&P4=X82L5MC0VAkPd%2f9KWmeYD8yBHooFL1Aute7Bcbz9hSewxLP%2bnptcuWDK8Jd85%2f8a4H0sIf%2bt7fk93Ih%2f%2bCVl6Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b7716d2f-b1fb-4a42-9caa-04930de65460?P1=1753895546&P2=404&P3=2&P4=X82L5MC0VAkPd%2f9KWmeYD8yBHooFL1Aute7Bcbz9hSewxLP%2bnptcuWDK8Jd85%2f8a4H0sIf%2bt7fk93Ih%2f%2bCVl6Q%3d%3d)  
 
