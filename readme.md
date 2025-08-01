@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-08-01 12:12:56 (UTC-5)
+2025-08-01 13:13:08 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -82,11 +82,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9e560b47-79c3-44e1-9490-fbb6005f0a56?P1=1754348979&P2=404&P3=2&P4=TiEvIkYeYAluCxeRp2mhX%2f7R3wZDnTEasBfIw1ordxoi8uFpcjhKgT5K74Ej3PQEHHsgKdkfqhItkzp06bHXDg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9e560b47-79c3-44e1-9490-fbb6005f0a56?P1=1754348979&P2=404&P3=2&P4=TiEvIkYeYAluCxeRp2mhX%2f7R3wZDnTEasBfIw1ordxoi8uFpcjhKgT5K74Ej3PQEHHsgKdkfqhItkzp06bHXDg%3d%3d)  
 
 ## beta ARM64
-**最新版本**：139.0.3405.64  
-**文件大小**：179.98 MB  
-**文件名**：MicrosoftEdge_ARM64_139.0.3405.64.exe  
-**校验值（Sha256）**：1300bd0372a553f24e8c39c24cc481b46550d9eaddfc3cca55d32d442523ae52  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1002cd18-6017-43f8-8e20-f87e40f4888a?P1=1754348980&P2=404&P3=2&P4=H26d0QE3%2bIoF3MRqRRh38iGTkeauARBe1pYSwV%2bBXgiQ3D5FOZX28%2fUjF3Ya0eQXskVd9ZJGNlDdd0ZipYVKzw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1002cd18-6017-43f8-8e20-f87e40f4888a?P1=1754348980&P2=404&P3=2&P4=H26d0QE3%2bIoF3MRqRRh38iGTkeauARBe1pYSwV%2bBXgiQ3D5FOZX28%2fUjF3Ya0eQXskVd9ZJGNlDdd0ZipYVKzw%3d%3d)  
+**最新版本**：139.0.3405.73  
+**文件大小**：180.07 MB  
+**文件名**：MicrosoftEdge_ARM64_139.0.3405.73.exe  
+**校验值（Sha256）**：f4b258f44a9432f3a30434a7f9d0eb72895ebb29bea00ea09319d5d0f2a74ca9  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9110db3a-7810-425d-92e0-4b10556b27d1?P1=1754676786&P2=404&P3=2&P4=Cs1PEEwYpa%2fa2YJEFiLEWBBVZ9MYaZz%2fhgBluH1pqQMiurJkFnnLskRvLoJFIlpfIbnOfEHplxFM45XW7sq%2bTA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9110db3a-7810-425d-92e0-4b10556b27d1?P1=1754676786&P2=404&P3=2&P4=Cs1PEEwYpa%2fa2YJEFiLEWBBVZ9MYaZz%2fhgBluH1pqQMiurJkFnnLskRvLoJFIlpfIbnOfEHplxFM45XW7sq%2bTA%3d%3d)  
 
 ## dev x86
 **最新版本**：140.0.3456.0  
