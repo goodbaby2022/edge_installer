@@ -104,19 +104,19 @@
         "version": "140.0.3479.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_140.0.3479.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6ca55302-e8cd-4019-bb55-82e3055b90a7?P1=1755005622&P2=404&P3=2&P4=fbswKTSWUUbr9V9EYGrC4vY7095iQYdsdwMPLzD2D5NPgEmk6aopophRxpISZG3Us2ZjwSzBhkfAUR3iEvOuzw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 185736272,
-        "Sha1": "HTEKpLlGPJfBTsnuADnKJvChrQw=",
-        "Sha256": "6c2d1119b36a8a92924b26d62b8c0f3ceb7dba59993f4ff7e38d2c7bfa99611a",
-        "version": "140.0.3479.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_140.0.3480.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/880b15c9-4ada-4a23-87c3-820ba902319a?P1=1755040145&P2=404&P3=2&P4=a7939qz5BFodSXE5JAySXvzXO%2bN%2bBcI99VyMkzjnkG7IGGyldVB%2fONc65EjcIwS39EWHXiyexHuT3T%2bRSL4OfA%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 185784928,
+        "Sha1": "GHrSO6SrsaWsu5J2CWtk7TUQe60=",
+        "Sha256": "3d52c0f340f93c0ef41ab7b15ab3ca222c0f07a8c60007e854bad691d325a445",
+        "version": "140.0.3480.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_140.0.3479.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a018c422-e1a4-4af7-bd9b-3e9b3022ae3d?P1=1755005623&P2=404&P3=2&P4=aLALsUOoQWPDUWmmuQr8ESp8f3xOqd5ngQlFKVnwIaMgg4LXFIhmPyjYsk3HPBZljO80OW2djq%2f7vWqZgMWBEw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 190603832,
-        "Sha1": "ZIyh0+C1FyEjC8M8PaoLXM9pswM=",
-        "Sha256": "66ec8ccfbce8f79d693d6e2b85d8030f65039c1391f5289153091047c6d649b9",
-        "version": "140.0.3479.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_140.0.3480.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ae426689-d739-4afb-a349-322297de5a33?P1=1755040146&P2=404&P3=2&P4=UvpalT4DFKaFnGzzrgF89RJUigaEN5vn5xpM6A7ZC8SeDexuOisHbl6QoZttHqi%2bRNYBXHLKP6O4Oas0tVx5NQ%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 190630992,
+        "Sha1": "oPDbjTUQ467gDhAzqzRq3C2lddY=",
+        "Sha256": "10b481bdaa2ee1242db1abf4d34dd2b49bbb16a365e6f0c191e72e6e1b7ab342",
+        "version": "140.0.3480.0"
     }
 }
