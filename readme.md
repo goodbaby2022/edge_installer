@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-08-04 18:09:20 (UTC-5)
+2025-08-04 19:49:03 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fde4e4fc-d993-40cb-a5d1-8b48a064ec21?P1=1754953760&P2=404&P3=2&P4=dUZRtDx9Op0UdSqmEkeXDBhKi%2bjA131c7fzy648WE0oFl%2bllWDB0%2bV%2b8%2f1mJZcnhMuKQCCWitghvC4yXG21U0Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fde4e4fc-d993-40cb-a5d1-8b48a064ec21?P1=1754953760&P2=404&P3=2&P4=dUZRtDx9Op0UdSqmEkeXDBhKi%2bjA131c7fzy648WE0oFl%2bllWDB0%2bV%2b8%2f1mJZcnhMuKQCCWitghvC4yXG21U0Q%3d%3d)  
 
 ## canary ARM64
-**最新版本**：140.0.3477.0  
-**文件大小**：181.6 MB  
-**文件名**：MicrosoftEdge_ARM64_140.0.3477.0.exe  
-**校验值（Sha256）**：310601b7e027088bfdf76ff98226c0f7252ad35532a9cc78bea77686526d97d9  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/809f0e9d-c527-4eef-854d-672007f6a824?P1=1754921668&P2=404&P3=2&P4=BET%2b9pCc2OhQyKaRnAXpp%2bWCUchVQN4RcwQVNDivrmGDsrxPfcOBcqsfeA7SuL37DS5wryUQR2mtGW90qIhGSw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/809f0e9d-c527-4eef-854d-672007f6a824?P1=1754921668&P2=404&P3=2&P4=BET%2b9pCc2OhQyKaRnAXpp%2bWCUchVQN4RcwQVNDivrmGDsrxPfcOBcqsfeA7SuL37DS5wryUQR2mtGW90qIhGSw%3d%3d)  
+**最新版本**：140.0.3478.0  
+**文件大小**：181.64 MB  
+**文件名**：MicrosoftEdge_ARM64_140.0.3478.0.exe  
+**校验值（Sha256）**：f0687277b5319b8cbf3e002b150edf29e5e64f7afabcfcaf3bdcdbc87c7838da  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9c3dbc9-5322-4052-b5d0-cfbf88636824?P1=1754959743&P2=404&P3=2&P4=ExwmvsILWBs4A%2b1fGlzNyNuA3eS1ZjTh3IuHW6aJPhAgc32Oqqz5heOiCdXPsEzRsHYvOE%2b2NU7f4qxownf9qA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9c3dbc9-5322-4052-b5d0-cfbf88636824?P1=1754959743&P2=404&P3=2&P4=ExwmvsILWBs4A%2b1fGlzNyNuA3eS1ZjTh3IuHW6aJPhAgc32Oqqz5heOiCdXPsEzRsHYvOE%2b2NU7f4qxownf9qA%3d%3d)  
 
