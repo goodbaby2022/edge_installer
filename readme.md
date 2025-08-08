@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-08-07 18:09:24 (UTC-5)
+2025-08-07 19:48:05 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dbf85859-b3de-46a2-8fad-f3f7c3b650ea?P1=1755212965&P2=404&P3=2&P4=DtZNjoPnxBxRw4zXt3TVoijxq9iX1s8jqqqH9MxH92I%2bPBw0MOl9vSBNEZ0K4V%2bShQV8wKJ0qM9FdilpuNESbA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/dbf85859-b3de-46a2-8fad-f3f7c3b650ea?P1=1755212965&P2=404&P3=2&P4=DtZNjoPnxBxRw4zXt3TVoijxq9iX1s8jqqqH9MxH92I%2bPBw0MOl9vSBNEZ0K4V%2bShQV8wKJ0qM9FdilpuNESbA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：140.0.3483.0  
+**最新版本**：140.0.3484.0  
 **文件大小**：181.93 MB  
-**文件名**：MicrosoftEdge_ARM64_140.0.3483.0.exe  
-**校验值（Sha256）**：192283e8822aceca587a0d0c73623a1ebdd6c9db1b2958a01a2f5e4676e81b9a  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d250a767-7ee3-4060-bb94-547f969b5043?P1=1755178372&P2=404&P3=2&P4=L9UglqRtK%2fcuJVpa0yu7SlXqnnIOr4ei9eK5w1Oc7XhLOocgmmKdUMVPmQTtZTuef0lOOm0iBaHjtJTS6cJPpQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d250a767-7ee3-4060-bb94-547f969b5043?P1=1755178372&P2=404&P3=2&P4=L9UglqRtK%2fcuJVpa0yu7SlXqnnIOr4ei9eK5w1Oc7XhLOocgmmKdUMVPmQTtZTuef0lOOm0iBaHjtJTS6cJPpQ%3d%3d)  
+**文件名**：MicrosoftEdge_ARM64_140.0.3484.0.exe  
+**校验值（Sha256）**：e5035d7133edb3db1209d1763e8437c4e57d820b54ba9c6034027a2ca9e2bb34  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d6edc9af-07d5-4bba-8c6b-490350456305?P1=1755218886&P2=404&P3=2&P4=V5j5iaFqKE%2ffB9%2fADD%2fR2B4n%2f041jKU%2f94jZ9LyXBRVoEQ%2f9DlY4o71dDJv9AvYQoEC1uIE8M1%2bgsD9sxFBQ2Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d6edc9af-07d5-4bba-8c6b-490350456305?P1=1755218886&P2=404&P3=2&P4=V5j5iaFqKE%2ffB9%2fADD%2fR2B4n%2f041jKU%2f94jZ9LyXBRVoEQ%2f9DlY4o71dDJv9AvYQoEC1uIE8M1%2bgsD9sxFBQ2Q%3d%3d)  
 
