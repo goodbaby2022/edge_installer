@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-08-19 14:06:30 (UTC-5)
+2025-08-19 15:09:19 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -96,11 +96,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c93ffc0a-8b5d-42ac-aa5a-8a968755b0e0?P1=1755644920&P2=404&P3=2&P4=FgV5il6KZSPSzTfwxZoUKeZoX0%2fwsWr1tHtBUxe%2bjndCc0SJ0DSZlyD26%2f6R3aFuPJqqmro9J9I5xKTlDx2%2fjw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c93ffc0a-8b5d-42ac-aa5a-8a968755b0e0?P1=1755644920&P2=404&P3=2&P4=FgV5il6KZSPSzTfwxZoUKeZoX0%2fwsWr1tHtBUxe%2bjndCc0SJ0DSZlyD26%2f6R3aFuPJqqmro9J9I5xKTlDx2%2fjw%3d%3d)  
 
 ## dev x64
-**最新版本**：140.0.3485.6  
-**文件大小**：176.96 MB  
-**文件名**：MicrosoftEdge_X64_140.0.3485.6.exe  
-**校验值（Sha256）**：d0105565bb53655c1f8dbbd430895589994fe3a7f9892005b4e73c380c0fd8bf  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6158c39-79ba-4b25-8651-57e1aec26607?P1=1755641310&P2=404&P3=2&P4=WkJ2DK2ytlz2Fer5514qksDQlu%2bqMt3BF3hinH7nOosWFtFAOSLtSnpTg059wxv01ieslkpCPeR%2fnhphesdTeA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6158c39-79ba-4b25-8651-57e1aec26607?P1=1755641310&P2=404&P3=2&P4=WkJ2DK2ytlz2Fer5514qksDQlu%2bqMt3BF3hinH7nOosWFtFAOSLtSnpTg059wxv01ieslkpCPeR%2fnhphesdTeA%3d%3d)  
+**最新版本**：141.0.3500.1  
+**文件大小**：177.69 MB  
+**文件名**：MicrosoftEdge_X64_141.0.3500.1.exe  
+**校验值（Sha256）**：7ac9fe21a5cc8bf5938c53c5c91aeac8c5c8835f310f72f0669750e6a3285e2e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7408b5a5-8a60-4524-98c2-fcd91deff22b?P1=1756238958&P2=404&P3=2&P4=ZQGVlf7drvd3k9PgpTrMCA6xFs6lzmPSwLXosF0qnqpzzegvsayE0rd4OtWTBI3Lds98MaPu8SbLoPtYJTKZ4g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7408b5a5-8a60-4524-98c2-fcd91deff22b?P1=1756238958&P2=404&P3=2&P4=ZQGVlf7drvd3k9PgpTrMCA6xFs6lzmPSwLXosF0qnqpzzegvsayE0rd4OtWTBI3Lds98MaPu8SbLoPtYJTKZ4g%3d%3d)  
 
 ## dev ARM64
 **最新版本**：140.0.3485.6  
