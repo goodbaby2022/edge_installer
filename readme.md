@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-08-26 18:07:31 (UTC-5)
+2025-08-26 19:40:38 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a87bf1df-5a5f-45a6-a9e4-f49e2cdde259?P1=1756854451&P2=404&P3=2&P4=Z4xreiqqJfVAbxmmbZqZatBsta0juggd8IMmRkcJsrEs7fLipqfrm9iNJriuZBGXaURwK8T0bFRk9RrwHxzItA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a87bf1df-5a5f-45a6-a9e4-f49e2cdde259?P1=1756854451&P2=404&P3=2&P4=Z4xreiqqJfVAbxmmbZqZatBsta0juggd8IMmRkcJsrEs7fLipqfrm9iNJriuZBGXaURwK8T0bFRk9RrwHxzItA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：141.0.3518.0  
-**文件大小**：182.64 MB  
-**文件名**：MicrosoftEdge_ARM64_141.0.3518.0.exe  
-**校验值（Sha256）**：c99fcef12be46387f95ff9c1b62568b666f557c153bfdca7e2d4ad450cdae58c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/218dd23d-e447-4144-90b2-70c56abc6f97?P1=1756819496&P2=404&P3=2&P4=GUo6tihtTpKkCefSILuUZdvpzPp%2fO3DRuV6mpW5lgQ1rmaXk%2fpdR9NxHsum57ZdEo8xsC0shtGQUtw8tWD1rOA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/218dd23d-e447-4144-90b2-70c56abc6f97?P1=1756819496&P2=404&P3=2&P4=GUo6tihtTpKkCefSILuUZdvpzPp%2fO3DRuV6mpW5lgQ1rmaXk%2fpdR9NxHsum57ZdEo8xsC0shtGQUtw8tWD1rOA%3d%3d)  
+**最新版本**：141.0.3519.0  
+**文件大小**：182.71 MB  
+**文件名**：MicrosoftEdge_ARM64_141.0.3519.0.exe  
+**校验值（Sha256）**：e2eacd89794644a5dcd57ea8db3189a3a91f4fe9c990d7a7619f02b6b1e0e40e  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d7b0443a-e936-4b8c-88bf-72c6363a6700?P1=1756860038&P2=404&P3=2&P4=MNtxbuCJP7ZdofIgJBT9wIaBFjmn7C5LPdAIH9rSowvhX4J2Z63SwQIJ7CyvH5juLs0tCWdmD2yk2ioG3wDnkw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d7b0443a-e936-4b8c-88bf-72c6363a6700?P1=1756860038&P2=404&P3=2&P4=MNtxbuCJP7ZdofIgJBT9wIaBFjmn7C5LPdAIH9rSowvhX4J2Z63SwQIJ7CyvH5juLs0tCWdmD2yk2ioG3wDnkw%3d%3d)  
 
