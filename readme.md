@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-09-08 07:17:10 (UTC-5)
+2025-09-08 08:21:57 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26885c4d-9a6d-46d3-9d4d-e9a6247956c3?P1=1757714851&P2=404&P3=2&P4=Un3LvO4CCFIvCL2wKQic3lEEEmtT1iDd54wIfFSfrKXoZmeQREI1C%2bxLCHGHnkU7aeq5Ox%2bnwKeHIiBteTy5Dg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/26885c4d-9a6d-46d3-9d4d-e9a6247956c3?P1=1757714851&P2=404&P3=2&P4=Un3LvO4CCFIvCL2wKQic3lEEEmtT1iDd54wIfFSfrKXoZmeQREI1C%2bxLCHGHnkU7aeq5Ox%2bnwKeHIiBteTy5Dg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：142.0.3539.0  
-**文件大小**：182.42 MB  
-**文件名**：MicrosoftEdge_ARM64_142.0.3539.0.exe  
-**校验值（Sha256）**：00cef944a7c445aa356886cf3bc2851a337a02b2900b394de04604acfcf94b0b  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/62344c5f-5ced-493d-be6a-4a42ad94f3b7?P1=1757718469&P2=404&P3=2&P4=fT3dAkt19bTuckBJh9Zic1TOhLSOQrxvWsq6kIpW%2foM6qd6AUdA7AAs2EJQLu47JisnOP%2b3noHf9JEz6Jp8ZuA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/62344c5f-5ced-493d-be6a-4a42ad94f3b7?P1=1757718469&P2=404&P3=2&P4=fT3dAkt19bTuckBJh9Zic1TOhLSOQrxvWsq6kIpW%2foM6qd6AUdA7AAs2EJQLu47JisnOP%2b3noHf9JEz6Jp8ZuA%3d%3d)  
+**最新版本**：142.0.3544.0  
+**文件大小**：182.4 MB  
+**文件名**：MicrosoftEdge_ARM64_142.0.3544.0.exe  
+**校验值（Sha256）**：b2c34e211091f5023a4671c71aa20c85fc8b69b3c825508c04b43455c6336271  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb73080b-0034-4f32-965e-b82356cfcb6b?P1=1757942517&P2=404&P3=2&P4=EhCIZb7x%2bCF1swddRckKCXYivJ1KSvpZECj%2f6re8wy72atbKOSuwz1AU8gPgzclKj1kbZveV4z6r4eJ5LewBRA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb73080b-0034-4f32-965e-b82356cfcb6b?P1=1757942517&P2=404&P3=2&P4=EhCIZb7x%2bCF1swddRckKCXYivJ1KSvpZECj%2f6re8wy72atbKOSuwz1AU8gPgzclKj1kbZveV4z6r4eJ5LewBRA%3d%3d)  
 
