@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-06 08:20:48 (UTC-5)
+2025-10-06 09:08:16 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d88b9b62-b86e-4b6f-9782-1e3449f61fe3?P1=1760102218&P2=404&P3=2&P4=VtrSOWUfHYUP6yOV%2fI7EB65BfwtkCpeqT1jM93PCVx0uuPREwX5DpStsRgI3vPafQSNKjI9BN8FtL0VHOLjylA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d88b9b62-b86e-4b6f-9782-1e3449f61fe3?P1=1760102218&P2=404&P3=2&P4=VtrSOWUfHYUP6yOV%2fI7EB65BfwtkCpeqT1jM93PCVx0uuPREwX5DpStsRgI3vPafQSNKjI9BN8FtL0VHOLjylA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：142.0.3595.0  
-**文件大小**：181.84 MB  
-**文件名**：MicrosoftEdge_ARM64_142.0.3595.0.exe  
-**校验值（Sha256）**：95dff7d6674213197d0e455b369a170c9b81dc3888f8d48d5d845dd0d0162dfc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ec9e4501-5c44-4564-9c9b-4efb9e9368ab?P1=1760102219&P2=404&P3=2&P4=htZ0ByfQoMYRO%2fbkW9Q92juSICQjBc7SDGegbp4IelPrFnF%2fGxHmrrKj9zQWOQsnm0lGwNSgxm3squkBNDW%2bRQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ec9e4501-5c44-4564-9c9b-4efb9e9368ab?P1=1760102219&P2=404&P3=2&P4=htZ0ByfQoMYRO%2fbkW9Q92juSICQjBc7SDGegbp4IelPrFnF%2fGxHmrrKj9zQWOQsnm0lGwNSgxm3squkBNDW%2bRQ%3d%3d)  
+**最新版本**：143.0.3601.0  
+**文件大小**：182.03 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3601.0.exe  
+**校验值（Sha256）**：de6e7804ca77d3bc8e70788bbe74286be7c03271724943f8eafbc1f8bf30222d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/84396473-c461-45c1-9d4b-df07271a286c?P1=1760364497&P2=404&P3=2&P4=eqHc09Gv60GQmgiACwdZ5uk0ogwSwtsDRxZsWdSAKpQ7QQbaWv33H4zKg%2bFZkWRL0QUeHUiyLRSCTI50QzccUw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/84396473-c461-45c1-9d4b-df07271a286c?P1=1760364497&P2=404&P3=2&P4=eqHc09Gv60GQmgiACwdZ5uk0ogwSwtsDRxZsWdSAKpQ7QQbaWv33H4zKg%2bFZkWRL0QUeHUiyLRSCTI50QzccUw%3d%3d)  
 
