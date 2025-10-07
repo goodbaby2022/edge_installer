@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-06 19:39:09 (UTC-5)
+2025-10-06 21:14:15 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71623f8c-e550-4399-9fc7-54d64aff98f9?P1=1760402349&P2=404&P3=2&P4=IgNnwPN9lOBcHGfgYxsFDoictBWdhdXCW0EIleR5z6pSRfkTH4CysSbWGTku2rGb8b9rYmXgiIW4KMxuC%2bJJOw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/71623f8c-e550-4399-9fc7-54d64aff98f9?P1=1760402349&P2=404&P3=2&P4=IgNnwPN9lOBcHGfgYxsFDoictBWdhdXCW0EIleR5z6pSRfkTH4CysSbWGTku2rGb8b9rYmXgiIW4KMxuC%2bJJOw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3601.0  
-**文件大小**：182.03 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3601.0.exe  
-**校验值（Sha256）**：de6e7804ca77d3bc8e70788bbe74286be7c03271724943f8eafbc1f8bf30222d  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/84396473-c461-45c1-9d4b-df07271a286c?P1=1760364497&P2=404&P3=2&P4=eqHc09Gv60GQmgiACwdZ5uk0ogwSwtsDRxZsWdSAKpQ7QQbaWv33H4zKg%2bFZkWRL0QUeHUiyLRSCTI50QzccUw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/84396473-c461-45c1-9d4b-df07271a286c?P1=1760364497&P2=404&P3=2&P4=eqHc09Gv60GQmgiACwdZ5uk0ogwSwtsDRxZsWdSAKpQ7QQbaWv33H4zKg%2bFZkWRL0QUeHUiyLRSCTI50QzccUw%3d%3d)  
+**最新版本**：143.0.3602.0  
+**文件大小**：182.02 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3602.0.exe  
+**校验值（Sha256）**：eaea72f4483a96c36fce5c0e3a8bca8884ada3fd6e163cef90f9abbc2c1a7efa  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9a5b5f1-4dce-47ff-a9a3-55fbcb208d3e?P1=1760408056&P2=404&P3=2&P4=aeCiocQLeucqfZENjDtEnYiFCbSLqkdC6eVSyEdepLiEGw1kdw4CENojZk0qBZbsie4D3V5L%2bnqz916T1PPQoA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9a5b5f1-4dce-47ff-a9a3-55fbcb208d3e?P1=1760408056&P2=404&P3=2&P4=aeCiocQLeucqfZENjDtEnYiFCbSLqkdC6eVSyEdepLiEGw1kdw4CENojZk0qBZbsie4D3V5L%2bnqz916T1PPQoA%3d%3d)  
 
