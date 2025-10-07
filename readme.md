@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-07 08:21:11 (UTC-5)
+2025-10-07 09:09:03 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/59baa928-06fe-41ce-af83-8cf784327649?P1=1760448071&P2=404&P3=2&P4=RNMt5Dj96cpXE6PS6%2f9UEfXl6uwX8sGoTtz4wk2dJIZnk%2f5dXcx6aGo6a7kQ8fK3rRGSkQUvNEm0dxitYPe7Qg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/59baa928-06fe-41ce-af83-8cf784327649?P1=1760448071&P2=404&P3=2&P4=RNMt5Dj96cpXE6PS6%2f9UEfXl6uwX8sGoTtz4wk2dJIZnk%2f5dXcx6aGo6a7kQ8fK3rRGSkQUvNEm0dxitYPe7Qg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3602.0  
-**文件大小**：182.02 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3602.0.exe  
-**校验值（Sha256）**：eaea72f4483a96c36fce5c0e3a8bca8884ada3fd6e163cef90f9abbc2c1a7efa  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9a5b5f1-4dce-47ff-a9a3-55fbcb208d3e?P1=1760408056&P2=404&P3=2&P4=aeCiocQLeucqfZENjDtEnYiFCbSLqkdC6eVSyEdepLiEGw1kdw4CENojZk0qBZbsie4D3V5L%2bnqz916T1PPQoA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9a5b5f1-4dce-47ff-a9a3-55fbcb208d3e?P1=1760408056&P2=404&P3=2&P4=aeCiocQLeucqfZENjDtEnYiFCbSLqkdC6eVSyEdepLiEGw1kdw4CENojZk0qBZbsie4D3V5L%2bnqz916T1PPQoA%3d%3d)  
+**最新版本**：143.0.3603.0  
+**文件大小**：182.86 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3603.0.exe  
+**校验值（Sha256）**：12f817822f8df8fc553e801a23ea64325af4cf028515b1d8b70f55c000eea8d8  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56efab1a-1ee9-43f0-a11f-1bab94a319a3?P1=1760450943&P2=404&P3=2&P4=RHNb9IlPM9GjsdC36Jlgdxz5cEr3VlTK6FWyo050FXH%2fMd9UG0UcwFonyWFnb5dYe64E5FY6mDva%2fSWyQBTOhQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/56efab1a-1ee9-43f0-a11f-1bab94a319a3?P1=1760450943&P2=404&P3=2&P4=RHNb9IlPM9GjsdC36Jlgdxz5cEr3VlTK6FWyo050FXH%2fMd9UG0UcwFonyWFnb5dYe64E5FY6mDva%2fSWyQBTOhQ%3d%3d)  
 
