@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-08 08:21:25 (UTC-5)
+2025-10-08 09:08:52 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7f09b74-2328-4cce-a979-c065e22122aa?P1=1760534485&P2=404&P3=2&P4=RTqepXEJ%2b633Z2WUlZYIevtej87KjIR87MRu7H%2bT7yRKDd%2fcSbvRqaPRS%2bVOIG6OinD4QQatB8pewsep5K7cFQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7f09b74-2328-4cce-a979-c065e22122aa?P1=1760534485&P2=404&P3=2&P4=RTqepXEJ%2b633Z2WUlZYIevtej87KjIR87MRu7H%2bT7yRKDd%2fcSbvRqaPRS%2bVOIG6OinD4QQatB8pewsep5K7cFQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3604.0  
-**文件大小**：182.88 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3604.0.exe  
-**校验值（Sha256）**：b88c2054eac0e9504d9a83e309873020aaf7012af42be5bed942b8bbed1583f7  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed196e4c-0631-4164-971b-f8d505d2dda9?P1=1760483252&P2=404&P3=2&P4=RPKv8BaycEHHa9paLLq3bRCkbN4MvZQUs9t1MmXOsAbkCLws1RCerFk7pAe4hFCvvwwGzm13wkaw%2bHxTWl%2flbg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed196e4c-0631-4164-971b-f8d505d2dda9?P1=1760483252&P2=404&P3=2&P4=RPKv8BaycEHHa9paLLq3bRCkbN4MvZQUs9t1MmXOsAbkCLws1RCerFk7pAe4hFCvvwwGzm13wkaw%2bHxTWl%2flbg%3d%3d)  
+**最新版本**：143.0.3605.0  
+**文件大小**：183.18 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3605.0.exe  
+**校验值（Sha256）**：991b83e2ff92e4f758cc34e7add5cae6cf6117338ac216a711fb80582fde3277  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/58fd4507-443f-4d56-9477-94fbbd3652bb?P1=1760537333&P2=404&P3=2&P4=k90SfwqY65L3cqs6rLe6FneREYbOyo5DjCeJZws16i4KbXOphr2GTSB0mcubgUw9r85j5oV0xhA6rtCw75lJNQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/58fd4507-443f-4d56-9477-94fbbd3652bb?P1=1760537333&P2=404&P3=2&P4=k90SfwqY65L3cqs6rLe6FneREYbOyo5DjCeJZws16i4KbXOphr2GTSB0mcubgUw9r85j5oV0xhA6rtCw75lJNQ%3d%3d)  
 
