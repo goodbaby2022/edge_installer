@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-09 19:39:16 (UTC-5)
+2025-10-09 21:15:40 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91321e5d-7177-4aa0-ab4e-aacf7e32b6f5?P1=1760661555&P2=404&P3=2&P4=KT2qDbqv5E7kKXtgA3u6rOTJCLwuz7xBye5PXQw%2f1FTOJ%2fUZ9rh3ud2cCZqSyMQC5AyP58%2fZfwanm4GukdcE%2fA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/91321e5d-7177-4aa0-ab4e-aacf7e32b6f5?P1=1760661555&P2=404&P3=2&P4=KT2qDbqv5E7kKXtgA3u6rOTJCLwuz7xBye5PXQw%2f1FTOJ%2fUZ9rh3ud2cCZqSyMQC5AyP58%2fZfwanm4GukdcE%2fA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3607.0  
-**文件大小**：183.24 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3607.0.exe  
-**校验值（Sha256）**：f27b62f28d24658c93bc1cf6d221e049628c44fb743550800e27719de8258ce6  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b07183c-343f-43fc-bbc8-3e2e8c0af5f6?P1=1760623716&P2=404&P3=2&P4=UDOPgB2eE3uWj%2fDxkSOAkdehlcmIyLVUBGOkTvdBqDMUMTvP9ivl1Uk6VQccQtkbAC%2bkT9ER7CvgzTJfOoMbmA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b07183c-343f-43fc-bbc8-3e2e8c0af5f6?P1=1760623716&P2=404&P3=2&P4=UDOPgB2eE3uWj%2fDxkSOAkdehlcmIyLVUBGOkTvdBqDMUMTvP9ivl1Uk6VQccQtkbAC%2bkT9ER7CvgzTJfOoMbmA%3d%3d)  
+**最新版本**：143.0.3608.0  
+**文件大小**：183.23 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3608.0.exe  
+**校验值（Sha256）**：146d8891d2f6d28bb8ccf20ab2fb43fe6c44875e792418c30516d3181213a678  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ed7da64-dd82-4d64-8c05-3df0b3c4a2f9?P1=1760667340&P2=404&P3=2&P4=Y3JAvYsMTW03ACnnygdETRHxeYgh%2fxeyUGbkQmeOvYgsXsFks6wvDa2BaPQLY2F9By10%2fnqoEndyx9aZus7HIQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ed7da64-dd82-4d64-8c05-3df0b3c4a2f9?P1=1760667340&P2=404&P3=2&P4=Y3JAvYsMTW03ACnnygdETRHxeYgh%2fxeyUGbkQmeOvYgsXsFks6wvDa2BaPQLY2F9By10%2fnqoEndyx9aZus7HIQ%3d%3d)  
 
