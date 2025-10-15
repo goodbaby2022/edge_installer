@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-15 09:09:07 (UTC-5)
+2025-10-15 10:09:08 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f82e540f-5e3f-43c4-b2be-d89f3689e13d?P1=1761142147&P2=404&P3=2&P4=UHQfQmzfNgpE8Z1w3IiTvg0iwSA4katFME2PU1AOcTuz9roJCLedo9PP1TqU0999rdEaA2tAoGCtzvJnSMzA%2bg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f82e540f-5e3f-43c4-b2be-d89f3689e13d?P1=1761142147&P2=404&P3=2&P4=UHQfQmzfNgpE8Z1w3IiTvg0iwSA4katFME2PU1AOcTuz9roJCLedo9PP1TqU0999rdEaA2tAoGCtzvJnSMzA%2bg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3619.0  
-**文件大小**：182.99 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3619.0.exe  
-**校验值（Sha256）**：22f2a3a5619faf6c91994f279bd2052522db10fc587536dbfd60280c65ae65e1  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6bdfa86-f4bf-4bb8-830d-06f85a33c5d1?P1=1761093658&P2=404&P3=2&P4=JtdYrQmWlsR4myhbq%2fvZcUHpa5xToKVoQvQDUgttpDOgW46jhMgSNDMCbcv7HJiyeDUgJw6zATp3p0ragofIfg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6bdfa86-f4bf-4bb8-830d-06f85a33c5d1?P1=1761093658&P2=404&P3=2&P4=JtdYrQmWlsR4myhbq%2fvZcUHpa5xToKVoQvQDUgttpDOgW46jhMgSNDMCbcv7HJiyeDUgJw6zATp3p0ragofIfg%3d%3d)  
+**最新版本**：143.0.3620.0  
+**文件大小**：182.27 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3620.0.exe  
+**校验值（Sha256）**：c681cb9d6c0dded76dbfa7d1d83873b81ad50e719ed9991e46b4530756ccf2bf  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/24d3bdbf-c50b-46c6-9afd-092df2d31cad?P1=1761145749&P2=404&P3=2&P4=DH%2bjEAAhW156KVAxjugUy0XXlzZPPegqBu7b%2fOkvOX0191Ck1CL631Fx2xOdL2JG9qUSFyVUvgn4STY9AMH%2fqw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/24d3bdbf-c50b-46c6-9afd-092df2d31cad?P1=1761145749&P2=404&P3=2&P4=DH%2bjEAAhW156KVAxjugUy0XXlzZPPegqBu7b%2fOkvOX0191Ck1CL631Fx2xOdL2JG9qUSFyVUvgn4STY9AMH%2fqw%3d%3d)  
 
