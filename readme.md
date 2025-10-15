@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-14 18:07:31 (UTC-5)
+2025-10-14 19:40:58 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30c95e6a-f7ff-415c-9136-587866ffadc4?P1=1761088051&P2=404&P3=2&P4=OMva6q%2fPWX2EQ9kg4%2bJXc8HkUDLM7A1y19Wszsvi1NSgxx6Pq3WNoqwEDeIaXQ93jBNIfkNyTd2FvNsv0%2f8i0A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/30c95e6a-f7ff-415c-9136-587866ffadc4?P1=1761088051&P2=404&P3=2&P4=OMva6q%2fPWX2EQ9kg4%2bJXc8HkUDLM7A1y19Wszsvi1NSgxx6Pq3WNoqwEDeIaXQ93jBNIfkNyTd2FvNsv0%2f8i0A%3d%3d)  
 
 ## canary ARM64
-**最新版本**：143.0.3618.0  
-**文件大小**：182.95 MB  
-**文件名**：MicrosoftEdge_ARM64_143.0.3618.0.exe  
-**校验值（Sha256）**：08ba1e31a84a8b26156bc8ae421180d05c68ba8d43f73f629a36797d61fe0f20  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d485998-a690-4780-a3fd-982e135a5f2e?P1=1761052951&P2=404&P3=2&P4=HBTIzF9LLIU3ZeLU1zWyO%2fhH8xSkPSPAkiHVzHlDoEKUl6zDnRF48wNQ6tDTSay5C7rOT%2f3aQzK15nIb8wmOXA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d485998-a690-4780-a3fd-982e135a5f2e?P1=1761052951&P2=404&P3=2&P4=HBTIzF9LLIU3ZeLU1zWyO%2fhH8xSkPSPAkiHVzHlDoEKUl6zDnRF48wNQ6tDTSay5C7rOT%2f3aQzK15nIb8wmOXA%3d%3d)  
+**最新版本**：143.0.3619.0  
+**文件大小**：182.99 MB  
+**文件名**：MicrosoftEdge_ARM64_143.0.3619.0.exe  
+**校验值（Sha256）**：22f2a3a5619faf6c91994f279bd2052522db10fc587536dbfd60280c65ae65e1  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6bdfa86-f4bf-4bb8-830d-06f85a33c5d1?P1=1761093658&P2=404&P3=2&P4=JtdYrQmWlsR4myhbq%2fvZcUHpa5xToKVoQvQDUgttpDOgW46jhMgSNDMCbcv7HJiyeDUgJw6zATp3p0ragofIfg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6bdfa86-f4bf-4bb8-830d-06f85a33c5d1?P1=1761093658&P2=404&P3=2&P4=JtdYrQmWlsR4myhbq%2fvZcUHpa5xToKVoQvQDUgttpDOgW46jhMgSNDMCbcv7HJiyeDUgJw6zATp3p0ragofIfg%3d%3d)  
 
