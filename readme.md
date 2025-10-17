@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-10-17 17:07:15 (UTC-5)
+2025-10-17 18:07:22 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -110,11 +110,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/13e2ae8a-ff74-42cc-84e2-bc3f906b9967?P1=1761190185&P2=404&P3=2&P4=JZ08kjScHG%2bjmZdWoYAI8LqiAnwejAw6JGbh78r7NWwuhK%2bgx3y6l8ne2vmmKHpjsLWZpbUtZdK0dIoSxyFLBw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/13e2ae8a-ff74-42cc-84e2-bc3f906b9967?P1=1761190185&P2=404&P3=2&P4=JZ08kjScHG%2bjmZdWoYAI8LqiAnwejAw6JGbh78r7NWwuhK%2bgx3y6l8ne2vmmKHpjsLWZpbUtZdK0dIoSxyFLBw%3d%3d)  
 
 ## canary x86
-**最新版本**：143.0.3624.0  
+**最新版本**：143.0.3625.0  
 **文件大小**：157.92 MB  
-**文件名**：MicrosoftEdge_X86_143.0.3624.0.exe  
-**校验值（Sha256）**：2f6e2cdb7087af281ada387a7d89962141fc8c437f33b9bd8c263ef956c0ac6c  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb4bcdbc-7d9f-402c-85b3-22c5f6a59762?P1=1761318486&P2=404&P3=2&P4=X8H%2fq7a1ZU4hJNwkDhn2zmodboCCWAco9Y6lUWr1LMyG24mtrjzxPhq0s935Qa4PFUSsLHceM8Z8wwRdEKXyTw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb4bcdbc-7d9f-402c-85b3-22c5f6a59762?P1=1761318486&P2=404&P3=2&P4=X8H%2fq7a1ZU4hJNwkDhn2zmodboCCWAco9Y6lUWr1LMyG24mtrjzxPhq0s935Qa4PFUSsLHceM8Z8wwRdEKXyTw%3d%3d)  
+**文件名**：MicrosoftEdge_X86_143.0.3625.0.exe  
+**校验值（Sha256）**：99b540ba9ffe5de0bb8450411e5f8a81761fc6b4a4a68d4fa6eb82941d9ab83f  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b955cf47-8ffd-4cf4-a8b9-063258694eb2?P1=1761347241&P2=404&P3=2&P4=m61ZiupAwLajDGzfzRxWwvmRrsG7IihUh7gIJQxIb8WS8KOd1JFSyYi22HaV7WjufIJHhIByQK0ef99u8XsJ0Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b955cf47-8ffd-4cf4-a8b9-063258694eb2?P1=1761347241&P2=404&P3=2&P4=m61ZiupAwLajDGzfzRxWwvmRrsG7IihUh7gIJQxIb8WS8KOd1JFSyYi22HaV7WjufIJHhIByQK0ef99u8XsJ0Q%3d%3d)  
 
 ## canary x64
 **最新版本**：143.0.3625.0  
