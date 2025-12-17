@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-12-17 16:09:37 (UTC-5)
+2025-12-17 17:09:12 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/989c2d53-f347-4890-9529-56002fa871bf?P1=1766585450&P2=404&P3=2&P4=c%2b8c9bH9SZCQ0L3eqwWnzGoC1P4nPs%2bKE%2fRvemMdTpKQvxrisEnMphnQF7oKlYACHh%2b6EEPSvwlOK%2brrobvcMA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/989c2d53-f347-4890-9529-56002fa871bf?P1=1766585450&P2=404&P3=2&P4=c%2b8c9bH9SZCQ0L3eqwWnzGoC1P4nPs%2bKE%2fRvemMdTpKQvxrisEnMphnQF7oKlYACHh%2b6EEPSvwlOK%2brrobvcMA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3743.0  
-**文件大小**：183.83 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3743.0.exe  
-**校验值（Sha256）**：f9f68f93efe46920c81257a75947528cb98c1b9988ebc7c87a93f7885bc109ee  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c99f4a37-3a95-41c5-aa81-daccb06f26f0?P1=1766585451&P2=404&P3=2&P4=M3Cfi4Ie8h5E%2fRIR2uS7kA1IaJiM7HaVidD4LAv03lGLdgSj%2bED6sqdM42Tn0q7zhrUP1IYNnTlqNu%2bfyJhtZw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c99f4a37-3a95-41c5-aa81-daccb06f26f0?P1=1766585451&P2=404&P3=2&P4=M3Cfi4Ie8h5E%2fRIR2uS7kA1IaJiM7HaVidD4LAv03lGLdgSj%2bED6sqdM42Tn0q7zhrUP1IYNnTlqNu%2bfyJhtZw%3d%3d)  
+**最新版本**：145.0.3744.0  
+**文件大小**：183.72 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3744.0.exe  
+**校验值（Sha256）**：29de7eeaa33bceb371329abc00540d7f36fa1f91c786bca3459b89ef96a45998  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0f8929c2-8cb9-4ed9-8e0a-ca0695587aab?P1=1766614152&P2=404&P3=2&P4=dpr6bQc1QfPnSWhI0OxbCyILQ4kJ7AzgbFoO5Y7OAbHog56ojux4RGywdsr5g9KKEEVaIB200FPXlwZjkZwgRg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0f8929c2-8cb9-4ed9-8e0a-ca0695587aab?P1=1766614152&P2=404&P3=2&P4=dpr6bQc1QfPnSWhI0OxbCyILQ4kJ7AzgbFoO5Y7OAbHog56ojux4RGywdsr5g9KKEEVaIB200FPXlwZjkZwgRg%3d%3d)  
 
