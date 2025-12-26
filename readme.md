@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-12-26 17:08:59 (UTC-5)
+2025-12-26 18:08:59 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb14e836-1335-4106-8531-ba3d7c03a40d?P1=1767360293&P2=404&P3=2&P4=VvINnujHhHGeDuX5HHr1uFJ54RUxF5dtZYVrELfwqyI%2fbuzRZTY9%2b8uxkZ423OlJ%2fwt7qF40MRadFdY0xhS7DQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb14e836-1335-4106-8531-ba3d7c03a40d?P1=1767360293&P2=404&P3=2&P4=VvINnujHhHGeDuX5HHr1uFJ54RUxF5dtZYVrELfwqyI%2fbuzRZTY9%2b8uxkZ423OlJ%2fwt7qF40MRadFdY0xhS7DQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3761.0  
-**文件大小**：184.77 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3761.0.exe  
-**校验值（Sha256）**：006c8fe436899d0fe6d654e9a0f2d561d13d5a75bd4d16761d0a83d34760ad17  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb0f4e48-8ebb-46fb-8c31-fe4c1a74d926?P1=1767360294&P2=404&P3=2&P4=KJXIshaHmFXxQaFX%2fjpWrjulh67zm%2bGa0nBPHFP6TYto4ThSXaHuSqW3CH9QHsiynXNsaahWkQZHEb7GRHjyig%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb0f4e48-8ebb-46fb-8c31-fe4c1a74d926?P1=1767360294&P2=404&P3=2&P4=KJXIshaHmFXxQaFX%2fjpWrjulh67zm%2bGa0nBPHFP6TYto4ThSXaHuSqW3CH9QHsiynXNsaahWkQZHEb7GRHjyig%3d%3d)  
+**最新版本**：145.0.3762.0  
+**文件大小**：184.75 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3762.0.exe  
+**校验值（Sha256）**：00ad6cbad195a2960321ba9420a7bcfafe5857dd0ce8b0334734b03b6ad351b0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/148c76d1-5262-4ccd-9f22-b9db88b091eb?P1=1767395340&P2=404&P3=2&P4=kEeI6QipYvU5Mr2qLVUQM9usxnVR2pN7J%2fJ4orsocAwh0Kk4QCyXR5gScSGCbQT8xe2oFJrtI9%2fMB%2fvy8w%2bSRQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/148c76d1-5262-4ccd-9f22-b9db88b091eb?P1=1767395340&P2=404&P3=2&P4=kEeI6QipYvU5Mr2qLVUQM9usxnVR2pN7J%2fJ4orsocAwh0Kk4QCyXR5gScSGCbQT8xe2oFJrtI9%2fMB%2fvy8w%2bSRQ%3d%3d)  
 
