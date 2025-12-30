@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2025-12-29 18:09:04 (UTC-5)
+2025-12-29 19:45:42 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/df80a9ca-5b15-4e9d-8a61-b9240d8ac109?P1=1767654543&P2=404&P3=2&P4=FWq430F5ddmJ9QRc1AX7qL2ZDOEQRspt3BUd%2fE7hZEr%2fpdii2xY7ulyLGBLgChgP1uEIvPJqZBQ2IUasN74TLg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/df80a9ca-5b15-4e9d-8a61-b9240d8ac109?P1=1767654543&P2=404&P3=2&P4=FWq430F5ddmJ9QRc1AX7qL2ZDOEQRspt3BUd%2fE7hZEr%2fpdii2xY7ulyLGBLgChgP1uEIvPJqZBQ2IUasN74TLg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3767.0  
-**文件大小**：184.94 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3767.0.exe  
-**校验值（Sha256）**：e45a3562269620ccc43702e1d59d9eeb3c99f1e8bf13735f1018960eb1e1a870  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7d5a3a93-42ec-4872-b8b7-25670ce9ef58?P1=1767622277&P2=404&P3=2&P4=RyWGJbsrfe%2bTxt%2b26KdKX4fnyqh74ooaikBCMhvLGYZmgXHcecwLalSj8nfGhAVBaf0oh8g7hUYdHGBeMLJPVw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7d5a3a93-42ec-4872-b8b7-25670ce9ef58?P1=1767622277&P2=404&P3=2&P4=RyWGJbsrfe%2bTxt%2b26KdKX4fnyqh74ooaikBCMhvLGYZmgXHcecwLalSj8nfGhAVBaf0oh8g7hUYdHGBeMLJPVw%3d%3d)  
+**最新版本**：145.0.3768.0  
+**文件大小**：184.97 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3768.0.exe  
+**校验值（Sha256）**：555f758e8c002cd2dafc36cf46996111ab583e1d7ae82a8bb7a71753a48d919d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb771b41-0d97-46e7-89f1-35212d968b58?P1=1767660343&P2=404&P3=2&P4=NUR33dh0VmLXLz1crYw3TuUV%2fWPedQBFACT0feUhFbF6t8SDdWiOkDHGtjEbTBu2EwfMawF6OGbcftHb%2fU%2b0lw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb771b41-0d97-46e7-89f1-35212d968b58?P1=1767660343&P2=404&P3=2&P4=NUR33dh0VmLXLz1crYw3TuUV%2fWPedQBFACT0feUhFbF6t8SDdWiOkDHGtjEbTBu2EwfMawF6OGbcftHb%2fU%2b0lw%3d%3d)  
 
