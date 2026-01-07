@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-01-07 07:18:57 (UTC-5)
+2026-01-07 08:30:58 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a57bea56-3095-431b-9eaf-a356592b6996?P1=1768313494&P2=404&P3=2&P4=mjA6dg5eoGae9NgNIw%2fqhLoiYE2wTfgUQ1aAHCR1NrldbdVvY2R7Z8dMLUcWynz48WJgo%2frGdBA3Pgh2qudhDg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a57bea56-3095-431b-9eaf-a356592b6996?P1=1768313494&P2=404&P3=2&P4=mjA6dg5eoGae9NgNIw%2fqhLoiYE2wTfgUQ1aAHCR1NrldbdVvY2R7Z8dMLUcWynz48WJgo%2frGdBA3Pgh2qudhDg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3784.0  
-**文件大小**：185.26 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3784.0.exe  
-**校验值（Sha256）**：7a1a8b38228969f69fb84a495c17dc0764904c90ce80996a436acff7d2e09ccc  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/15af99a9-d416-4317-b7de-3bca47a225ba?P1=1768359041&P2=404&P3=2&P4=BvbpwM1H6T41nAr0CTgj11IjqW0YY53G00XaaBwW7qUg%2fcU10PZhAocqcpSctKRB06jsqXTA6JwIcEmjD2I4sw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/15af99a9-d416-4317-b7de-3bca47a225ba?P1=1768359041&P2=404&P3=2&P4=BvbpwM1H6T41nAr0CTgj11IjqW0YY53G00XaaBwW7qUg%2fcU10PZhAocqcpSctKRB06jsqXTA6JwIcEmjD2I4sw%3d%3d)  
+**最新版本**：145.0.3785.0  
+**文件大小**：185.33 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3785.0.exe  
+**校验值（Sha256）**：de520587c23cc6ab380f0fdfc8258618475a718801e4f62d169cbfb523eab3c0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/28463aa8-bc10-4631-80a2-c295564449ad?P1=1768397459&P2=404&P3=2&P4=d5bD%2fOxyiuxNLdKASclOdReGdXoxZHEDsUcDMDclc%2fXDsj%2bUfpfJdZBwwW87YuqwurNEQ91%2fglneKYPpujJUIw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/28463aa8-bc10-4631-80a2-c295564449ad?P1=1768397459&P2=404&P3=2&P4=d5bD%2fOxyiuxNLdKASclOdReGdXoxZHEDsUcDMDclc%2fXDsj%2bUfpfJdZBwwW87YuqwurNEQ91%2fglneKYPpujJUIw%3d%3d)  
 
