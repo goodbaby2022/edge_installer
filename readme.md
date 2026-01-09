@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-01-09 08:30:14 (UTC-5)
+2026-01-09 09:12:18 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3145332f-7a6e-4f4e-b5c1-d93e1e62cf42?P1=1768570213&P2=404&P3=2&P4=JtOrqLcOw1NeBMP9XgWcNFF4sMKsrrrnUHDT4QXl0jKqCXh%2fBJ1gZPwcqPX7IIXfjUwIYmogUcOlaljjfpv4tQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3145332f-7a6e-4f4e-b5c1-d93e1e62cf42?P1=1768570213&P2=404&P3=2&P4=JtOrqLcOw1NeBMP9XgWcNFF4sMKsrrrnUHDT4QXl0jKqCXh%2fBJ1gZPwcqPX7IIXfjUwIYmogUcOlaljjfpv4tQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3788.0  
-**文件大小**：185.53 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3788.0.exe  
-**校验值（Sha256）**：777c2653d9d83d1fc9779457d2661e7e0b9faa3f89a3449b6258c26cdbb7e624  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/740ab638-2587-49e9-870e-dadf93cd263c?P1=1768524413&P2=404&P3=2&P4=fVBVWOgV5%2b2i6q%2bWkQts1amQEd%2bPjLDWaw%2bSlN3EChcDKw%2btBzZoNSy%2b3%2bVg45wHwYz9Q4CPELsTrXM5%2foaPAA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/740ab638-2587-49e9-870e-dadf93cd263c?P1=1768524413&P2=404&P3=2&P4=fVBVWOgV5%2b2i6q%2bWkQts1amQEd%2bPjLDWaw%2bSlN3EChcDKw%2btBzZoNSy%2b3%2bVg45wHwYz9Q4CPELsTrXM5%2foaPAA%3d%3d)  
+**最新版本**：145.0.3789.0  
+**文件大小**：185.54 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3789.0.exe  
+**校验值（Sha256）**：e91aa08de95bf34002b256261b7473850ead82a76061a7dffc1663e9948ea6ce  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/60c3ca1e-9fd8-4a84-af7f-7ee3d764380d?P1=1768572738&P2=404&P3=2&P4=QFr6fnrCpN6kU2hK4bwSWrxDweMVGx770ea4sg%2f3QN%2befsl5M2YGCoxYSawnn88tjNAfTGnUDQ9SLJjVaBA%2fMA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/60c3ca1e-9fd8-4a84-af7f-7ee3d764380d?P1=1768572738&P2=404&P3=2&P4=QFr6fnrCpN6kU2hK4bwSWrxDweMVGx770ea4sg%2f3QN%2befsl5M2YGCoxYSawnn88tjNAfTGnUDQ9SLJjVaBA%2fMA%3d%3d)  
 
