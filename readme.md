@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-01-14 15:09:29 (UTC-5)
+2026-01-14 16:09:45 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -75,11 +75,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/33d39b5b-d4ec-4ea4-ba1a-28e55ed87a48?P1=1769026162&P2=404&P3=2&P4=OoSDA%2fsvoOAEiew00DOgl%2fGm8qxzqpNtvTHkdxhc9V%2bYJclc9fV81S1AFhbX9wmr5mbGaoQDbV8V1gJ5MV9jgQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/33d39b5b-d4ec-4ea4-ba1a-28e55ed87a48?P1=1769026162&P2=404&P3=2&P4=OoSDA%2fsvoOAEiew00DOgl%2fGm8qxzqpNtvTHkdxhc9V%2bYJclc9fV81S1AFhbX9wmr5mbGaoQDbV8V1gJ5MV9jgQ%3d%3d)  
 
 ## beta x64
-**最新版本**：144.0.3719.67  
-**文件大小**：175.9 MB  
-**文件名**：MicrosoftEdge_X64_144.0.3719.67.exe  
-**校验值（Sha256）**：3a6c315b94667d042e1384afa84d3e95e83646245491093d717f081b78c53bff  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b4555ea-3c67-417d-b204-c14902e3ca9c?P1=1768777730&P2=404&P3=2&P4=I58eH%2btaiAX2xS7otKpmI%2bqbWnitHr7TEGaUx8cHd9xCRZNMGkNnEv3TlCyne23IfBj7At5xxbQbVVcT4pwxSw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b4555ea-3c67-417d-b204-c14902e3ca9c?P1=1768777730&P2=404&P3=2&P4=I58eH%2btaiAX2xS7otKpmI%2bqbWnitHr7TEGaUx8cHd9xCRZNMGkNnEv3TlCyne23IfBj7At5xxbQbVVcT4pwxSw%3d%3d)  
+**最新版本**：144.0.3719.77  
+**文件大小**：176.42 MB  
+**文件名**：MicrosoftEdge_X64_144.0.3719.77.exe  
+**校验值（Sha256）**：818162f1973cb5e4d54c6270099257480265b53dea0da2965ac6194c05399990  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca5caf43-19ec-428d-8756-2a30fe8632e6?P1=1769029784&P2=404&P3=2&P4=FO2aNur3S5YApdQY%2fkLZl%2fwkwytDijY%2bB9LJ%2fdFv6BzUaeTJDkhyvep%2f3gd5yNNi3CKOuTb%2b31Wtlj306GfFRg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ca5caf43-19ec-428d-8756-2a30fe8632e6?P1=1769029784&P2=404&P3=2&P4=FO2aNur3S5YApdQY%2fkLZl%2fwkwytDijY%2bB9LJ%2fdFv6BzUaeTJDkhyvep%2f3gd5yNNi3CKOuTb%2b31Wtlj306GfFRg%3d%3d)  
 
 ## beta ARM64
 **最新版本**：144.0.3719.77  
