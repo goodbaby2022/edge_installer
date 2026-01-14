@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-01-13 18:09:30 (UTC-5)
+2026-01-13 19:49:19 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/607d504d-1531-4def-a81a-56baa368e468?P1=1768950570&P2=404&P3=2&P4=c05bHRh2UH03S2VwCpnSK8qkyRePG7LMq%2frkPl0wmPlTXQuSVaWrStQbt1dIbHsWX7TrgTkjpsXavhc%2fYR%2f3rg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/607d504d-1531-4def-a81a-56baa368e468?P1=1768950570&P2=404&P3=2&P4=c05bHRh2UH03S2VwCpnSK8qkyRePG7LMq%2frkPl0wmPlTXQuSVaWrStQbt1dIbHsWX7TrgTkjpsXavhc%2fYR%2f3rg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：145.0.3797.0  
-**文件大小**：185.2 MB  
-**文件名**：MicrosoftEdge_ARM64_145.0.3797.0.exe  
-**校验值（Sha256）**：dbceffcfd61472cac4725d60fc16c9265b921278b5cafc09b8feb4d4263904df  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f547a050-92a3-4684-9bae-912be90029df?P1=1768915966&P2=404&P3=2&P4=hVdV98Z2OMJ%2f0Lyf8lpsamgQ7gIhsE7LGsTvcdVpQWtEpFH5PE2%2bxd4WSWXcC9KeHVUynLct5Vogn5nCW%2b6jxw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f547a050-92a3-4684-9bae-912be90029df?P1=1768915966&P2=404&P3=2&P4=hVdV98Z2OMJ%2f0Lyf8lpsamgQ7gIhsE7LGsTvcdVpQWtEpFH5PE2%2bxd4WSWXcC9KeHVUynLct5Vogn5nCW%2b6jxw%3d%3d)  
+**最新版本**：145.0.3798.0  
+**文件大小**：185.29 MB  
+**文件名**：MicrosoftEdge_ARM64_145.0.3798.0.exe  
+**校验值（Sha256）**：6daaff0945611568c4c49419a7f257a8945dc22e2516c4a9f0aeac9c83792baa  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/78ec0a38-eb07-403a-b0ff-4a69453d6186?P1=1768956559&P2=404&P3=2&P4=Zn88lIryYz2ARG0X%2b%2fEar5Q28eEuDJfmyH1OSz2G5ZQUNKxKUbi6rvFqMp8nP7j04Cn0JIhsXE%2bb%2bCxxtNvQ4w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/78ec0a38-eb07-403a-b0ff-4a69453d6186?P1=1768956559&P2=404&P3=2&P4=Zn88lIryYz2ARG0X%2b%2fEar5Q28eEuDJfmyH1OSz2G5ZQUNKxKUbi6rvFqMp8nP7j04Cn0JIhsXE%2bb%2bCxxtNvQ4w%3d%3d)  
 
