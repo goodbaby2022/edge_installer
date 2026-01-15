@@ -104,19 +104,19 @@
         "version": "145.0.3800.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_145.0.3800.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1b1323df-0426-4b80-abc4-f764f59141d4?P1=1769066116&P2=404&P3=2&P4=CYzB8T%2fHAkPEBk3ts5RXMxObcvak0eA5UUU4TGjH9kow%2fa6lyeo2uWDl1TIz9%2f8c6r6rBgFsuX8O4hDI9g4XNQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 185946720,
-        "Sha1": "JWVDAwYD4vEZhr+tJcDH7vV9yDc=",
-        "Sha256": "d9f0c42347f07b7fb26bbf391bcab0310eeacc83862899e935c0f76d4a4a723d",
-        "version": "145.0.3800.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_146.0.3802.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b5a3837a-7d36-47cc-bdbc-bcc19431bf1a?P1=1769088703&P2=404&P3=2&P4=DFc%2bZ56A8Nzlla24Q7igVWwejPIoYSp58KEeR0BrUZ0vDfopkv5IXZRjR4UpY%2bR8VRmKSruNDCdQIpxG2z5o9w%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 186021984,
+        "Sha1": "iHXbh7gugR5b516h+0FmT8uI7DE=",
+        "Sha256": "bb32d7ee064153d19ce739a5f183b1dc2d8a8c0f2c2d1c6e068f64711f76b5f3",
+        "version": "146.0.3802.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_145.0.3800.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f39167eb-ad62-4020-8568-9b008391dcd9?P1=1769062567&P2=404&P3=2&P4=DNgD%2fnx76W7gEmKuxne0kqSGatRg7joahlg35n2YIk%2frIzg3ZF3CI%2fLK2zA4y5BcDbb5q3D0QQahxJjnA0WcBg%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 194327648,
-        "Sha1": "f8KBZwI3HjIixcu6opB9trlE8uU=",
-        "Sha256": "f952187f86e6705446577216846ee5edc3bb27175eb93a4a6782802bf06941dc",
-        "version": "145.0.3800.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_146.0.3802.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c51d5b4c-64ed-460f-a414-72a68698e64b?P1=1769088704&P2=404&P3=2&P4=TUC2CCKgeicGJWFEuF4gVzRE1hz43AXalVli0AgoWorqF07MLZzb6Dh%2fJpdySWtepxkfM72Pgel3zGArzyaOCA%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 194362968,
+        "Sha1": "HjeEUq2ICQMm6vnnokDEQ65ACYY=",
+        "Sha256": "a3cc710aa82909129a4e4d9327eef135bf55bff321afbc52aa5d17e170f74d2c",
+        "version": "146.0.3802.0"
     }
 }
