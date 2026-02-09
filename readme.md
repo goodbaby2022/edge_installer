@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-02-09 09:04:50 (UTC-5)
+2026-02-09 10:41:17 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/61186625-42c4-4f0a-bfb4-45606a5b2cd6?P1=1771250690&P2=404&P3=2&P4=D1EaReG7YXagoHO2%2bS8w%2fz5mqfKrBkxUp5sdfoZcWrDx5ohGbXuWCU0sf5nFYyaWmF4wdZ9NWKATC0LCX7cArw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/61186625-42c4-4f0a-bfb4-45606a5b2cd6?P1=1771250690&P2=404&P3=2&P4=D1EaReG7YXagoHO2%2bS8w%2fz5mqfKrBkxUp5sdfoZcWrDx5ohGbXuWCU0sf5nFYyaWmF4wdZ9NWKATC0LCX7cArw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：146.0.3845.0  
-**文件大小**：192.54 MB  
-**文件名**：MicrosoftEdge_ARM64_146.0.3845.0.exe  
-**校验值（Sha256）**：40227b99fd4d992c36d1eba28dc44f2f4686b4fa6b4027816de066de00a0d5b7  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4aa94792-8d01-44e9-a8fd-1f9033076233?P1=1771024429&P2=404&P3=2&P4=n5hqkXb%2bkh6nlK%2bNOeHALXFpTFsRnU2BulLDWyX1Vmth8%2f06QWWU2w9zw3aITVwmEQHVUSlofDW3AITwVLhE3A%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4aa94792-8d01-44e9-a8fd-1f9033076233?P1=1771024429&P2=404&P3=2&P4=n5hqkXb%2bkh6nlK%2bNOeHALXFpTFsRnU2BulLDWyX1Vmth8%2f06QWWU2w9zw3aITVwmEQHVUSlofDW3AITwVLhE3A%3d%3d)  
+**最新版本**：146.0.3850.0  
+**文件大小**：192.59 MB  
+**文件名**：MicrosoftEdge_ARM64_146.0.3850.0.exe  
+**校验值（Sha256）**：6e422e2661744bc33099cfc81df6f9990f0d2a4aebf0bc987f198299e9c5e43a  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0473ee24-5e34-45bc-bfa4-aa2e6401ec0c?P1=1771256478&P2=404&P3=2&P4=ULc0sFMr2RZUt0F4cxEp4rtss8ZYRFhRcCzMabcXPonPpBrDG4vPOExCg5SRTuaw0KbhdCaOYL7QbRWerSAVVQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0473ee24-5e34-45bc-bfa4-aa2e6401ec0c?P1=1771256478&P2=404&P3=2&P4=ULc0sFMr2RZUt0F4cxEp4rtss8ZYRFhRcCzMabcXPonPpBrDG4vPOExCg5SRTuaw0KbhdCaOYL7QbRWerSAVVQ%3d%3d)  
 
