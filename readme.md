@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-02-13 07:28:18 (UTC-5)
+2026-02-13 08:52:39 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b540147-17cf-4188-a0fb-a1d87082902c?P1=1771456778&P2=404&P3=2&P4=Xc5gie18SzeRLhvv0s46fHAjAcXMga1pYCBYxJ7YD%2bjDBrkmJ8jQ2w3M1GjYISxy9uuVkrybkGFFv8doDCrdjg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6b540147-17cf-4188-a0fb-a1d87082902c?P1=1771456778&P2=404&P3=2&P4=Xc5gie18SzeRLhvv0s46fHAjAcXMga1pYCBYxJ7YD%2bjDBrkmJ8jQ2w3M1GjYISxy9uuVkrybkGFFv8doDCrdjg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：146.0.3855.0  
-**文件大小**：190.23 MB  
-**文件名**：MicrosoftEdge_ARM64_146.0.3855.0.exe  
-**校验值（Sha256）**：1d5aa9af27eeade75f23c44f2755e09cd69a583b14ca7b57f257b893dc1e3d7e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3c56cd67-3605-4c64-9e57-2aa5abba6812?P1=1771462799&P2=404&P3=2&P4=ZxqNa8ITmcl5QM9doNdfVOCzfb99XBG5q9HWK2UZii%2bdzLjW2T%2bKX8mSNTQXqnfQLsQFVjnkXHxWF%2fvP1kjAGA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3c56cd67-3605-4c64-9e57-2aa5abba6812?P1=1771462799&P2=404&P3=2&P4=ZxqNa8ITmcl5QM9doNdfVOCzfb99XBG5q9HWK2UZii%2bdzLjW2T%2bKX8mSNTQXqnfQLsQFVjnkXHxWF%2fvP1kjAGA%3d%3d)  
+**最新版本**：147.0.3858.0  
+**文件大小**：191.24 MB  
+**文件名**：MicrosoftEdge_ARM64_147.0.3858.0.exe  
+**校验值（Sha256）**：f3f57df67f94252079beeac8305b1617a5f3547e3b7dfabb574b6b1bf8fd42c4  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d6180989-2716-41f5-a102-a0bc417665e8?P1=1771595560&P2=404&P3=2&P4=ejVfe1q61IL%2b4wiM1pKcayhePHtS5i4xvXJycsP%2bytPdMxJwXiyBr%2bhcmYYxOliUd%2fc%2fv1cQi5Ql46sFVtze%2fQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d6180989-2716-41f5-a102-a0bc417665e8?P1=1771595560&P2=404&P3=2&P4=ejVfe1q61IL%2b4wiM1pKcayhePHtS5i4xvXJycsP%2bytPdMxJwXiyBr%2bhcmYYxOliUd%2fc%2fv1cQi5Ql46sFVtze%2fQ%3d%3d)  
 
