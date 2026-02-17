@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-02-17 09:40:04 (UTC-5)
+2026-02-17 10:38:34 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ddb01747-7595-4411-968e-40110cdc4f15?P1=1771941468&P2=404&P3=2&P4=fvKuw%2bPQNF8sKwU636Hod43ln7zMtHNe6UpLjlluTsrsMqFYYCGXIHGKCTRAckBQTVqrAJwDmWFFL0OVL%2baUPw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ddb01747-7595-4411-968e-40110cdc4f15?P1=1771941468&P2=404&P3=2&P4=fvKuw%2bPQNF8sKwU636Hod43ln7zMtHNe6UpLjlluTsrsMqFYYCGXIHGKCTRAckBQTVqrAJwDmWFFL0OVL%2baUPw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：147.0.3864.0  
-**文件大小**：194.07 MB  
-**文件名**：MicrosoftEdge_ARM64_147.0.3864.0.exe  
-**校验值（Sha256）**：2a50da7f7daa5ec66f22c2d29e56a2047d252254aaa0b92a5f95e257b2922da1  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/210f9d98-8251-48d7-b475-c46199098936?P1=1771857341&P2=404&P3=2&P4=GV0WP3M2w4z58dLBXsucxYxaHCxmLvcm0p9Q3j0xTbHM0OQAp3qFcQf7yvqTpftbxZLZTzHn229ZN%2fVa8%2bRnZw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/210f9d98-8251-48d7-b475-c46199098936?P1=1771857341&P2=404&P3=2&P4=GV0WP3M2w4z58dLBXsucxYxaHCxmLvcm0p9Q3j0xTbHM0OQAp3qFcQf7yvqTpftbxZLZTzHn229ZN%2fVa8%2bRnZw%3d%3d)  
+**最新版本**：147.0.3866.0  
+**文件大小**：190.76 MB  
+**文件名**：MicrosoftEdge_ARM64_147.0.3866.0.exe  
+**校验值（Sha256）**：b879bae664ede2e737ebb63b9e7439dbe94c3108de1366637d3fa919a0314821  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a9515b5a-653f-4581-8576-5afe41281e04?P1=1771947514&P2=404&P3=2&P4=AWCRft9VrAulJMhkGsRVZ9f33B1frkhSU4YRlkwYBwu3aMbhdm5y2zULvicDC6Ijn8njOVRgJgwEwRFgqZGOlw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a9515b5a-653f-4581-8576-5afe41281e04?P1=1771947514&P2=404&P3=2&P4=AWCRft9VrAulJMhkGsRVZ9f33B1frkhSU4YRlkwYBwu3aMbhdm5y2zULvicDC6Ijn8njOVRgJgwEwRFgqZGOlw%3d%3d)  
 
