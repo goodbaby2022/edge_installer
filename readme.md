@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-03-06 08:43:46 (UTC-5)
+2026-03-06 09:26:26 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b81da873-6a7c-473b-a19e-56c50bb6b7d7?P1=1773409426&P2=404&P3=2&P4=HEdvPO5XcXnL1BmZdlN%2bABuUOAUCiCHMp2jtU%2fVcOvYDbtFMygx1uFmmq9zy%2bS1wKcDkHgRgdk5X33i0yKPexQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b81da873-6a7c-473b-a19e-56c50bb6b7d7?P1=1773409426&P2=404&P3=2&P4=HEdvPO5XcXnL1BmZdlN%2bABuUOAUCiCHMp2jtU%2fVcOvYDbtFMygx1uFmmq9zy%2bS1wKcDkHgRgdk5X33i0yKPexQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：147.0.3898.0  
-**文件大小**：188.72 MB  
-**文件名**：MicrosoftEdge_ARM64_147.0.3898.0.exe  
-**校验值（Sha256）**：1d1a3926c2f453a3c9d2d9e0ea5736fadcd45fc8febba98739bbe38f24efae46  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e575274-95ca-4121-8ec9-b3b3dcd9fed2?P1=1773323549&P2=404&P3=2&P4=JfqVO%2bB49P7en7bSb150e23MVdsxL%2bq%2bDCY9c21A5FX1Dp9QTVX77%2fKRl%2faKfKHgWNSwl6hBNq6qW2qCevt7Kg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e575274-95ca-4121-8ec9-b3b3dcd9fed2?P1=1773323549&P2=404&P3=2&P4=JfqVO%2bB49P7en7bSb150e23MVdsxL%2bq%2bDCY9c21A5FX1Dp9QTVX77%2fKRl%2faKfKHgWNSwl6hBNq6qW2qCevt7Kg%3d%3d)  
+**最新版本**：147.0.3900.0  
+**文件大小**：186.56 MB  
+**文件名**：MicrosoftEdge_ARM64_147.0.3900.0.exe  
+**校验值（Sha256）**：5bb82f36dcacb8580365101625bf14a418a780efe50200ed4556157818c8dfd2  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5fd7dbd-93d4-48fe-8ca9-ccc8d4ea3abc?P1=1773411987&P2=404&P3=2&P4=AXXx2vI1cHXp8LUGSD7IVcNYLCquVM6%2b%2bjnUlqqxWbVCd9qjBSOYzg3eNYCSDdxS0HnQINRmVB5xE0sAEXr34g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5fd7dbd-93d4-48fe-8ca9-ccc8d4ea3abc?P1=1773411987&P2=404&P3=2&P4=AXXx2vI1cHXp8LUGSD7IVcNYLCquVM6%2b%2bjnUlqqxWbVCd9qjBSOYzg3eNYCSDdxS0HnQINRmVB5xE0sAEXr34g%3d%3d)  
 
