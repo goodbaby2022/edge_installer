@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-03-24 02:44:20 (UTC-5)
+2026-03-24 03:35:47 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d3813c35-d137-4e69-ba59-009b010b1eed?P1=1774943060&P2=404&P3=2&P4=YXCV2S3haf2V%2f7pNMHRbPe0vtbadnsES0S5rkpz2ttqcm%2fy2gz%2f0gONFXZZB%2fWEMKMdKi5FwVLwHchNd0vyC%2fw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d3813c35-d137-4e69-ba59-009b010b1eed?P1=1774943060&P2=404&P3=2&P4=YXCV2S3haf2V%2f7pNMHRbPe0vtbadnsES0S5rkpz2ttqcm%2fy2gz%2f0gONFXZZB%2fWEMKMdKi5FwVLwHchNd0vyC%2fw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：148.0.3934.0  
-**文件大小**：188.1 MB  
-**文件名**：MicrosoftEdge_ARM64_148.0.3934.0.exe  
-**校验值（Sha256）**：fedb4d1ce49446800d39ebf24e92c3dbbe248496e989359eed75009c836b4280  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f834e87-54da-425d-b263-5dec2ba51f5c?P1=1774879493&P2=404&P3=2&P4=MZKyEVo7uTFoARt9Us7SvTBCIGxoK3MhOhVpi7oGkKKm7CaAYUtizkuD8HQVMehMJjEHR4J1lEGZ%2fQKumXDmjg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6f834e87-54da-425d-b263-5dec2ba51f5c?P1=1774879493&P2=404&P3=2&P4=MZKyEVo7uTFoARt9Us7SvTBCIGxoK3MhOhVpi7oGkKKm7CaAYUtizkuD8HQVMehMJjEHR4J1lEGZ%2fQKumXDmjg%3d%3d)  
+**最新版本**：148.0.3935.0  
+**文件大小**：188.19 MB  
+**文件名**：MicrosoftEdge_ARM64_148.0.3935.0.exe  
+**校验值（Sha256）**：33d6afb3acec094e0dbc4ec66db5061b00ba6945e2c39b9caad36d0900edab7d  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9402f30d-30d1-4d97-8b35-5aa40b66431a?P1=1774946147&P2=404&P3=2&P4=j%2b2Ld%2fLcdQGgmLC8ZV2wI2cuoK0PJ1lKOA%2fos9uezoV%2fP7Ca8ztGzqZmQK%2f%2f2OtxGTNCL4sl0dHlCv06MN5jrQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9402f30d-30d1-4d97-8b35-5aa40b66431a?P1=1774946147&P2=404&P3=2&P4=j%2b2Ld%2fLcdQGgmLC8ZV2wI2cuoK0PJ1lKOA%2fos9uezoV%2fP7Ca8ztGzqZmQK%2f%2f2OtxGTNCL4sl0dHlCv06MN5jrQ%3d%3d)  
 
