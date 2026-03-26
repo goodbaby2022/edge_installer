@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-03-26 07:42:36 (UTC-5)
+2026-03-26 09:16:42 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/539faff3-5724-43b2-893d-8f7234485426?P1=1775085709&P2=404&P3=2&P4=RmB1EmzwzjP2d4BYEdcPQLgMkrbLf3HhK1S2t8FFvndUrjYqJGprH%2bYj67Kj8EL0WewCyIqVsA22uc%2fmnnripw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/539faff3-5724-43b2-893d-8f7234485426?P1=1775085709&P2=404&P3=2&P4=RmB1EmzwzjP2d4BYEdcPQLgMkrbLf3HhK1S2t8FFvndUrjYqJGprH%2bYj67Kj8EL0WewCyIqVsA22uc%2fmnnripw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：148.0.3939.0  
-**文件大小**：188.38 MB  
-**文件名**：MicrosoftEdge_ARM64_148.0.3939.0.exe  
-**校验值（Sha256）**：bbeed8ba4230c7787f78ca3d849ba9e9a68695dddb4c24a7ff894564d16b5bed  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ab9646bf-acca-44d0-98b1-30b7a9afbff0?P1=1775085710&P2=404&P3=2&P4=B8J12siFBWw%2bZ8fj44HwUV0yYGbHY2dw75vi20ZoKIJ1YQ7MSG7oiQMXzqgIgzRhTbTIwVgJfFLGPw5KM5lweQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ab9646bf-acca-44d0-98b1-30b7a9afbff0?P1=1775085710&P2=404&P3=2&P4=B8J12siFBWw%2bZ8fj44HwUV0yYGbHY2dw75vi20ZoKIJ1YQ7MSG7oiQMXzqgIgzRhTbTIwVgJfFLGPw5KM5lweQ%3d%3d)  
+**最新版本**：148.0.3940.0  
+**文件大小**：188.33 MB  
+**文件名**：MicrosoftEdge_ARM64_148.0.3940.0.exe  
+**校验值（Sha256）**：1aaca798f9f03dbef25fb2a54f29efff2695d7ff9568ed8f79be31ea23e629ec  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/69173c4a-5666-4ba4-b2bc-55821b1a77b6?P1=1775139403&P2=404&P3=2&P4=iE3q0bUL2qnqbFlve6cG5n8qKOJOgB%2bX9Pb1ejZTJuR%2f%2bmOoV8d4l%2bfGPgnC9HAhM08MaiIIYHG2ef4PUqj48Q%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/69173c4a-5666-4ba4-b2bc-55821b1a77b6?P1=1775139403&P2=404&P3=2&P4=iE3q0bUL2qnqbFlve6cG5n8qKOJOgB%2bX9Pb1ejZTJuR%2f%2bmOoV8d4l%2bfGPgnC9HAhM08MaiIIYHG2ef4PUqj48Q%3d%3d)  
 
