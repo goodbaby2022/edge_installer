@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-03-29 17:16:24 (UTC-5)
+2026-03-29 18:19:24 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
