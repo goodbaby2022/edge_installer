@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-03-31 17:21:50 (UTC-5)
+2026-03-31 18:21:51 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/242916ff-9a1f-47be-bbca-ac3a2ecb5f7c?P1=1775571598&P2=404&P3=2&P4=kEJ4h7NGfx4FyRJR3kZpwkNsoaPolXWkFOiB6hQ2IxUMqatbT14O70p4j%2bYyDVUrrwgjRrSUm2Khb5u1Sn9HFQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/242916ff-9a1f-47be-bbca-ac3a2ecb5f7c?P1=1775571598&P2=404&P3=2&P4=kEJ4h7NGfx4FyRJR3kZpwkNsoaPolXWkFOiB6hQ2IxUMqatbT14O70p4j%2bYyDVUrrwgjRrSUm2Khb5u1Sn9HFQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：148.0.3950.0  
-**文件大小**：187.73 MB  
-**文件名**：MicrosoftEdge_ARM64_148.0.3950.0.exe  
-**校验值（Sha256）**：23af3553584ec2ca5fa3b788afcf11cb5a327a313d242c84e86228cea8cd1bf0  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09754dbf-78e0-4851-a2ff-66790356ae47?P1=1775571598&P2=404&P3=2&P4=OIOeTBkYsakaH1tDWAWwGjv%2fTVG%2bgaZ1otAmpUAZNbi4SqIknUsRVb09O1kYVlCPHxFmL2RcnDvzPS%2bUCbaGhg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09754dbf-78e0-4851-a2ff-66790356ae47?P1=1775571598&P2=404&P3=2&P4=OIOeTBkYsakaH1tDWAWwGjv%2fTVG%2bgaZ1otAmpUAZNbi4SqIknUsRVb09O1kYVlCPHxFmL2RcnDvzPS%2bUCbaGhg%3d%3d)  
+**最新版本**：148.0.3951.0  
+**文件大小**：187.84 MB  
+**文件名**：MicrosoftEdge_ARM64_148.0.3951.0.exe  
+**校验值（Sha256）**：3ceb1c331a799b383aedeb409dc0a2099f7793e74be20bfd7031a432de695db7  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/532d0cfa-7e75-4b38-925c-7e61cc81b4e1?P1=1775604111&P2=404&P3=2&P4=SZ68rU1YNL9zvOLKM8B2StsRSNJeesx%2f1lH4c9xV4pcXUPyrwk25KtN62OatlqM%2b8PQZ1%2bq3vi70DvIn71SJSg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/532d0cfa-7e75-4b38-925c-7e61cc81b4e1?P1=1775604111&P2=404&P3=2&P4=SZ68rU1YNL9zvOLKM8B2StsRSNJeesx%2f1lH4c9xV4pcXUPyrwk25KtN62OatlqM%2b8PQZ1%2bq3vi70DvIn71SJSg%3d%3d)  
 
