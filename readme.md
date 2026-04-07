@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-04-07 06:41:47 (UTC-5)
+2026-04-07 07:49:33 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5c96ac09-679e-4222-bf5e-27827487b020?P1=1776122617&P2=404&P3=2&P4=L3EL4SqntBqvxnHxU7F5HzGiD7a4rQ4aZ62X6LaNtP1nd4gdv0thoKXOi11V1%2fEdeVBcX9M30Y0UjH5ElQwXrQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5c96ac09-679e-4222-bf5e-27827487b020?P1=1776122617&P2=404&P3=2&P4=L3EL4SqntBqvxnHxU7F5HzGiD7a4rQ4aZ62X6LaNtP1nd4gdv0thoKXOi11V1%2fEdeVBcX9M30Y0UjH5ElQwXrQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：148.0.3963.0  
-**文件大小**：187.59 MB  
-**文件名**：MicrosoftEdge_ARM64_148.0.3963.0.exe  
-**校验值（Sha256）**：af2e9b57b73a0e881162ff57fe8f08392b974fad4ae596ece0ab0b9a21bf1d30  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a92ca615-e1c2-41cc-9e83-24994fafcd9b?P1=1776122617&P2=404&P3=2&P4=Z0zfONXOYYIvxDkQX2K93QNSnpPSp3agO0ppvjYiIPr3B4gVpZUAesOO%2fAqoq8UDXMkEq3k7TokTDPIlgdl26g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a92ca615-e1c2-41cc-9e83-24994fafcd9b?P1=1776122617&P2=404&P3=2&P4=Z0zfONXOYYIvxDkQX2K93QNSnpPSp3agO0ppvjYiIPr3B4gVpZUAesOO%2fAqoq8UDXMkEq3k7TokTDPIlgdl26g%3d%3d)  
+**最新版本**：148.0.3964.0  
+**文件大小**：188.39 MB  
+**文件名**：MicrosoftEdge_ARM64_148.0.3964.0.exe  
+**校验值（Sha256）**：3bb00ac0f61b2fd4dd07341fd8597cb1afeec59098673db1c4edcd8caf990f56  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/be5c91bb-d56d-4821-8c9a-cce1f8a4d98f?P1=1776170973&P2=404&P3=2&P4=cg0glcddw5qtSVbDUOLbixDEuTWhaS7aNtGsjTw6XtLvkJGIjbpeVQsmk%2fffg3JmOX%2boE9kgnoIbqDe7S4KmUA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/be5c91bb-d56d-4821-8c9a-cce1f8a4d98f?P1=1776170973&P2=404&P3=2&P4=cg0glcddw5qtSVbDUOLbixDEuTWhaS7aNtGsjTw6XtLvkJGIjbpeVQsmk%2fffg3JmOX%2boE9kgnoIbqDe7S4KmUA%3d%3d)  
 
