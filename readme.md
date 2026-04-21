@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-04-21 13:52:04 (UTC-5)
+2026-04-21 14:56:29 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -96,11 +96,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1d2216dc-aab6-4c3b-923a-e83c4238f490?P1=1777332651&P2=404&P3=2&P4=nZHrYMKUfSIzVmGMZAFj9tRsz8KZXcthL2cQZi7s6QMZho3SkkFdlgjt1kE2tVbjDAxoNLTzRRf0jqDYvgdCYg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1d2216dc-aab6-4c3b-923a-e83c4238f490?P1=1777332651&P2=404&P3=2&P4=nZHrYMKUfSIzVmGMZAFj9tRsz8KZXcthL2cQZi7s6QMZho3SkkFdlgjt1kE2tVbjDAxoNLTzRRf0jqDYvgdCYg%3d%3d)  
 
 ## dev x64
-**最新版本**：148.0.3967.12  
-**文件大小**：183.62 MB  
-**文件名**：MicrosoftEdge_X64_148.0.3967.12.exe  
-**校验值（Sha256）**：6c11c117dac16b149aa2ccd80c811b4b35430c20f5152d7d5e19af3ce481d752  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa0d87f4-7b3c-42a9-ab39-bc3524d1aa92?P1=1777332651&P2=404&P3=2&P4=kTAWsXmQXtDzhp1zBNK0DVEfuZdqQAMV9iTgnIw3zO%2bT130PjrlCbj5nDMvXkTSSIckxohf1RXxkFAvHRKf%2fKA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa0d87f4-7b3c-42a9-ab39-bc3524d1aa92?P1=1777332651&P2=404&P3=2&P4=kTAWsXmQXtDzhp1zBNK0DVEfuZdqQAMV9iTgnIw3zO%2bT130PjrlCbj5nDMvXkTSSIckxohf1RXxkFAvHRKf%2fKA%3d%3d)  
+**最新版本**：149.0.3984.0  
+**文件大小**：184.92 MB  
+**文件名**：MicrosoftEdge_X64_149.0.3984.0.exe  
+**校验值（Sha256）**：f101e1c417d6ad486da07efd1c9269ea9a789fcdf7ad44e1e66d4e8a1293e652  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4246161c-af9e-4074-b19f-1d5ee1b04fd5?P1=1777406185&P2=404&P3=2&P4=eJYB29ASDtBw3gA1jjLLuiIrQl1BMuh9GghpUq55eGD3QX5reLtWbUUq5mHstoeKLNljJIWf2%2bGK9DdWd2L6wg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4246161c-af9e-4074-b19f-1d5ee1b04fd5?P1=1777406185&P2=404&P3=2&P4=eJYB29ASDtBw3gA1jjLLuiIrQl1BMuh9GghpUq55eGD3QX5reLtWbUUq5mHstoeKLNljJIWf2%2bGK9DdWd2L6wg%3d%3d)  
 
 ## dev ARM64
 **最新版本**：148.0.3967.12  
