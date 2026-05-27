@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-05-27 05:51:30 (UTC-5)
+2026-05-27 09:14:53 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/48d263b2-2d41-4c39-bd63-cc126a4ce10e?P1=1780435423&P2=404&P3=2&P4=kUIQNHcF1s3bLmkXJLGTftf4MDorWUw1PbRaYeHCWX9Up1FKwNEzmzmIiMOF4dzYbazzv9NTNNBMkBUBdGKs0g%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/48d263b2-2d41-4c39-bd63-cc126a4ce10e?P1=1780435423&P2=404&P3=2&P4=kUIQNHcF1s3bLmkXJLGTftf4MDorWUw1PbRaYeHCWX9Up1FKwNEzmzmIiMOF4dzYbazzv9NTNNBMkBUBdGKs0g%3d%3d)  
 
 ## canary ARM64
-**最新版本**：150.0.4058.0  
-**文件大小**：192.93 MB  
-**文件名**：MicrosoftEdge_ARM64_150.0.4058.0.exe  
-**校验值（Sha256）**：6aca5776b81323499b8114567ba88b5d9feab1eb397af6dcbda4010024a850e5  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09ba11d4-bb8a-4f91-8bc7-709f2ce42a13?P1=1780435423&P2=404&P3=2&P4=IkisZxZ7VXNDnZK46alEWwSMcSQ49g0JN%2btZLQW8SqYK0pEahvJgB4qs5pHm4S%2bZL1WcrkLE15ZGErNk94TPlA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09ba11d4-bb8a-4f91-8bc7-709f2ce42a13?P1=1780435423&P2=404&P3=2&P4=IkisZxZ7VXNDnZK46alEWwSMcSQ49g0JN%2btZLQW8SqYK0pEahvJgB4qs5pHm4S%2bZL1WcrkLE15ZGErNk94TPlA%3d%3d)  
+**最新版本**：150.0.4059.0  
+**文件大小**：193.09 MB  
+**文件名**：MicrosoftEdge_ARM64_150.0.4059.0.exe  
+**校验值（Sha256）**：8bf3be06efd55347dd2d78950e11769b98eaafae9d3254fb0c18a8f78478cd0c  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e817a258-e5bc-4463-b7ae-11c712f1b58e?P1=1780496093&P2=404&P3=2&P4=gaO9bet%2bebyrr8sNQHDRwg5Ncl1zI23QRvdIQHTi%2bFEkubU7ANd3VZfnqkDUOfRtaXjNlT%2bJnRZXxxr16gZ6IQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e817a258-e5bc-4463-b7ae-11c712f1b58e?P1=1780496093&P2=404&P3=2&P4=gaO9bet%2bebyrr8sNQHDRwg5Ncl1zI23QRvdIQHTi%2bFEkubU7ANd3VZfnqkDUOfRtaXjNlT%2bJnRZXxxr16gZ6IQ%3d%3d)  
 
