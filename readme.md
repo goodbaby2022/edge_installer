@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-06-12 13:54:44 (UTC-5)
+2026-06-12 15:57:46 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9883ae0-c238-4fca-b31e-7b285ea691ec?P1=1781873113&P2=404&P3=2&P4=NkHqIlXhx2mgt3A2J4fKp37skkCW45Tig2zbXEwQDrVIDWwhvh78xcd0fLYqvehVKnxyzTQOOUjCxx6kGoizZQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9883ae0-c238-4fca-b31e-7b285ea691ec?P1=1781873113&P2=404&P3=2&P4=NkHqIlXhx2mgt3A2J4fKp37skkCW45Tig2zbXEwQDrVIDWwhvh78xcd0fLYqvehVKnxyzTQOOUjCxx6kGoizZQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：151.0.4090.0  
-**文件大小**：207.22 MB  
-**文件名**：MicrosoftEdge_ARM64_151.0.4090.0.exe  
-**校验值（Sha256）**：54716b4fec15035c32d4aee723d99e4d287b1e9ad3b8637b24a93b74888e1586  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b1fd1c89-cf33-4e3f-b5c8-31da98f96f53?P1=1781873113&P2=404&P3=2&P4=LZUIvxS5WJF%2bwdlmvVYg0jvUNAn73YLU8o84mMhmcRqIOgSYzR2Bt%2bvGwCOL4%2b6bZRiJvmEkxcR96AjZ9sShsg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b1fd1c89-cf33-4e3f-b5c8-31da98f96f53?P1=1781873113&P2=404&P3=2&P4=LZUIvxS5WJF%2bwdlmvVYg0jvUNAn73YLU8o84mMhmcRqIOgSYzR2Bt%2bvGwCOL4%2b6bZRiJvmEkxcR96AjZ9sShsg%3d%3d)  
+**最新版本**：151.0.4091.0  
+**文件大小**：207.3 MB  
+**文件名**：MicrosoftEdge_ARM64_151.0.4091.0.exe  
+**校验值（Sha256）**：7136a1fa46da4e4f7e70e3160f64f8f4333932c1453374e4eb5afa3d3612cafa  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09d79512-7333-46cc-81da-48ed2db3f4c7?P1=1781902667&P2=404&P3=2&P4=b38%2fNQGxsQtP62e9ZA3mHbtBNueUY9h5DOrTkqaFE9PMSOQGjs4aHQvDXrR3JaQjnSiIUQ8Vzui1i7UWyHiETw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/09d79512-7333-46cc-81da-48ed2db3f4c7?P1=1781902667&P2=404&P3=2&P4=b38%2fNQGxsQtP62e9ZA3mHbtBNueUY9h5DOrTkqaFE9PMSOQGjs4aHQvDXrR3JaQjnSiIUQ8Vzui1i7UWyHiETw%3d%3d)  
 
