@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-07-23 18:44:35 (UTC-5)
+2026-07-23 20:18:15 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5371f5bd-619b-47e8-afe4-7060192b97a3?P1=1785448323&P2=404&P3=2&P4=ENWNk6Vpg%2b4NYFKNPYwimzZi1qs2eU9ST25WES1hVWaKDcuriHcuT6T7y75hM69r3s2Gjh9fIfXTNX%2bmqtNqcQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5371f5bd-619b-47e8-afe4-7060192b97a3?P1=1785448323&P2=404&P3=2&P4=ENWNk6Vpg%2b4NYFKNPYwimzZi1qs2eU9ST25WES1hVWaKDcuriHcuT6T7y75hM69r3s2Gjh9fIfXTNX%2bmqtNqcQ%3d%3d)  
 
 ## canary ARM64
-**最新版本**：152.0.4171.0  
-**文件大小**：237.72 MB  
-**文件名**：MicrosoftEdge_ARM64_152.0.4171.0.exe  
-**校验值（Sha256）**：736579fb3bf9fe47ef3410fcacb8a2bad23a66f6db69d34f11f9378f5010cb9f  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8031a71-1bfc-4cb2-9692-0eb15629d0bb?P1=1785358263&P2=404&P3=2&P4=gJ1iaj5RF%2bbw0D0Y8yLLtoFGCGn4h5vmt%2b48cCuIsL7KJ5gDSMckCJX0%2b%2br%2b4g%2fp5JXs7u89veaZw3jauc7TPA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8031a71-1bfc-4cb2-9692-0eb15629d0bb?P1=1785358263&P2=404&P3=2&P4=gJ1iaj5RF%2bbw0D0Y8yLLtoFGCGn4h5vmt%2b48cCuIsL7KJ5gDSMckCJX0%2b%2br%2b4g%2fp5JXs7u89veaZw3jauc7TPA%3d%3d)  
+**最新版本**：152.0.4174.0  
+**文件大小**：238.26 MB  
+**文件名**：MicrosoftEdge_ARM64_152.0.4174.0.exe  
+**校验值（Sha256）**：e727ff0d86c8ae23628a32b80217ac0c376299f24de4c57d06a1b88843a5b850  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bd9b5c9-8e99-4703-8f69-e6605e1c9324?P1=1785460695&P2=404&P3=2&P4=i9eD24%2bUfEHahURtF9ciUyg5tQ6DUDy%2f7%2fMVDEOOj6gYCxlXLxG2%2bsQedRETqHJcf2sMHFsZf8VlkzB2rDdHNA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3bd9b5c9-8e99-4703-8f69-e6605e1c9324?P1=1785460695&P2=404&P3=2&P4=i9eD24%2bUfEHahURtF9ciUyg5tQ6DUDy%2f7%2fMVDEOOj6gYCxlXLxG2%2bsQedRETqHJcf2sMHFsZf8VlkzB2rDdHNA%3d%3d)  
 
