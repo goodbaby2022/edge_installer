@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-07-27 16:58:24 (UTC-5)
+2026-07-27 17:56:25 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4aebb833-3348-4b0f-8120-6850a3fdf1b8?P1=1785794304&P2=404&P3=2&P4=HMKjgk362iCFelrgwjqNLhSRshbk02FWkFE%2fqF3%2fQjuFGcC4B9%2bxUHnV9GeBNhhLptv6v2msBzaS%2bGAmbSs5bg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4aebb833-3348-4b0f-8120-6850a3fdf1b8?P1=1785794304&P2=404&P3=2&P4=HMKjgk362iCFelrgwjqNLhSRshbk02FWkFE%2fqF3%2fQjuFGcC4B9%2bxUHnV9GeBNhhLptv6v2msBzaS%2bGAmbSs5bg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：152.0.4181.0  
-**文件大小**：237.54 MB  
-**文件名**：MicrosoftEdge_ARM64_152.0.4181.0.exe  
-**校验值（Sha256）**：6e7b2d1e29c651d9a645b901a3a32ddd884a39d46296afa2f2d001b30c60ac78  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d96c08a-7c08-4a29-bbfe-c7d602ccd2c3?P1=1785761169&P2=404&P3=2&P4=QDie8swb%2bm9E2ppGAzQ8BpEOAATCvnhg7PAUHHZYE1kX2elofVosLe2rhoMgGQMgd4mQHBBl8wNLjjj5Vw0mLg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d96c08a-7c08-4a29-bbfe-c7d602ccd2c3?P1=1785761169&P2=404&P3=2&P4=QDie8swb%2bm9E2ppGAzQ8BpEOAATCvnhg7PAUHHZYE1kX2elofVosLe2rhoMgGQMgd4mQHBBl8wNLjjj5Vw0mLg%3d%3d)  
+**最新版本**：152.0.4182.0  
+**文件大小**：237.84 MB  
+**文件名**：MicrosoftEdge_ARM64_152.0.4182.0.exe  
+**校验值（Sha256）**：6020e374e0676e59a8d8cfaf0e8a2822cee95b620cba92961374e8c016cba399  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/767c4363-886e-406c-b97c-337083fc51de?P1=1785797786&P2=404&P3=2&P4=jlkep8nMdol%2fPzNlSNib9SRUP8yjqU0NLl5brRWS%2f31zyOnLdhLahlvFrhnAiPXXzWhgkY4rgxINg306NOJSAg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/767c4363-886e-406c-b97c-337083fc51de?P1=1785797786&P2=404&P3=2&P4=jlkep8nMdol%2fPzNlSNib9SRUP8yjqU0NLl5brRWS%2f31zyOnLdhLahlvFrhnAiPXXzWhgkY4rgxINg306NOJSAg%3d%3d)  
 
