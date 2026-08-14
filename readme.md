@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-08-14 07:33:46 (UTC-5)
+2026-08-14 09:05:01 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9e7e075-2915-4a49-ab30-18c6a154cd7e?P1=1787261478&P2=404&P3=2&P4=Mk%2beUesb5lw8%2bLTPNr0dYFD%2f9Ncift7FV3qfJKJlHcOUjnQ4WxYNIcVo3DBpSIcmSnJ9tAaGdmN2VRs%2fQbNMeA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c9e7e075-2915-4a49-ab30-18c6a154cd7e?P1=1787261478&P2=404&P3=2&P4=Mk%2beUesb5lw8%2bLTPNr0dYFD%2f9Ncift7FV3qfJKJlHcOUjnQ4WxYNIcVo3DBpSIcmSnJ9tAaGdmN2VRs%2fQbNMeA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：153.0.4217.0  
-**文件大小**：240.11 MB  
-**文件名**：MicrosoftEdge_ARM64_153.0.4217.0.exe  
-**校验值（Sha256）**：ce2ef1319ab363cd6c86eae7eda3f9b2792b5895366203d81d80705024e2ab26  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/57565d11-0983-4c8d-a2d8-877d83702e8a?P1=1787264836&P2=404&P3=2&P4=kDIDudcudmihHRiYGntowNfIvyj8vYUOl1iiVDbvb5zGa64%2bjh6UC14%2b67J5C3a7d4AWWhT%2bviEcKT4GmUOkqQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/57565d11-0983-4c8d-a2d8-877d83702e8a?P1=1787264836&P2=404&P3=2&P4=kDIDudcudmihHRiYGntowNfIvyj8vYUOl1iiVDbvb5zGa64%2bjh6UC14%2b67J5C3a7d4AWWhT%2bviEcKT4GmUOkqQ%3d%3d)  
+**最新版本**：153.0.4218.0  
+**文件大小**：240.08 MB  
+**文件名**：MicrosoftEdge_ARM64_153.0.4218.0.exe  
+**校验值（Sha256）**：1abc1fafca8eb90096e59e07f6954ecb51af868395dc3419e6943415d8b85d93  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf686832-6f56-499c-ac52-474f33a589e7?P1=1787321102&P2=404&P3=2&P4=KzlFpZLkJgwxHJ5RWlvseY%2bFhKW6s4hW8uZEkIUdJWFL1zGp8NG0LcsbZ2K%2bd8dgDfGaym%2fNGzJr43%2bqm57NFg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bf686832-6f56-499c-ac52-474f33a589e7?P1=1787321102&P2=404&P3=2&P4=KzlFpZLkJgwxHJ5RWlvseY%2bFhKW6s4hW8uZEkIUdJWFL1zGp8NG0LcsbZ2K%2bd8dgDfGaym%2fNGzJr43%2bqm57NFg%3d%3d)  
 
