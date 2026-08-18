@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-08-18 08:32:36 (UTC-5)
+2026-08-18 09:18:51 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bc3a0e6-9b20-4d02-b172-bec5a4e63041?P1=1787664757&P2=404&P3=2&P4=n6tb4Wqoo1VMhMUMQDzjdM5ui%2bQR%2bog8pSipXsWcYFqmrTmCs4pBz72cOn2%2bXCFSqDQ6UG7WJU6Cqia1mrBsHw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/6bc3a0e6-9b20-4d02-b172-bec5a4e63041?P1=1787664757&P2=404&P3=2&P4=n6tb4Wqoo1VMhMUMQDzjdM5ui%2bQR%2bog8pSipXsWcYFqmrTmCs4pBz72cOn2%2bXCFSqDQ6UG7WJU6Cqia1mrBsHw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：153.0.4225.0  
-**文件大小**：241.73 MB  
-**文件名**：MicrosoftEdge_ARM64_153.0.4225.0.exe  
-**校验值（Sha256）**：45833e264ed227f67e2c54cba4b70faf58eb91e5495dd6087bc034267c9b24ed  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a0e6168-5bbe-4d6e-803a-22285c8e4e59?P1=1787612995&P2=404&P3=2&P4=Ycg8VelGC7En8O%2by5yPR8Ei0HL7y2Hy3RMmrnB53cZ%2btLIHYAX%2f0fzS6Xgjju9yrhLJzSZbVWnfvrfMdfDHUWA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9a0e6168-5bbe-4d6e-803a-22285c8e4e59?P1=1787612995&P2=404&P3=2&P4=Ycg8VelGC7En8O%2by5yPR8Ei0HL7y2Hy3RMmrnB53cZ%2btLIHYAX%2f0fzS6Xgjju9yrhLJzSZbVWnfvrfMdfDHUWA%3d%3d)  
+**最新版本**：153.0.4226.0  
+**文件大小**：242.02 MB  
+**文件名**：MicrosoftEdge_ARM64_153.0.4226.0.exe  
+**校验值（Sha256）**：c1b2355c8a22638cfbf61e863902787ce590291d6328d1e1416975034be7aee2  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7fbaace3-e148-4e21-9522-cae39a397a18?P1=1787667532&P2=404&P3=2&P4=hvb0pteXMExgmgPyddrQRhV9j1Fl1GgELTISSzo7UqjJc7wtFzk%2fV%2fhGMePOsaJR4C%2fMbK%2b%2fRNawj0G440U5VA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7fbaace3-e148-4e21-9522-cae39a397a18?P1=1787667532&P2=404&P3=2&P4=hvb0pteXMExgmgPyddrQRhV9j1Fl1GgELTISSzo7UqjJc7wtFzk%2fV%2fhGMePOsaJR4C%2fMbK%2b%2fRNawj0G440U5VA%3d%3d)  
 
