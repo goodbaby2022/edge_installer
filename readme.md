@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2026-08-21 08:34:36 (UTC-5)
+2026-08-21 09:21:04 (UTC-5)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/06a4a9d2-1abc-49d2-9fb0-bd80923eb84f?P1=1787924076&P2=404&P3=2&P4=Qftjl0bti8vFEcyTCR8Egd6pbwv11pr%2f8lVvngBaMn9ETrWKte5CkNBEJ5XXMOJjMppisXyDkUxipUM8gykwxA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/06a4a9d2-1abc-49d2-9fb0-bd80923eb84f?P1=1787924076&P2=404&P3=2&P4=Qftjl0bti8vFEcyTCR8Egd6pbwv11pr%2f8lVvngBaMn9ETrWKte5CkNBEJ5XXMOJjMppisXyDkUxipUM8gykwxA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：153.0.4231.0  
-**文件大小**：240.8 MB  
-**文件名**：MicrosoftEdge_ARM64_153.0.4231.0.exe  
-**校验值（Sha256）**：38cc27101f5ae875df6875861510cb4fd46b6b16ed51307b5567f8bd1c16a049  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/488de94c-0dc8-447b-a03d-188647880902?P1=1787872380&P2=404&P3=2&P4=KNYthaLxFAVt7j8S%2f5vpbcgK32S%2bMwd4p2ISJU4KjR1lrg33XeZLWAk4mWAU5DoPMvHTDZwBuN5MProSeI0LwQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/488de94c-0dc8-447b-a03d-188647880902?P1=1787872380&P2=404&P3=2&P4=KNYthaLxFAVt7j8S%2f5vpbcgK32S%2bMwd4p2ISJU4KjR1lrg33XeZLWAk4mWAU5DoPMvHTDZwBuN5MProSeI0LwQ%3d%3d)  
+**最新版本**：153.0.4232.0  
+**文件大小**：240.91 MB  
+**文件名**：MicrosoftEdge_ARM64_153.0.4232.0.exe  
+**校验值（Sha256）**：7dcb17ec415e959b924bbaa455502fb678ecae9b2836610ca6d7512e8daa1861  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/437aa4cc-2ced-44f7-83be-2268cb5364f7?P1=1787926865&P2=404&P3=2&P4=DOUdTe77RENsjHOhEQBKgl3TgavF3E2DhiYeVnkQK8t9ayg6NKQu5mpXvFoiAMGHuyfUKuvyU5if2lrj6lU2sQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/437aa4cc-2ced-44f7-83be-2268cb5364f7?P1=1787926865&P2=404&P3=2&P4=DOUdTe77RENsjHOhEQBKgl3TgavF3E2DhiYeVnkQK8t9ayg6NKQu5mpXvFoiAMGHuyfUKuvyU5if2lrj6lU2sQ%3d%3d)  
 
