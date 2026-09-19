@@ -96,12 +96,12 @@
         "version": "155.0.4273.0"
     },
     "msedge-canary-win-x86": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_156.0.4286.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f3d99f2b-fe6f-441e-bbd5-1623481ec765?P1=1790349378&P2=404&P3=2&P4=BTcsEFicrLD46Jj2yyajghtdgOhhLJTxD1Jg%2fRzaLuf5U3ahQudUmVpck4dCheDoHtUCSi2u2L2xbP3wl%2fWynw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 183722320,
-        "Sha1": "Ruvrz1/EdlaI0g4denWppuDBkZI=",
-        "Sha256": "a1bc105eed16967121eb001fa66b23e1915b21211e496e61164b8d19a2584a02",
-        "version": "156.0.4286.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_156.0.4287.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/119d4b1e-268c-47a4-97c1-0834d5afa2dd?P1=1790387316&P2=404&P3=2&P4=FsZW3Lpp99blQ8QYAZelbJzdJhm6FTlr5ziHLa6peogOsDW0obl9cgYRoaCPQLf%2f6pDIFJNI%2f%2bliC00FxJ5Hxg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 184722256,
+        "Sha1": "5ryjJJykOCK+vreYgYh4Jo+X4mQ=",
+        "Sha256": "ad7567a0ff31d827c4ef06949f93f6b26c59c691d5c165314728710a8313d7f7",
+        "version": "156.0.4287.0"
     },
     "msedge-canary-win-x64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_156.0.4287.0.exe",
@@ -112,11 +112,11 @@
         "version": "156.0.4287.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_156.0.4286.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/94ae9c40-f50b-49c1-bc78-1d5980319e2c?P1=1790349381&P2=404&P3=2&P4=VVHcNUH4PKKTb1cgaTEMKApW62rGI9GK6bMuYy4zDQaRpgofJTrLN%2b0NYZmGpY%2bz2mOlNQL2tgGuxXoypzIW1w%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 210909008,
-        "Sha1": "QPgv8h8uL9uUc5H3T81zB7P1bhE=",
-        "Sha256": "a203ae7d9f00d3b6836910acf6235f688b6cf2b19f608c6fe77ba6581b369d3e",
-        "version": "156.0.4286.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_156.0.4287.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b6ffb2d0-47fa-46d6-9e86-ab925419cc60?P1=1790387318&P2=404&P3=2&P4=KbzMXz9W82mDV9tmA127p%2f1TmFjaowfcMjWTScnAUH%2fChTnSzN%2fGuU24hSbhlAAQPxSdhtQqAf0qUL52fBclXA%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 211369808,
+        "Sha1": "ou3rhqJP1ecFe01SBCYlRT+tGwk=",
+        "Sha256": "0bca0bb8f357d2f5f0c4d458cf5a07b9a830c7df5365dc31866566a99b6edceb",
+        "version": "156.0.4287.0"
     }
 }
